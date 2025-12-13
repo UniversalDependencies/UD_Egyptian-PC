@@ -40233,7 +40233,7 @@
 1	n(.ꞽ)	n	ADJ	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes	0	root	_	Hiero=𓈖|Nisba=DePrep
 2	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Hiero=𓇓𓅱|Pron=Dep
 3	ꞽ:rḫ.w	rḫ	VERB	_	Gender=Masc|Nominal=Yes|Number=Plur|Prefix=Yodh|Tense=Pres|VerbClass=2lit|VerbForm=Part|Voice=Act	1	obl	_	Hiero=𓇋(𓂋:𓐍)𓅱
-4	čw	čw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obj:nisba	_	Hiero=𓍿𓅱|Pron=Dep
+4	čw	čw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl:nisba	_	Hiero=𓍿𓅱|Pron=Dep
 
 # sent_id = PT_Sethe_311_495b-c_Unas
 # title = PT
@@ -56157,7 +56157,7 @@
 3	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	Hiero=𓆑|Pron=SFP
 4	Wr	Wr	PROPN	_	Gender=Masc|Number=Sing	1	nsubj	_	Hiero=(𓅨:𓂋)|Name=Epith
 5	pn	pn	DET	_	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	Hiero=(𓊪:𓈖)
-6	ꞽ:bꜣn(.w)	bꜣni̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Prefix=Yodh|Person=3|VerbClass=4aeinf|VerbForm=Fin	1	advcl	_	Hiero=𓇋𓃀𓅡𓄿𓈖𓁀|Hierocl=𓁀|OSSC=Stat
+6	ꞽ:bꜣn(.w)	bꜣni̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Prefix=Yodh|VerbClass=4aeinf|VerbForm=Fin	1	advcl	_	Hiero=𓇋𓃀𓅡𓄿𓈖𓁀|Hierocl=𓁀|OSSC=Stat
 7	r	r	ADP	_	_	8	case	_	Hiero=𓂋|Status=Pron
 8	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	Hiero=𓆑|Pron=SFP
 
@@ -64425,7 +64425,7 @@
 11	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	obl:arg	_	Hiero=𓎡|Pron=SFP
 12	ꜥw.w(ꞽ)	ꜥw	NOUN	_	Gender=Masc|Number=Dual	9	nsubj:pass	_	Hiero=𓂝𓅱|MWE=Yes
 13	hꜣ	hꜣi̯	VERB	_	Mood=Ind|SubForm=Pred|Tense=Fut|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	9	conj	_	Hiero=𓉔𓄿|SPC=Fut
-14	n	n	ADP	_	_	14	case	_	Hiero=𓈖|Status=Pron
+14	n	n	ADP	_	_	15	case	_	Hiero=𓈖|Status=Pron
 15	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	obl:arg	_	Hiero=𓎡|Pron=SFP
 16	rw.t	rw.t	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	Hiero=𓂋𓅱𓏏UC_139C4|Hierocl=UC_139C4
 
