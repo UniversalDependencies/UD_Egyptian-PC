@@ -9639,7 +9639,7 @@
 4	č̣i̯	rč̣i̯	VERB	_	VerbClass=Anom	1	ccomp:speech	_	Hiero=𓏙
 5	nsw	nsw	NOUN	_	Gender=Masc|Number=Sing	4	dep	_	Hiero=𓇓𓏏|TransHon=Yes
 6-7	ḥtp-č̣i̯	_	_	_	_	_	_	_	Hiero=𓅭𓃀𓊵𓏏𓏙
-6	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	6	dep	_	Hiero=𓊵𓏏
+6	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	7	dep	_	Hiero=𓊵𓏏
 7	č̣i̯	rč̣i̯	VERB	_	VerbClass=Anom	4	conj	_	Hiero=𓏙
 8	Gbb	Gbb	NOUN	_	Gender=Masc|Number=Sing	7	dep	_	Hiero=𓅭𓃀
 9	n	n	ADP	_	_	10	case	_	Hiero=𓈖|Status=Cons
@@ -41406,7 +41406,7 @@
 8	⸗ś	ś	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Hiero=𓋴|Pron=SFP
 9	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	7	obj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
 10	n	n	ADP	_	_	11	case	_	Hiero=𓈖|Status=Cons
-11	ḳnꞽ	ḳnꞽ	ADJ	_	Nominal=Yes|Gender=Masc|Number=Sing	7	obl:arg	_	ADJ=Yes|Hiero=(𓈎:𓈖)𓇋|Lim=Yes
+11	ḳnꞽ	ḳnꞽ	ADJ	_	Gender=Masc|Nominal=Yes|Number=Sing	7	obl:arg	_	ADJ=Yes|Hiero=(𓈎:𓈖)𓇋|Lim=Yes
 12	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	11	compound:a	_	Hiero=(𓁷:𓏤)|Hierocl=𓏤
 13	nb	nb	NOUN	_	Gender=Masc|Number=Sing	11	appos	_	Hiero=𓎟
 14	šśtꜣ	šśtꜣ	NOUN	_	Gender=Masc|Number=Sing	13	nmod:poss	_	Hiero=𓈙𓋴𓄿𓏏𓇱𓇱𓇱|Hierocl=𓇱𓇱𓇱
