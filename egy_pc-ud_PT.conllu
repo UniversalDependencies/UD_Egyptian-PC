@@ -488,7 +488,7 @@
 6	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	Hiero=𓇋(𓏏:𓆑)
 7	⸗č	č	PRON	_	Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nmod	_	Hiero=𓍿|Pron=SFP
 8	Šw	Šw	PROPN	_	Gender=Masc	6	appos	_	Hiero=𓆄𓅱|Name=God
-9	rḫ(.w)	rḫ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin|Voice=Act	3	ccomp:speech	_	Hiero=(𓂋:𓐍)|OSSC=Pres
+9	rḫ(.w)	rḫ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin|Voice=Act	3	ccomp:speech	_	Hiero=(𓂋:𓐍)|OSSC=Pres
 10	mrr	mri̯	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Pres|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	9	ccomp:obj	_	Hiero=𓌸(𓂋:𓂋)|SPC=Pres
 11	⸗č	č	PRON	_	Gender=Fem|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	Hiero=𓍿|Pron=SFP
 12	Ttꞽ	Ttꞽ	PROPN	_	Gender=Masc	10	obj	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺|Name=King
@@ -1350,7 +1350,7 @@
 # trans = “You and your ka have gone too.”
 # type = Verbal sentence
 # comment = cf. Allen 1984: § 590.
-1	sꞽ.t(ꞽ)	sꞽ	VERB	_	Gender=Com|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓊄:𓏏)|OSSC=Initial
+1	sꞽ.t(ꞽ)	sꞽ	VERB	_	Conjug=AfroAsia|Gender=Com|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbClass=2lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓊄:𓏏)|OSSC=Initial
 2	č̣ṭk	č̣ṭk	ADV	_	_	1	advmod	_	Hiero=(𓆓:𓂧)𓊽𓎡
 3	ḥnꜥ	ḥnꜥ	ADP	_	Case=Com	4	case	_	Hiero=𓎛(𓈖:𓂝)|Status=Cons
 4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓂓
@@ -1875,11 +1875,11 @@
 7	ꞽpn	ꞽpn	DET	_	Gender=Masc|Number=Plur|PronType=Dem	5	det	_	Hiero=𓇋(𓊪:𓈖)
 8	hꜣ	hꜣ	INTJ	_	_	9	discourse	_	Hiero=𓉔𓄿
 9	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	10	vocative	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
-10	pr.w	pri̯	VERB	_	Gender=Com|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓉐:𓂋)𓅱|OSSC=Past
+10	pr.w	pri̯	VERB	_	Conjug=AfroAsia|Gender=Com|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓉐:𓂋)𓅱|OSSC=Past
 11	ḫr	ḫr	ADP	_	Case=Ela	12	case	_	Hiero=(𓐍:𓂋)|Status=Cons
 12	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	Hiero=𓅭
 13	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	12	nmod	_	Hiero=𓎡|Pron=SFP
-14	pr.w	pri̯	VERB	_	Gender=Com|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	10	conj	_	Hiero=(𓉐:𓂋)𓅱|OSSC=Past
+14	pr.w	pri̯	VERB	_	Conjug=AfroAsia|Gender=Com|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	10	conj	_	Hiero=(𓉐:𓂋)𓅱|OSSC=Past
 15	ḫr	ḫr	ADP	_	Case=Ela	16	case	_	Hiero=(𓐍:𓂋)|Status=Cons
 16	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	14	obl	_	Hiero=𓅃|Name=God
 
@@ -16042,7 +16042,7 @@
 6	Č̣ḥw.tꞽ	Č̣ḥw.tꞽ	PROPN	_	Gender=Masc	4	conj	_	Hiero=𓅝|Name=God
 7	śn(.wꞽ)	śn	NOUN	_	Gender=Masc|Number=Dual	9	nsubj	_	Hiero=𓌢𓌢
 8	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	7	nmod	_	Hiero=𓎡|Pron=SFP
-9	ꞽ:ḫm.w(ꞽ)	ḫm	VERB	_	Gender=Masc|Mood=Ind|Number=Dual|Person=3|Polarity=Neg|Prefix=Yodh|VerbClass=2lit|VerbForm=Fin	0	root	_	Hiero=𓇋𓐍𓅓𓅱|OSSC=Pres
+9	ꞽ:ḫm.w(ꞽ)	ḫm	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Dual|Person=3|Polarity=Neg|Prefix=Yodh|VerbClass=2lit|VerbForm=Fin	0	root	_	Hiero=𓇋𓐍𓅓𓅱|OSSC=Pres
 10	rm(.w)	rmi̯	VERB	_	VerbClass=3aeinf|VerbForm=Inf	9	obl	_	Hiero=UC_No𓅓|Inf=NegCom
 11	čw	čw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	obj	_	Hiero=𓍿𓅱
 
@@ -16447,7 +16447,7 @@
 5	p(w)	pw	DET	_	ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	Hiero=𓊪
 6	nn	nn	ADV	_	AdvType=Loc	5	fixed	_	Hiero=𓇒
 7	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	5	appos	_	Hiero=(𓊨:𓁹)|Name=God
-8	č̣.y	rč̣i̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=Anom|VerbForm=Fin	5	parataxis	_	Hiero=𓏙𓇋𓇋|Imprs=Third|OSSC=Pass
+8	č̣.y	rč̣i̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Pass	5	parataxis	_	Hiero=𓏙𓇋𓇋|Imprs=Third|OSSC=Pass
 9	śč̣b	śč̣b	VERB	_	Conjug=Suffix|Mood=Sub|VerbClass=3lit|VerbForm=Fin	8	advcl:purp	_	Hiero=𓋴(𓆓:𓃀)|SPC=Sub
 10	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Hiero=𓆑|Pron=SFP
 11	ꜥnḫ	ꜥnḫ	VERB	_	Conjug=Suffix|Mood=Sub|VerbClass=3lit|VerbForm=Fin	9	conj	_	Hiero=𓋹|SPC=Sub
@@ -16505,7 +16505,7 @@
 5	p(w)	pw	DET	_	ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	Hiero=𓊪
 6	nn	nn	ADV	_	AdvType=Loc	5	fixed	_	Hiero=𓇒
 7	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	5	appos	_	Hiero=(𓊨:𓁹)|Name=God
-8	č̣.y	rč̣i̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=Anom|VerbForm=Fin	5	parataxis	_	Hiero=𓏙𓇋𓇋|Imprs=Third|OSSC=Pass
+8	č̣.y	rč̣i̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Pass	5	parataxis	_	Hiero=𓏙𓇋𓇋|Imprs=Third|OSSC=Pass
 9	śč̣b	śč̣b	VERB	_	Conjug=Suffix|Mood=Sub|VerbClass=3lit|VerbForm=Fin	8	advcl:purp	_	Hiero=𓋴(𓆓:𓃀)|SPC=Sub
 10	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Hiero=𓆑|Pron=SFP
 11	ꜥnḫ	ꜥnḫ	VERB	_	Conjug=Suffix|Mood=Sub|VerbClass=3lit|VerbForm=Fin	9	conj	_	Hiero=𓋹|SPC=Sub
@@ -16940,7 +16940,7 @@
 # comment = No
 1	mt(w).t	mtw.t	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	Hiero=𓅓(𓏏:𓂸)
 2	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	1	nmod	_	Hiero=𓎡|Pron=SFP
-3	pr.t(ꞽ)	pri̯	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓉐:𓂋:𓏏)|OSSC=Past
+3	pr.t(ꞽ)	pri̯	VERB	_	Conjug=AfroAsia|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓉐:𓂋:𓏏)|OSSC=Past
 4	ꞽm	m	ADP	_	Case=Ela	5	case	_	Hiero=𓇋𓅓|Status=Pron
 5	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	Hiero=𓎡|Pron=SFP
 6	śpṭ.t(ꞽ)	śpṭ	VERB	_	Aspect=Stat|Conjug=AfroAsia|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbClass=3lit|VerbForm=Fin	3	advcl	_	Hiero=𓋴𓇮(𓊪:𓂧)𓏏|OSSC=Stat
@@ -17890,7 +17890,7 @@
 # comment = No
 1	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	Hiero=𓇿
 2	pn	pn	DET	_	Gender=Masc|Number=Sing|PronType=Dem	1	det	_	Hiero=(𓊪:𓈖)
-3	[pr(.w)]	pri̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=No|OSSC=Past
+3	[pr(.w)]	pri̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=No|OSSC=Past
 4	[m]	m	ADP	_	Case=Ela	5	case	_	Hiero=No|Status=Cons
 5	[(Ꞽ)tm(.w)]	Ꞽtm.w	PROPN	_	Gender=Masc	3	obl	_	Hiero=No|Name=God
 
@@ -17910,7 +17910,7 @@
 # type = Verbal sentence
 # comment = No
 1	[nšš]	nšš	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	Hiero=No
-2	pr(.w)	pri̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓉐:𓂋)|OSSC=Past
+2	pr(.w)	pri̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓉐:𓂋)|OSSC=Past
 3	m	m	ADP	_	Case=Ela	4	case	_	Hiero=𓅓|Status=Cons
 4	Ḫprr	Ḫprr	PROPN	_	Gender=Masc	2	obl	_	Hiero=𓆣(𓂋:𓂋)|Name=God
 
@@ -21385,7 +21385,7 @@
 1-2	ꞽm(.ꞽ)-ꞽbw	_	_	_	_	_	_	_	Hiero=𓇋𓅓𓇋𓃀𓅱𓈓
 1	ꞽm(.ꞽ)	m	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	3	nsubj	_	Hiero=𓇋𓅓|Nisba=DePrep
 2	ꞽbw	ꞽbw	NOUN	_	Gender=Masc|Number=Sing	1	nmod:nisba	_	Hiero=𓇋𓃀𓅱𓈓|Hierocl=𓈓
-3	skr(.w)	skr	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=3lit|VerbForm=Fin	0	root	_	Hiero=(𓊃:𓎡:𓂋)|OSSC=Past
+3	skr(.w)	skr	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=3lit|VerbForm=Fin	0	root	_	Hiero=(𓊃:𓎡:𓂋)|OSSC=Past
 4	ꞽr	r	ADP	_	Case=All	5	case	_	Hiero=𓇋𓂋|Status=Cons
 5	pr	pr	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	Hiero=(𓉐:𓏤)|Hierocl=𓏤
 6	n(.ꞽ)	n	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	Hiero=𓈖|Nisba=DePrep
@@ -24607,7 +24607,7 @@
 9	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Hiero=𓆑|Pron=SFP
 10	ꞽw(i̯).t	ꞽwi̯	VERB	_	Gender=Masc|VerbClass=Anom|VerbForm=Inf	8	ccomp:obj	_	Hiero=𓂻𓏏𓅱
 11	ꞽm	ꞽm	ADV	_	AdvType=Loc	8	advmod	_	Hiero=𓇋𓅓
-12	ꞽ(.w)	ꞽ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓏤|Hierocl=𓏤|OSSC=Say
+12	ꞽ(.w)	ꞽ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓏤|Hierocl=𓏤|OSSC=Say
 13	ꞽn	ꞽn	ADP	_	_	14	case	_	Hiero=𓇋𓈖|Status=Cons
 14-15	Wr-śkꜣ.t	_	_	_	_	_	_	_	Hiero=𓅨𓋴𓂓(𓍁:𓏏)
 14	Wr	wr	NOUN	_	Gender=Masc|Number=Sing	12	dislocated:obl	_	Hiero=𓅨|Name=Epith
@@ -24789,7 +24789,7 @@
 4	ẖnm.n	ẖnm	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=Pred|Tense=Past|VerbClass=3lit|VerbForm=Fin|Voice=Act	1	advcl:tcl	_	Hiero=𓎸𓈖|SPC=Past-2
 5	(⸗ꞽ)	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Hiero=No|Pron=SFP
 6	čw	čw	PRON	_	Gender=Com|Number=Sing|Person=2|PronType=Prs	4	obj	_	Hiero=𓍿𓅱|Pron=Dep
-7	ꞽ.t(ꞽ)	ꞽ	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓏏|OSSC=Say
+7	ꞽ.t(ꞽ)	ꞽ	VERB	_	Conjug=AfroAsia|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓏏|OSSC=Say
 8	ꞽn	ꞽn	ADP	_	_	9	case	_	Hiero=𓇋𓈖|Status=Cons
 9	ꞽmn.t	ꞽmn.t	NOUN	_	Gender=Fem|Number=Sing	7	dislocated:obl	_	Hiero=UC_13C7F
 10	nfr.t	nfr	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	Hiero=𓄤(𓂋:𓏏)
@@ -24824,7 +24824,7 @@
 11	ḥr(.ꞽ)	ḥr	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	Hiero=(𓁷:𓂋)|Nisba=DePrep
 12	ḳꜣ.t	ḳꜣ.t	NOUN	_	Gender=Fem|Number=Sing	11	nmod:nisba	_	Hiero=𓈎𓄿𓏏
 13	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod	_	Hiero=𓆑|Pron=SFP
-14	ꞽ(.w)	ꞽ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓏤|Hierocl=𓏤|OSSC=Say
+14	ꞽ(.w)	ꞽ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓏤|Hierocl=𓏤|OSSC=Say
 15	ꞽn	ꞽn	ADP	_	_	16	case	_	Hiero=𓇋𓈖|Status=Cons
 16	ḫnt(.ꞽ)	ḫnt	NOUN	_	Gender=Masc|Number=Sing	14	dislocated:obl	_	Hiero=𓏅𓏏|Nisba=DePrep
 17	mnꞽ.t	mnꞽ.t	NOUN	_	Gender=Fem|Number=Sing	16	nmod:nisba	_	Hiero=(𓏠:𓈖)𓇋𓏏
@@ -27830,7 +27830,7 @@
 # comment = No
 1	śk	ꞽśk	PART	_	_	2	discourse	_	Hiero=𓋴𓎡
 2	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	3	nsubj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
-3	pr(.w)	pri̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓉐:𓂋)|OSSC=Past
+3	pr(.w)	pri̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓉐:𓂋)|OSSC=Past
 4	m	m	ADP	_	_	5	case	_	Hiero=𓅓|Status=Cons
 5	hrw	hrw	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	Hiero=(𓉔:𓂋)𓅱𓇳|Hierocl=𓇳
 6	pn	pn	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	Hiero=(𓊪:𓈖)
@@ -28387,7 +28387,7 @@
 10	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	Hiero=𓇓𓅱|Pron=Dep
 11	śč	ꞽśč	SCONJ	_	_	13	mark	_	Hiero=𓋴𓍿|Particle=Yes
 12	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	Hiero=𓇓𓅱|Pron=Dep
-13	rḫ(.w)	rḫ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin|Voice=Act	9	conj	_	Hiero=(𓂋:𓐍)|OSSC=Pres
+13	rḫ(.w)	rḫ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin|Voice=Act	9	conj	_	Hiero=(𓂋:𓐍)|OSSC=Pres
 14	čw	čw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	obj	_	Hiero=𓍿𓅱|Pron=Dep
 
 # sent_id = PT_Sethe_262_327a_Teti
@@ -28438,7 +28438,7 @@
 7	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Hiero=𓇓𓅱|Pron=Dep
 8	ꞽ:rḫ(.w)	rḫ	VERB	_	Aspect=Stat|Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Prefix=Yodh|VerbClass=2lit|VerbForm=Fin	3	advcl	_	Hiero=𓇋(𓂋:𓐍)|OSSC=Stat
 9	čw	čw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	obj	_	Hiero=(𓍿:𓅱)|Pron=Dep
-10	ꞽ:č̣ṭ(.w)	č̣ṭ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Prefix=Yodh|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	8	advcl	_	Hiero=(𓇋𓆓:𓂧)|Imprs=Third|OSSC=Pres
+10	ꞽ:č̣ṭ(.w)	č̣ṭ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Prefix=Yodh|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	8	advcl	_	Hiero=(𓇋𓆓:𓂧)|Imprs=Third|OSSC=Pres
 11	ꞽr	r	ADP	_	_	12	case	_	Hiero=𓇋𓂋|Status=Pron
 12	<⸗k>	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	obl	_	Hiero=No|Pron=SFP
 13	śk	śki̯	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=3aeinf|VerbForm=Part|Voice=Act	10	ccomp:speech	_	Hiero=𓋴𓎡
@@ -28468,7 +28468,7 @@
 8	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	Hiero=𓇓𓅱|Pron=Dep
 9	śč	ꞽśč	SCONJ	_	_	11	mark	_	Hiero=𓋴𓍿|Particle=Yes
 10	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Hiero=𓇓𓅱|Pron=Dep
-11	ꞽ:rḫ(.w)	rḫ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin|Voice=Act	7	conj	_	Hiero=𓇋(𓂋:𓐍)|OSSC=Pres
+11	ꞽ:rḫ(.w)	rḫ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin|Voice=Act	7	conj	_	Hiero=𓇋(𓂋:𓐍)|OSSC=Pres
 12	čw	čw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	obj	_	Hiero=𓍿𓅱|Pron=Dep
 
 # sent_id = PT_Sethe_262_328b-c_Unas
@@ -28490,7 +28490,7 @@
 2	ḫm(.w)	ḫm	VERB	_	Polarity=Neg|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=(𓐍:𓂜)𓅓|Hierocl=𓂜|Inf=NegCom
 3	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	2	obj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
 4	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	2	vocative	_	Hiero=𓇳|Name=God
-5	č̣ṭ(.w)	č̣ṭ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	2	advcl	_	Hiero=(𓆓:𓂧)|Imprs=Third|OSSC=Pres
+5	č̣ṭ(.w)	č̣ṭ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	2	advcl	_	Hiero=(𓆓:𓂧)|Imprs=Third|OSSC=Pres
 6	ꞽr	r	ADP	_	_	7	case	_	Hiero=𓇋𓂋|Status=Pron
 7	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl	_	Hiero=𓎡|Pron=SFP
 8	ꜥꜣ	ꜥꜣi̯	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=3aeinf|VerbForm=Part|Voice=Act	5	ccomp:speech	_	Hiero=(𓉻:𓂝)𓄿
@@ -28522,7 +28522,7 @@
 7	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Hiero=𓇓𓅱|Pron=Dep
 8	ꞽ:rḫ(.w)	rḫ	VERB	_	Aspect=Stat|Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Prefix=Yodh|VerbClass=2lit|VerbForm=Fin	3	advcl	_	Hiero=𓇋(𓂋:𓐍)|OSSC=Stat
 9	čw	čw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	obj	_	Hiero=(𓍿:𓅱)|Pron=Dep
-10	ꞽ:č̣ṭ(.w)	č̣ṭ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Prefix=Yodh|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	8	advcl	_	Hiero=𓇋(𓆓:𓂧)|Imprs=Third|OSSC=Pres
+10	ꞽ:č̣ṭ(.w)	č̣ṭ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Prefix=Yodh|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	8	advcl	_	Hiero=𓇋(𓆓:𓂧)|Imprs=Third|OSSC=Pres
 11	ꞽr	r	ADP	_	_	12	case	_	Hiero=𓇋𓂋|Status=Pron
 12	<⸗k>	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	obl	_	Hiero=Pron=SFP
 13	wꜣš	wꜣš	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=3lit|VerbForm=Part|Voice=Act	10	ccomp:speech	_	Hiero=𓍯𓈙
@@ -28555,7 +28555,7 @@
 8	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	Hiero=𓇓𓅱|Pron=Dep
 9	śč	ꞽśč	SCONJ	_	_	11	mark	_	Hiero=𓋴𓍿|Particle=Yes
 10	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Hiero=𓇓𓅱|Pron=Dep
-11	ꞽ:rḫ(.w)	rḫ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin|Voice=Act	7	conj	_	Hiero=𓇋(𓂋:𓐍)|OSSC=Pres
+11	ꞽ:rḫ(.w)	rḫ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin|Voice=Act	7	conj	_	Hiero=𓇋(𓂋:𓐍)|OSSC=Pres
 12	čw	čw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	obj	_	Hiero=𓍿𓅱|Pron=Dep
 
 # sent_id = PT_Sethe_262_329b-c_Unas
@@ -28577,7 +28577,7 @@
 2	ḫm(.w)	ḫm	VERB	_	Polarity=Neg|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=(𓐍:𓂜)𓅓|Hierocl=𓂜|Inf=NegCom
 3	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	2	obj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
 4	Č̣ḥw.tꞽ	Č̣ḥw.tꞽ	PROPN	_	Gender=Masc	2	vocative	_	Hiero=𓅝|Name=God
-5	č̣ṭ(.w)	č̣ṭ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	2	advcl	_	Hiero=(𓆓:𓂧)|Imprs=Third|OSSC=Pres
+5	č̣ṭ(.w)	č̣ṭ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	2	advcl	_	Hiero=(𓆓:𓂧)|Imprs=Third|OSSC=Pres
 6	ꞽr	r	ADP	_	_	7	case	_	Hiero=𓇋𓂋|Status=Pron
 7	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl	_	Hiero=𓎡|Pron=SFP
 8	ḥtp	ḥtp	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=3lit|VerbForm=Part|Voice=Act	5	obj	_	Hiero=(𓊵:𓏏:𓊪)
@@ -28610,7 +28610,7 @@
 9	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Hiero=𓇓𓅱|Pron=Dep
 10	śč	ꞽśč	SCONJ	_	_	12	mark	_	Hiero=𓋴𓍿|Particle=Yes
 11	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Hiero=𓇓𓅱|Pron=Dep
-12	ꞽ:rḫ(.w)	rḫ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin|Voice=Act	8	conj	_	Hiero=(𓂋:𓐍)|OSSC=Pres
+12	ꞽ:rḫ(.w)	rḫ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin|Voice=Act	8	conj	_	Hiero=(𓂋:𓐍)|OSSC=Pres
 13	čw	čw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	obj	_	Hiero=𓍿𓅱|Pron=Dep
 
 # sent_id = PT_Sethe_262_330b-c_Unas
@@ -28634,7 +28634,7 @@
 4-5	Ḥr.w-Śpṭ.w	_	_	_	_	_	_	_	Hiero=𓅃𓋴(𓊪:𓂧)𓇮
 4	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	2	vocative	_	Hiero=𓅃|Name=God
 5	Śpṭ.w	Śpṭ.w	PROPN	_	Gender=Masc	4	flat:name	_	Hiero=𓋴(𓊪:𓂧)𓇮|Name=God
-6	č̣ṭ(.w)	č̣ṭ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	2	advcl	_	Hiero=(𓆓:𓂧)|Imprs=Third|OSSC=Pres
+6	č̣ṭ(.w)	č̣ṭ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	2	advcl	_	Hiero=(𓆓:𓂧)|Imprs=Third|OSSC=Pres
 7	ꞽr	r	ADP	_	_	8	case	_	Hiero=𓇋𓂋|Status=Pron
 8	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obl	_	Hiero=𓎡|Pron=SFP
 9	ḳśn	ḳśn	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=3lit|VerbForm=Part|Voice=Act	6	obj	_	Hiero=𓈎𓋴𓌟𓈖
@@ -28666,7 +28666,7 @@
 9	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Hiero=𓇓𓅱|Pron=Dep
 10	śč	ꞽśč	SCONJ	_	_	12	mark	_	Hiero=𓋴𓍿|Particle=Yes
 11	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Hiero=𓇓𓅱|Pron=Dep
-12	ꞽ:rḫ(.w)	rḫ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin|Voice=Act	8	conj	_	Hiero=(𓂋:𓐍)|OSSC=Pres
+12	ꞽ:rḫ(.w)	rḫ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin|Voice=Act	8	conj	_	Hiero=(𓂋:𓐍)|OSSC=Pres
 13	čw	čw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	obj	_	Hiero=𓍿𓅱|Pron=Dep
 
 # sent_id = PT_Sethe_262_331b-c_Unas
@@ -28690,7 +28690,7 @@
 4-5	Ꞽm(.ꞽ)-Ṭ(w)ꜣ.t	_	_	_	_	_	_	_	Hiero=𓏶𓂧𓄿(𓏏:𓇽)
 4	Ꞽm(.ꞽ)	m	NOUN	_	Gender=Masc	2	vocative	_	Hiero=𓏶|Name=Epith
 5	Ṭ(w)ꜣ.t	Ṭwꜣ.t	PROPN	_	Gender=Fem	4	nmod:nisba	_	Hiero=𓂧𓄿(𓏏:𓇽)|Hierocl=𓇽|Name=Place
-6	č̣ṭ(.w)	č̣ṭ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	2	advcl	_	Hiero=(𓆓:𓂧)|Imprs=Third|OSSC=Pres
+6	č̣ṭ(.w)	č̣ṭ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	2	advcl	_	Hiero=(𓆓:𓂧)|Imprs=Third|OSSC=Pres
 7	ꞽr	r	ADP	_	_	8	case	_	Hiero=𓇋𓂋|Status=Pron
 8	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obl	_	Hiero=𓎡|Pron=SFP
 9	rś	rś	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=2lit|VerbForm=Part|Voice=Act	6	ccomp:speech	_	Hiero=𓂋𓋴𓌙|Hierocl=𓌙
@@ -28722,7 +28722,7 @@
 9	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Hiero=𓇓𓅱|Pron=Dep
 10	śč	ꞽśč	SCONJ	_	_	12	mark	_	Hiero=𓋴𓍿|Particle=Yes
 11	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Hiero=𓇓𓅱|Pron=Dep
-12	rḫ(.w)	rḫ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin|Voice=Act	8	conj	_	Hiero=(𓂋:𓐍)|OSSC=Pres
+12	rḫ(.w)	rḫ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin|Voice=Act	8	conj	_	Hiero=(𓂋:𓐍)|OSSC=Pres
 13	čw	čw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	obj	_	Hiero=𓍿𓅱|Pron=Dep
 
 # sent_id = PT_Sethe_262_332b-c_Unas
@@ -28745,7 +28745,7 @@
 3	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	2	obj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
 4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	Hiero=(𓂓:𓂸)𓃒|Hierocl=𓂸𓃒
 5	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	Hiero=(𓊪𓏏:𓇯)|Hierocl=𓇯
-6	č̣ṭ(.w)	č̣ṭ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	2	advcl	_	Hiero=(𓆓:𓂧)|Imprs=Third|OSSC=Pres
+6	č̣ṭ(.w)	č̣ṭ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	2	advcl	_	Hiero=(𓆓:𓂧)|Imprs=Third|OSSC=Pres
 7	ꞽr	r	ADP	_	_	8	case	_	Hiero=𓇋𓂋|Status=Pron
 8	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obl	_	Hiero=𓎡|Pron=SFP
 9	nḫḫ	nḫꞽḫi̯	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=5aeinf|VerbForm=Part|Voice=Act	6	ccomp:speech	_	Hiero=(𓈖:𓐍:𓐍)
@@ -28768,10 +28768,10 @@
 # comment = No
 1	m	m	PART	_	_	3	discourse	_	Hiero=𓅓
 2	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	3	nsubj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
-3	ꞽꞽ.ꞽ	ꞽwi̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇍𓇋|OSSC=Past
+3	ꞽꞽ.ꞽ	ꞽwi̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇍𓇋|OSSC=Past
 4	m	m	PART	_	_	6	discourse	_	Hiero=𓅓
 5	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	6	nsubj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
-6	ꞽꞽ.ꞽ	ꞽwi̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	3	parataxis	_	Hiero=𓇍𓇋|OSSC=Past
+6	ꞽꞽ.ꞽ	ꞽwi̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	3	parataxis	_	Hiero=𓇍𓇋|OSSC=Past
 
 # sent_id = PT_Sethe_262_333a_Unas_(2)
 # title = PT
@@ -28791,7 +28791,7 @@
 1	m	m	PART	_	ExtPos=INTJ	4	discourse	_	Hiero=𓅓
 2	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	fixed	_	Hiero=𓎡|Pron=SFP
 3	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	4	nsubj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
-4	pr(.w)	pri̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓉐:𓂋)|OSSC=Past
+4	pr(.w)	pri̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓉐:𓂋)|OSSC=Past
 
 # sent_id = PT_Sethe_262_333a_Teti
 # title = PT
@@ -29351,7 +29351,7 @@
 # trans = “It is well with Unas and his ka.”
 # type = Verbal sentence
 # comment = No
-1	nfr(.w)	nfr	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=3lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓄤(𓆑:𓂋)|Imprs=Third|OSSC=Initial
+1	nfr(.w)	nfr	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=3lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓄤(𓆑:𓂋)|Imprs=Third|OSSC=Initial
 2	{n}	{n}	X	_	Typo=Yes	1	dep	_	Hiero=𓈖
 3	n	n	ADP	_	_	4	case	_	Hiero=𓈖|Status=Cons
 4	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	1	obl:arg	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
@@ -33433,7 +33433,7 @@
 # comment = No
 1	ꞽw	ꞽw	AUX	_	Aspect=Perf	3	aux	_	Hiero=𓇋𓅱|Particle=Yes
 2	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	3	nsubj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
-3	ḫꜥ(.w)	ḫꜥi̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin	0	root	_	Hiero=(𓈍:𓂝)|OSSC=Past
+3	ḫꜥ(.w)	ḫꜥi̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin	0	root	_	Hiero=(𓈍:𓂝)|OSSC=Past
 4	m	m	ADP	_	Case=Equ	5	case	_	Hiero=𓅓|Status=Cons
 5	wr	wr	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	Hiero=𓅨
 6	pw	pw	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	Hiero=𓊪𓅱
@@ -34223,7 +34223,7 @@
 # comment = No
 1	ꞽ(w)	ꞽw	AUX	_	Aspect=Perf	3	aux	_	Hiero=𓇋|Particle=Yes
 2	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Hiero=(𓆑:𓄼)|Hierocl=𓄼|Pron=SFP
-3	śbn(.w)	śbn	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3lit|VerbForm=Fin	0	root	_	Hiero=(𓋴𓃀:𓈖)|OSSC=Past
+3	śbn(.w)	śbn	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3lit|VerbForm=Fin	0	root	_	Hiero=(𓋴𓃀:𓈖)|OSSC=Past
 4	m	m	ADP	_	Case=Equ	5	case	_	Hiero=𓅓|Status=Cons
 5	nb	nb	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	Hiero=𓎟
 6	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	5	nmod:poss	_	Hiero=𓅜(𓐍𓏏:𓇿)|Hierocl=𓇿
@@ -36312,7 +36312,7 @@
 1	č̣r.t	č̣r.t	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	Hiero=(𓇦:𓂋:𓏏)𓂩|Hierocl=𓂩
 2	n.t	n	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	1	amod	_	Hiero=(𓈖:𓏏)|Nisba=DePrep
 3	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	2	obl:nisba	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
-4	ꞽw.t(ꞽ)	ꞽw	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇋𓂻𓅱𓏏|OSSC=Past
+4	ꞽw.t(ꞽ)	ꞽw	VERB	_	Conjug=AfroAsia|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇋𓂻𓅱𓏏|OSSC=Past
 5	ḥr	ḥr	ADP	_	_	6	case	_	Hiero=(𓁷:𓂋)|Status=Pron
 6	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obl	_	Hiero=𓎡|Pron=SFP
 
@@ -36333,7 +36333,7 @@
 # comment = No
 1	nꜣš.wt	nꜣš.wt	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	Hiero=𓈖𓄿𓈙𓅱𓏏
 2	nn	nn	ADV	_	AdvType=Loc	1	advmod	_	Hiero=𓇒
-3	ꞽw.t(ꞽ)	ꞽw	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇋𓂻𓅱𓏏|OSSC=Past
+3	ꞽw.t(ꞽ)	ꞽw	VERB	_	Conjug=AfroAsia|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇋𓂻𓅱𓏏|OSSC=Past
 4	ḥr	ḥr	ADP	_	_	5	case	_	Hiero=(𓁷:𓂋)|Status=Pron
 5	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	Hiero=𓎡|Pron=SFP
 6	m	m	ADP	_	Case=Equ	7	case	_	Hiero=𓅓|Status=Cons
@@ -36981,9 +36981,9 @@
 # comment = No
 1	ꞽw	ꞽw	AUX	_	Aspect=Perf	2	aux	_	Hiero=𓇋𓅱|Particle=Yes
 2	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	3	nsubj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
-3	rḫ(.w)	rḫ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin	0	root	_	Hiero=(𓂋:𓐍)|OSSC=Pres
+3	rḫ(.w)	rḫ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin	0	root	_	Hiero=(𓂋:𓐍)|OSSC=Pres
 4	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Hiero=𓇓𓅱|Pron=Dep
-5	rḫ(.w)	rḫ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin	3	conj	_	Hiero=(𓂋:𓐍)|OSSC=Pres
+5	rḫ(.w)	rḫ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin	3	conj	_	Hiero=(𓂋:𓐍)|OSSC=Pres
 6	rn	rn	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	Hiero=(𓂋:𓈖)
 7	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod	_	Hiero=𓆑|Pron=SFP
 
@@ -37428,7 +37428,7 @@
 8	m	m	ADP	_	Case=Ins	9	case	_	Hiero=𓅓|Status=Cons
 9	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	Hiero=𓅜𓐍
 10	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	9	nmod	_	Hiero=𓎡|Pron=SFP
-11	pr.tꞽ	pri̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=2|VerbClass=3aeinf|VerbForm=Fin	7	conj	_	Hiero=(𓉐:𓂋)𓍘|OSSC=PastConv
+11	pr.tꞽ	pri̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=2|VerbClass=3aeinf|VerbForm=Fin	7	conj	_	Hiero=(𓉐:𓂋)𓍘|OSSC=PastConv
 12	m	m	ADP	_	Case=Abl	13	case	_	Hiero=𓅓|Status=Cons
 13	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	Hiero=𓅜(𓐍𓏏:𓇿)|Hierocl=𓇿
 
@@ -40206,7 +40206,7 @@
 # trans = “He knows him(self) so that his lord will ascend.”
 # type = Verbal sentence
 # comment = ꞽ:rḫ(.w): Sethe (336)/Allen (2017:357) is OSSC; Faulkner (97) is imperative; Carrier (177) is a participle following the last sentence
-1	ꞽ:rḫ(.w)	rḫ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇋(𓂋:𓐍)|OSSC=Initial
+1	ꞽ:rḫ(.w)	rḫ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇋(𓂋:𓐍)|OSSC=Initial
 2	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	obj	_	Hiero=𓇓𓅱|Pron=Dep
 3	ꞽr	r	SCONJ	_	_	4	mark	_	ADP=Yes|Hiero=𓇋𓂋
 4	pr	pri̯	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Fut|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	1	advcl	_	Hiero=(𓉐:𓂋)|SPC=Fut
@@ -40259,7 +40259,7 @@
 # trans = “I know the Hall of the Baldachin in the middle of the Platform of the Zenith from which you go forth in order that you go aboard the Night-bark.”
 # type = Verbal sentence
 # comment = hꜣ ⸗k is a subjunctive, see Sethe UKPT 334
-1	ꞽ:rḫ.k(w)	rḫ	VERB	_	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbClass=2aered|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇋(𓂋:𓐍)𓎡|OSSC=Initial
+1	ꞽ:rḫ.k(w)	rḫ	VERB	_	Conjug=AfroAsia|Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbClass=2aered|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇋(𓂋:𓐍)𓎡|OSSC=Initial
 2	sḥ	sḥ	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=(𓊃:𓎛𓉲)|Hierocl=𓉲
 3	mn.w	mn.w	NOUN	_	Gender=Masc|Number=Sing	2	nmod:poss	_	Hiero=(𓏠:𓏌)UC_No|Hierocl=UC_No
 4	ḥr(.ꞽ)	ḥr	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	Hiero=𓁷|Nisba=DePrep
@@ -42793,7 +42793,7 @@
 3	m	m	ADP	_	_	4	case	_	Hiero=𓅓|Status=Cons
 4	hh	hh	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=(𓉔:𓉔)UC_13993|Hierocl=UC_13993
 5	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod	_	Hiero=𓆑|Pron=SFP
-6	ꞽ:nn.y	nꞽnꞽ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Prefix=Yodh|VerbClass=4lit|VerbForm=Fin	1	advcl	_	Hiero=𓇋(𓈖:𓈖)𓂽𓇋𓇋|Hierocl=𓂽|OSSC=Past
+6	ꞽ:nn.y	nꞽnꞽ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Prefix=Yodh|VerbClass=4lit|VerbForm=Fin	1	advcl	_	Hiero=𓇋(𓈖:𓈖)𓂽𓇋𓇋|Hierocl=𓂽|OSSC=Past
 
 # sent_id = PT_Sethe_332_541c_Teti
 # title = PT
@@ -43673,7 +43673,7 @@
 # comment = No.
 1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
-3	wꜣḥ(.w)	wꜣḥ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3lit|VerbForm=Fin|Voice=Act	1	ccomp:speech	_	Hiero=𓍯𓎝|Imprs=Third|OSSC=Initial
+3	wꜣḥ(.w)	wꜣḥ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3lit|VerbForm=Fin|Voice=Act	1	ccomp:speech	_	Hiero=𓍯𓎝|Imprs=Third|OSSC=Initial
 
 # sent_id = PT_Sethe_341_555a_Teti
 # title = PT
@@ -46754,9 +46754,9 @@
 1	m	m	PART	_	ExtPos=INTJ	4	discourse	_	Hiero=𓅓𓂞|Hierocl=𓂞
 2	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	fixed	_	Hiero=𓎡|Pron=SFP
 3	Ttꞽ	Ttꞽ	PROPN	_	Gender=Masc	4	nsubj	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺|Name=King
-4	ꞽꞽ.y	ꞽwi̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇍𓇋𓇋|OSSC=Past
-5	bꜣ.ꞽ	bꜣ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=2lit|VerbForm=Fin|Voice=Act	4	conj	_	Hiero=UC_No𓇋|OSSC=Past
-6	nčr(.ꞽ)	nčri̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=4aeinf|VerbForm=Fin|Voice=Act	4	conj	_	Hiero=(𓈖:𓍿:𓂋)𓊹|OSSC=Past
+4	ꞽꞽ.y	ꞽwi̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇍𓇋𓇋|OSSC=Past
+5	bꜣ.ꞽ	bꜣ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=2lit|VerbForm=Fin|Voice=Act	4	conj	_	Hiero=UC_No𓇋|OSSC=Past
+6	nčr(.ꞽ)	nčri̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=4aeinf|VerbForm=Fin|Voice=Act	4	conj	_	Hiero=(𓈖:𓍿:𓂋)𓊹|OSSC=Past
 
 # sent_id = PT_Sethe_361_604a-d_Teti
 # title = PT
@@ -47711,7 +47711,7 @@
 # trans = “You were brought to her in her name of "tomb".”
 # type = Verbal sentence
 # comment = OSSC instead of PastPass because of causative verb?
-1	ꞽ:ś:ꞽꜥ.tꞽ	ꞽꜥr	VERB	_	Gender=Com|Mood=Ind|Number=Sing|Person=2|Prefix=Yodh|VerbClass=Caus3lit|VerbForm=Fin|Voice=Pass	0	root	_	Hiero=𓇋𓋴𓇋𓂝𓉵𓍘𓇋|Hierocl=𓉵|OSSC=Pass
+1	ꞽ:ś:ꞽꜥ.tꞽ	ꞽꜥr	VERB	_	Conjug=AfroAsia|Gender=Com|Mood=Ind|Number=Sing|Person=2|Prefix=Yodh|Tense=Past|VerbClass=Caus3lit|VerbForm=Fin|Voice=Pass	0	root	_	Hiero=𓇋𓋴𓇋𓂝𓉵𓍘𓇋|Hierocl=𓉵|OSSC=Pass
 2	n	n	ADP	_	_	3	case	_	Hiero=𓈖|Status=Pron
 3	⸗ś	ś	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obl:arg	_	Hiero=𓋴|Pron=SFP
 4	m	m	ADP	_	Case=Ins	5	case	_	Hiero=𓅓|Status=Cons
@@ -48760,7 +48760,7 @@
 # comment = No
 1	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	3	nsubj	_	Hiero=𓅃|Name=God
 2	śpṭ	śpṭ	VERB	_	Gender=Masc|Number=Sing|Tense=Pres|VerbClass=3lit|VerbForm=Part|Voice=Act	1	acl	_	ADJ=Yes|Hiero=𓋴𓇮(𓊪:𓂧)
-3	pr(.w)	pri̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓉐:𓂋)|OSSC=Past
+3	pr(.w)	pri̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓉐:𓂋)|OSSC=Past
 4	ꞽm	m	ADP	_	Case=Ela	5	case	_	Hiero=𓇋𓅓|Status=Pron
 5	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	Hiero=𓎡|Pron=SFP
 6	m	m	ADP	_	Case=Equ	7	case	_	Hiero=𓅓|Status=Cons
@@ -48993,7 +48993,7 @@
 2	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	5	vocative	_	Hiero=(𓊨:𓁹)|Name=God
 3	Ttꞽ	Ttꞽ	PROPN	_	Gender=Masc	2	appos	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺|Name=King
 4	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	5	nsubj	_	Hiero=𓅃|Name=God
-5	nw.w	nwi̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓍈:𓏌)𓅱|OSSC=Past
+5	nw.w	nwi̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓍈:𓏌)𓅱|OSSC=Past
 6	m	m	ADP	_	Case=Loc	7	case	_	Hiero=𓅓|Status=Cons
 7-8	ẖnw-ꜥw.w(ꞽ)	_	_	_	_	_	_	_	Hiero=𓄚(𓏌:𓏤)𓂝𓅱
 7	ẖnw	ẖnw	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	Hiero=𓄚(𓏌:𓏤)
@@ -50776,14 +50776,14 @@
 6	n	n	ADP	_	_	7	case	_	Hiero=𓈖|Status=Pron
 7	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl:arg	_	Hiero=𓎡|Pron=SFP
 8	bṭ.t	bṭ.t	NOUN	_	Gender=Fem|Number=Coll	5	nsubj:pass	_	Hiero=𓃀(𓂧:𓏏)𓇣𓇣𓇣|Hierocl=𓇣𓇣𓇣
-9	ꞽr(.w)	ꞽri̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Pass	5	advcl:tcl	_	Hiero=𓇋𓁹|Imprs=Third|OSSC=Pass
+9	ꞽr(.w)	ꞽri̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Pass	5	advcl:tcl	_	Hiero=𓇋𓁹|Imprs=Third|OSSC=Pass
 10	n	n	ADP	_	_	11	case	_	Hiero=𓈖|Status=Cons
 11-12	ṭp(.w)-ꜣbṭ(.w)	_	_	_	_	_	_	_	Hiero=(𓁶𓁶:𓁶)(𓇹:𓇼)(𓇹:𓇼)(𓇹:𓇼)
 11	ṭp(.w)	ṭp	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	Hiero=(𓁶𓁶:𓁶)
 12	ꜣbṭ(.w)	ꜣbṭ	NOUN	_	Gender=Masc|Number=Plur	11	compound	_	Hiero=(𓇹:𓇼)(𓇹:𓇼)(𓇹:𓇼)
 13	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	11	nmod	_	Hiero=𓎡|Pron=SFP
 14	[ꞽm]	ꞽm	ADV	_	AdvType=Man	9	advmod	_	Hiero=𓇋𓅓
-15	ꞽr(.w)	ꞽri̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Pass	9	conj	_	Hiero=𓇋𓁹|Imprs=Third|OSSC=Pass
+15	ꞽr(.w)	ꞽri̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Pass	9	conj	_	Hiero=𓇋𓁹|Imprs=Third|OSSC=Pass
 16	n	n	ADP	_	_	17	case	_	Hiero=𓈖|Status=Cons
 17-18	ṭp(.w)-śmṭ.(w)t	_	_	_	_	_	_	_	Hiero=𓁶𓁶𓁶𓇻𓇻𓇻
 17	ṭp(.w)	ṭp	NOUN	_	Gender=Masc|Number=Plur	15	obl	_	Hiero=𓁶𓁶𓁶
@@ -50996,7 +50996,7 @@
 24	ꞽw.t(ꞽ)	ꞽw.tꞽ	PRON	_	Gender=Masc|Number=Sing|Polarity=Neg|PronType=Rel	23	fixed	_	Hiero=𓂜𓅱𓏏|Hierocl=𓂜
 25	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	17	advcl	_	Hiero=𓇋𓏏
 26	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	25	nmod	_	Hiero=𓎡|Pron=SFP
-27	mś.ꞽ	mśi̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin	25	acl	_	Hiero=𓄟𓋴𓇋|OSSC=Past
+27	mś.ꞽ	mśi̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin	25	acl	_	Hiero=𓄟𓋴𓇋|OSSC=Past
 28	čw	čw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	27	obj	_	Hiero=𓍿𓅱|Pron=Dep
 29	m	m	ADP	_	_	30	case	_	Hiero=𓅓|Status=Cons
 30	rmč(.w)	rmč	NOUN	_	Gender=Masc|Number=Plur	27	obl	_	Hiero=𓂋𓅓(𓍿:𓏧)|Hierocl=𓏧
@@ -51005,7 +51005,7 @@
 32	ꞽw.t(ꞽ)	ꞽw.tꞽ	PRON	_	Gender=Masc|Number=Sing|Polarity=Neg|PronType=Rel	31	fixed	_	Hiero=𓂜𓅱𓏏|Hierocl=𓂜
 33	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	25	conj	_	Hiero=𓅐𓏏
 34	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	33	nmod	_	Hiero=𓎡|Pron=SFP
-35	mś.tꞽ	mśi̯	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin	33	acl	_	Hiero=𓄟𓋴𓍘𓇋|OSSC=Past
+35	mś.tꞽ	mśi̯	VERB	_	Conjug=AfroAsia|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin	33	acl	_	Hiero=𓄟𓋴𓍘𓇋|OSSC=Past
 36	čw	čw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	35	obj	_	Hiero=𓍿𓅱|Pron=Dep
 37	m	m	ADP	_	_	38	case	_	Hiero=𓅓|Status=Cons
 38	rmč(.w)	rmč	NOUN	_	Gender=Masc|Number=Plur	35	obl	_	Hiero=𓂋𓅓(𓍿:𓏧)|Hierocl=𓏧
@@ -51689,7 +51689,7 @@
 4	tn	tn	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Hiero=(𓏏:𓈖)
 5	n.t	n	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	3	amod	_	Hiero=(𓈖:𓏏)|Nisba=DePrep
 6	Ttꞽ	Ttꞽ	PROPN	_	Gender=Masc	5	obl:nisba	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺|Name=King
-7	ꞽꞽ.t(ꞽ)	ꞽwi̯	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	1	ccomp:speech	_	Hiero=𓇍𓏏|OSSC=Past
+7	ꞽꞽ.t(ꞽ)	ꞽwi̯	VERB	_	Conjug=AfroAsia|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	1	ccomp:speech	_	Hiero=𓇍𓏏|OSSC=Past
 8	ꞽr	r	ADP	_	_	9	case	_	Hiero=𓇋𓂋|Status=Pron
 9	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	Hiero=𓎡|Pron=SFP
 
@@ -52295,7 +52295,7 @@
 7	pr	pri̯	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbClass=3aeinf|VerbForm=Part|Voice=Act	6	acl	_	ADJ=Yes|Hiero=(𓉐:𓂋)
 8	m	m	ADP	_	Case=Ela	9	case	_	Hiero=𓅓|Status=Cons
 9	šnč	šnč	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	Hiero=(𓍲:𓈖)𓍿𓆚|Hierocl=𓆚
-10	śꞽn(.w)	śꞽn	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3lit|VerbForm=Fin|Voice=Act	7	advcl	_	Hiero=𓋴𓇋𓈖𓂻|Hierocl=𓂻|OSSC=Past
+10	śꞽn(.w)	śꞽn	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3lit|VerbForm=Fin|Voice=Act	7	advcl	_	Hiero=𓋴𓇋𓈖𓂻|Hierocl=𓂻|OSSC=Past
 
 # sent_id = PT_Sethe_388_681c_Teti_(1)
 # title = PT
@@ -52697,7 +52697,7 @@
 # comment = No
 1	s(ꞽ)	sꞽ	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	Hiero=𓊃
 2	pf	pf	DET	_	Gender=Masc|Number=Sing|PronType=Dem	1	det	_	Hiero=𓊪𓆑
-3	ꞽ:šm(.w)	šmi̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Prefix=Yodh|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇋𓈝𓅓|OSSC=Past
+3	ꞽ:šm(.w)	šmi̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Prefix=Yodh|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇋𓈝𓅓|OSSC=Past
 
 # sent_id = PT_Sethe_390_684b_Teti_(2)
 # title = PT
@@ -52716,7 +52716,7 @@
 # comment = No
 1	s(ꞽ)	sꞽ	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	Hiero=𓊃
 2	pn	pn	DET	_	Gender=Masc|Number=Sing|PronType=Dem	1	det	_	Hiero=(𓊪:𓈖)
-3	ꞽw.ꞽ	ꞽwi̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Prefix=Yodh|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇋𓂻𓅱𓇋|OSSC=Past
+3	ꞽw.ꞽ	ꞽwi̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Prefix=Yodh|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇋𓂻𓅱𓇋|OSSC=Past
 
 # sent_id = PT_Sethe_390_685a_Teti_(1)
 # title = PT
@@ -54189,8 +54189,8 @@
 # comment = No
 1	śč̣r	śč̣r	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Pres|VerbClass=3lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓋴(𓇦:𓂋)𓁀|Hierocl=𓁀|SPC=Pres
 2	Ttꞽ	Ttꞽ	PROPN	_	Gender=Masc	1	nsubj	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺|Name=King
-3	ꞽwr(.w)	ꞽwr	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=3lit|VerbForm=Fin	1	advcl	_	Hiero=(𓃛:𓂋)|OSSC=Pass
-4	mś(.w)	mśi̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=3aeinf|VerbForm=Fin	3	conj	_	Hiero=𓄟|OSSC=Pass
+3	ꞽwr(.w)	ꞽwr	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3lit|VerbForm=Fin|Voice=Pass	1	advcl	_	Hiero=(𓃛:𓂋)|OSSC=Pass
+4	mś(.w)	mśi̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Pass	3	conj	_	Hiero=𓄟|OSSC=Pass
 5-6	rꜥw-nb	_	_	_	_	_	_	_	Hiero=𓇳:𓎟
 5	rꜥw	rꜥw	NOUN	_	ExtPos=ADV|Gender=Masc|Number=Sing	4	advmod	_	Hiero=𓇳
 6	nb	nb	ADJ	_	Gender=Masc|Number=Sing	5	fixed	_	Hiero=𓎟
@@ -55015,7 +55015,7 @@
 16	kꜣ(.w)	kꜣ	NOUN	_	Gender=Masc|Number=Plur	15	nmod:poss	_	Hiero=𓂓𓂓𓂓
 17	r	r	ADP	_	_	18	case	_	Hiero=𓂋|Status=Pron
 18	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obl	_	Hiero=𓆑|Pron=SFP
-19	ꞽw(.w)	ꞽwi̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=Anom|VerbForm=Fin	14	advcl	_	Hiero=𓂻𓅱|OSSC=Past
+19	ꞽw(.w)	ꞽwi̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=Anom|VerbForm=Fin	14	advcl	_	Hiero=𓂻𓅱|OSSC=Past
 20	r	r	ADP	_	_	21	case	_	Hiero=𓂋|Status=Pron
 21	[...]	_	X	_	Typo=Yes	19	dep	_	Hiero=Lost
 
@@ -55612,7 +55612,7 @@
 16	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	15	nmod	_	Hiero=𓎡|Pron=SFP
 17	m	m	ADP	_	_	18	case	_	Hiero=𓅓|Status=Cons
 18	rmč(.w)	rmč	NOUN	_	Gender=Masc|Number=Plur	1	advcl	_	Hiero=𓂋𓅓(𓍿:𓏧)|Hierocl=𓏧
-19	mś.tꞽ	mśi̯	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin	15	acl	_	Hiero=𓄟𓋴𓍘|OSSC=Past
+19	mś.tꞽ	mśi̯	VERB	_	Conjug=AfroAsia|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin	15	acl	_	Hiero=𓄟𓋴𓍘|OSSC=Past
 20	čw	čw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	19	obj	_	Hiero=𓍿𓅱|Pron=Dep
 21-22	n-ꞽw.t(ꞽ)	_	_	_	_	_	_	_	Hiero=𓈖𓇋𓅱𓂜𓏏
 21	n	n	ADP	_	ExtPos=SCONJ	26	mark	_	Hiero=𓈖
@@ -55621,7 +55621,7 @@
 24	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	23	nmod	_	Hiero=𓎡|Pron=SFP
 25	m	m	ADP	_	_	26	case	_	Hiero=𓅓|Status=Cons
 26	rmč(.w)	rmč	NOUN	_	Gender=Masc|Number=Plur	18	conj	_	Hiero=𓂋𓅓(𓍿:𓏧)|Hierocl=𓏧
-27	mś.ꞽ	mśi̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin	23	acl	_	Hiero=𓄟𓋴𓇋|OSSC=Past
+27	mś.ꞽ	mśi̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin	23	acl	_	Hiero=𓄟𓋴𓇋|OSSC=Past
 28	čw	čw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	27	obj	_	Hiero=𓍿𓅱|Pron=Dep
 
 # sent_id = PT_Sethe_412_729a-b_Teti
@@ -57390,17 +57390,17 @@
 10	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	conj	_	Hiero=𓎡|Pron=SFP
 11	ꞽr	ꞽri̯	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=Pred|Tense=Pres|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	10	advcl	_	Hiero=𓁹|SPC=Pres
 12	⸗śn	śn	PRON	_	Gender=Com|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	Hiero=𓋴𓈖|Pron=SFP
-13	ꞽꞽ	ꞽwi̯	VERB	_	Mood=Ind|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	11	ccomp:speech	_	Hiero=𓇍|OSSC=Past-1
+13	ꞽꞽ	ꞽwi̯	VERB	_	Conjug=AfroAsia|Mood=Ind|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	11	ccomp:speech	_	Hiero=𓇍|OSSC=Past-1
 14	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	Hiero=𓊹
-15	ꞽꞽ	ꞽwi̯	VERB	_	Mood=Ind|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	13	conj	_	Hiero=𓇍|OSSC=Past-1
+15	ꞽꞽ	ꞽwi̯	VERB	_	Conjug=AfroAsia|Mood=Ind|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	13	conj	_	Hiero=𓇍|OSSC=Past-1
 16	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	15	nsubj	_	Hiero=𓊹
-17	ꞽꞽ	ꞽwi̯	VERB	_	Mood=Ind|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	13	conj	_	Hiero=𓇍|OSSC=Past-1
+17	ꞽꞽ	ꞽwi̯	VERB	_	Conjug=AfroAsia|Mood=Ind|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	13	conj	_	Hiero=𓇍|OSSC=Past-1
 18	Ppy	Ppy	PROPN	_	Gender=Masc	17	nsubj	_	Hiero=𓍹(𓊪:𓊪)𓇋𓇋𓍺|Name=King
 19	pn	pn	DET	_	Gender=Masc|Number=Sing|PronType=Dem	18	det	_	Hiero=(𓊪:𓈖)
 20	ḥr	ḥr	ADP	_	Case=Sup	21	case	_	Hiero=𓁷|Status=Cons
 21	nś.t	nś.t	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	Hiero=(𓈖:𓄓)(𓏏:𓎼)|Hierocl=𓎼
 22	Wśr.w	Wśr.w	PROPN	_	Gender=Masc	21	nmod:poss	_	Hiero=(𓊨:𓁹)|Name=God
-23	ꞽꞽ	ꞽwi̯	VERB	_	Mood=Ind|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	13	conj	_	Hiero=𓇍|OSSC=Past-1
+23	ꞽꞽ	ꞽwi̯	VERB	_	Conjug=AfroAsia|Mood=Ind|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	13	conj	_	Hiero=𓇍|OSSC=Past-1
 24	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	23	nsubj	_	Hiero=𓅜
 25	pw	pw	DET	_	Gender=Masc|Number=Sing|PronType=Dem	24	det	_	Hiero=𓊪𓅱
 26	ꞽm(.ꞽ)	m	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	24	amod	_	Hiero=𓇋𓏶|Nisba=DePrep
@@ -59089,7 +59089,7 @@
 1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
 3	Ꜥꜣ.t	ꜥꜣ	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	Hiero=(𓉻:𓏏)|Name=Epith
-4	ḫpr.t(ꞽ)	ḫpr	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbClass=3lit|VerbForm=Fin	1	ccomp:speech	_	Hiero=𓆣(𓂋:𓏏)|OSSC=Past
+4	ḫpr.t(ꞽ)	ḫpr	VERB	_	Conjug=AfroAsia|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbClass=3lit|VerbForm=Fin	1	ccomp:speech	_	Hiero=𓆣(𓂋:𓏏)|OSSC=Past
 5	m	m	ADP	_	_	6	case	_	Hiero=𓅓|Status=Cons
 6	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	Hiero=(𓊪𓏏:𓇯)|Hierocl=𓇯
 7	n	n	SCONJ	_	_	8	mark	_	ADP=Yes|Hiero=𓈖|Status=Pron
@@ -59438,7 +59438,7 @@
 # trans = “I called on the name of Osiris Pepi of Horus, beloved of the two lands, Pepi, the king of Lower and Upper Egypt, Pepi, beloved of Two Ladies' belly, Pepi, the Falcons Golden One, Pepi; Geb's heir, whom he desired, Pepi, beloved of all gods, Pepi; he is given life, stability, authority, and all hapiness like the Sun: 'may you be alive forever'.”
 # type = Nominal sentence (ꞽnk).
 # comment = For the reading n(.ꞽ) Ḥr.w see Sethe III, 443. According to Sethe, ꜥnḫ.tꞽ č̣.t sind words pronounced by Nut to the deceased.
-1	nꞽś.k(w)	nꞽś	VERB	_	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbClass=3lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓈖𓇋𓋴𓎡|OSSC=Initial
+1	nꞽś.k(w)	nꞽś	VERB	_	Conjug=AfroAsia|Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbClass=3lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓈖𓇋𓋴𓎡|OSSC=Initial
 2	rn	rn	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=(𓂋:𓈖)
 3	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	2	nmod:poss	_	Hiero=𓊨𓁹|Name=God
 4	Ppy	Ppy	PROPN	_	Gender=Masc	3	appos	_	Hiero=𓍹(𓊪:𓊪)𓇋𓇋𓍺|Name=King
@@ -59523,11 +59523,11 @@
 # type = Verbal sentence
 # comment = Both verb forms are OSSC instead of Participles, otherwise the sentence lack a root.
 1	rč̣.w	rč̣.w	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	Hiero=(𓂋:𓈋)𓅱
-2	pr(.w)	pri̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓉐:𓂋)|OSSC=Past
+2	pr(.w)	pri̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓉐:𓂋)|OSSC=Past
 3	m	m	ADP	_	Case=Ela	4	case	_	Hiero=𓅓|Status=Cons
 4	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	Hiero=𓊹
 5	ḥwꜣꜣ.t	ḥwꜣꜣ.t	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	Hiero=𓎛𓅱𓄿𓄿(𓏏:𓏧)|Hierocl=𓏧
-6	pr.t(ꞽ)	pri̯	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	2	conj	_	Hiero=(𓉐:𓂋:𓏏)|OSSC=Past
+6	pr.t(ꞽ)	pri̯	VERB	_	Conjug=AfroAsia|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	2	conj	_	Hiero=(𓉐:𓂋:𓏏)|OSSC=Past
 7	m	m	ADP	_	Case=Ela	8	case	_	Hiero=𓅓|Status=Cons
 8	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	6	obl	_	Hiero=(𓊨:𓁹)|Name=God
 
@@ -60979,7 +60979,7 @@
 6	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Hiero=𓇓𓅱|Pron=Dep
 7	r	r	ADP	_	_	8	case	_	Hiero=𓂋|Status=Cons
 8	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	Hiero=𓇾|MWE=Yes
-9	rḫ(.w)	rḫ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin|Voice=Act	4	advcl	_	Hiero=(𓂋:𓐍)|OSSC=Pres
+9	rḫ(.w)	rḫ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin|Voice=Act	4	advcl	_	Hiero=(𓂋:𓐍)|OSSC=Pres
 10	śwt	śwt	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Hiero=𓇓𓅱𓏏|Pron=Ind
 11	ꞽś	ꞽś	PART	_	PartType=Emp	12	discourse	_	Hiero=𓇋𓋴
 12	wr	wrr	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=2aered|VerbForm=Part|Voice=Act	9	ccomp:obj	_	Hiero=(𓅨:𓂋)
@@ -61316,7 +61316,7 @@
 1	m	m	PART	_	ExtPos=INTJ	4	discourse	_	Hiero=𓅓
 2	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	fixed	_	Hiero=𓎡|Pron=SFP
 3	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Hiero=𓇓𓅱|Pron=SFP
-4	ꞽꞽ.y	ꞽwi̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇍𓇋𓇋|OSSC=Past
+4	ꞽꞽ.y	ꞽwi̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇍𓇋𓇋|OSSC=Past
 5	m	m	ADP	_	Case=Equ	6	case	_	Hiero=𓅓|Status=Cons
 6	Śꜣḥ	Śꜣḥ	PROPN	_	Gender=Masc	4	obl	_	Hiero=𓋴𓎛𓃃𓇼|Hierocl=𓇼|Name=God
 
@@ -61337,7 +61337,7 @@
 # comment = No.
 1	m	m	PART	_	_	3	discourse	_	Hiero=𓅓
 2	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	nsubj	_	Hiero=(𓊨:𓁹)|Name=God
-3	ꞽꞽ.y	ꞽwi̯	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇍𓇋𓇋|OSSC=Past
+3	ꞽꞽ.y	ꞽwi̯	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇍𓇋𓇋|OSSC=Past
 4	m	m	ADP	_	Case=Equ	5	case	_	Hiero=𓅓|Status=Cons
 5	Śꜣḥ	Śꜣḥ	PROPN	_	Gender=Masc	3	obl	_	Hiero=𓋴𓎛𓃃𓇼|Hierocl=𓇼|Name=God
 6	nb	nb	NOUN	_	Gender=Masc|Number=Sing	5	appos	_	Hiero=(𓎟:𓃀)
@@ -61836,7 +61836,7 @@
 # trans = “You and your ka have gone too.”
 # type = Verbal sentence
 # comment = No.
-1	sꞽ.t(ꞽ)	sꞽ	VERB	_	Gender=Com|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓊄:𓏏)|OSSC=Initial
+1	sꞽ.t(ꞽ)	sꞽ	VERB	_	Conjug=AfroAsia|Gender=Com|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbClass=2lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓊄:𓏏)|OSSC=Initial
 2	č̣ṭk	č̣ṭk	ADV	_	_	1	advmod	_	Hiero=(𓆓:𓂧)𓎡
 3	ḫr	ḫr	ADP	_	Case=Com	4	case	_	Hiero=(𓐍:𓂋)|Status=Cons
 4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓂓
@@ -65816,7 +65816,7 @@
 10	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	8	vocative	_	Hiero=𓇳|Name=God
 11	ḥwꞽ	ḥwꞽ	PART	_	PartType=Mod	12	discourse	_	Hiero=𓎛𓅱𓇋
 12	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	_	Hiero=(𓅭:𓊃)
-13	ꞽ.t(ꞽ)	ꞽ	VERB	_	Gender=Com|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	8	parataxis	_	Hiero=𓇋𓏏|OSSC=Say
+13	ꞽ.t(ꞽ)	ꞽ	VERB	_	Conjug=AfroAsia|Gender=Com|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	8	parataxis	_	Hiero=𓇋𓏏|OSSC=Say
 14	čw	čw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	obj	_	Hiero=(𓍿:𓅱)|Pron=Dep
 15	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	13	vocative	_	Hiero=𓇳|Name=God
 16	bꜣ.ꞽ	bꜣ	VERB	_	Aspect=Stat|Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=2lit|VerbForm=Fin	8	ccomp:speech	_	Hiero=𓅡𓄿𓇋|OSSC=Stat
@@ -67367,7 +67367,7 @@
 2	n.t	n	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	1	amod	_	Hiero=(𓈖:𓏏)|Nisba=DePrep
 3	Ppy	Ppy	PROPN	_	Gender=Masc	2	obl:nisba	_	Hiero=𓍹(𓊪:𓊪)𓇋𓇋𓍺|Name=King
 4	pn	pn	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	Hiero=(𓊪:𓈖)
-5	ꞽ.kꞽ	ꞽ	VERB	_	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	6	parataxis	_	Hiero=𓇋𓎡𓇋|OSSC=Say
+5	ꞽ.kꞽ	ꞽ	VERB	_	Conjug=AfroAsia|Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	6	parataxis	_	Hiero=𓇋𓎡𓇋|OSSC=Say
 6	ꞽmi̯	rč̣i̯	VERB	_	Mood=Imp|Number=Sing|VerbClass=Anom|VerbForm=Fin	0	root	_	Hiero=𓏙
 7	mnč̣	mnč̣	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	Hiero=(𓏠:𓈖)(𓆓:𓂑)|Hierocl=𓂑
 8	⸗č	č	PRON	_	Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Prs	7	nmod	_	Hiero=𓍿|Pron=SFP
@@ -67398,7 +67398,7 @@
 1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	5	vocative	_	Hiero=(𓅭:𓊃)
 2	(⸗ꞽ)	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	nmod	_	Hiero=No
 3	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	Hiero=𓍹(𓊪:𓊪)𓇋𓇋𓍺|Name=King
-4	ꞽ.t(ꞽ)	ꞽ	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbClass=Def|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓏏|OSSC=Say
+4	ꞽ.t(ꞽ)	ꞽ	VERB	_	Conjug=AfroAsia|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbClass=Def|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓏏|OSSC=Say
 5	m	m	VERB	_	Mood=Imp|Number=Sing|VerbClass=Def|VerbForm=Fin	0	root	_	Hiero=𓅓𓌇|Hierocl=𓌇
 6	n	n	ADP	_	_	7	case	_	Hiero=𓈖|Status=Pron
 7	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Emp	5	obl:arg	_	Hiero=𓎡|Pron=SFP
@@ -67407,13 +67407,13 @@
 10	śnḳ	śnḳ	VERB	_	Conjug=Suffix|Mood=Sub|VerbClass=3lit|VerbForm=Fin	5	advcl:purp	_	Hiero=𓋴(𓈖:𓈎)UC_13992|Hierocl=UC_13992|SPC=Sub
 11	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	Hiero=𓎡|Hierogr=Yes|Pron=SFP
 12	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	Hiero=𓇓𓅱|Pron=Dep
-13	ꞽ.t(ꞽ)	ꞽ	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	5	parataxis	_	Hiero=𓇋𓏏|OSSC=Say
+13	ꞽ.t(ꞽ)	ꞽ	VERB	_	Conjug=AfroAsia|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	5	parataxis	_	Hiero=𓇋𓏏|OSSC=Say
 14	ꜥnḫ	ꜥnḫ	VERB	_	Conjug=Suffix|Mood=Sub|VerbClass=3lit|VerbForm=Fin	10	conj	_	Hiero=𓋹(𓈖:𓐍)|SPC=Sub
 15	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	nsubj	_	Hiero=𓎡|Pron=SFP
-16	ꞽ.t(ꞽ)	ꞽ	VERB	_	GGender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	14	parataxis	_	Hiero=𓇋𓏏|OSSC=Say
+16	ꞽ.t(ꞽ)	ꞽ	VERB	_	Conjug=AfroAsia|GGender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	14	parataxis	_	Hiero=𓇋𓏏|OSSC=Say
 17	nč̣ś	nč̣ś	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=Pred|Tense=Pres|VerbClass=3lit|VerbForm=Fin|Voice=Act	14	advcl	_	Hiero=(𓈖:𓆓)𓋴𓅪|Hierocl=𓅪
 18	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	17	nmod	_	Hiero=𓎡|Pron=SFP
-19	ꞽ.t(ꞽ)	ꞽ	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	17	parataxis	_	Hiero=𓇋𓏏|OSSC=Say
+19	ꞽ.t(ꞽ)	ꞽ	VERB	_	Conjug=AfroAsia|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	17	parataxis	_	Hiero=𓇋𓏏|OSSC=Say
 
 # sent_id = PT_Sethe_470_913a-b_Pepi
 # title = PT
@@ -67440,7 +67440,7 @@
 8	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	7	nmod	_	Hiero=𓎡|Pron=SFP
 9	m	m	ADP	_	Case=Ins	10	case	_	Hiero=𓅓|Status=Cons
 10	ꜣpṭ(.w)	ꜣpṭ	NOUN	_	Gender=Masc|Number=Plur	1	advcl	_	Hiero=𓄿(𓊪:𓂧)𓅭𓅭𓅭|Hierocl=𓅭𓅭𓅭
-11	ꞽ.t(ꞽ)	ꞽ	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓏏|OSSC=Say
+11	ꞽ.t(ꞽ)	ꞽ	VERB	_	Conjug=AfroAsia|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓏏|OSSC=Say
 
 # sent_id = PT_Sethe_470_913c-d_Pepi
 # title = PT
@@ -67492,7 +67492,7 @@
 7	ś:wꜣ	wꜣi̯	VERB	_	Conjug=Suffix|Mood=Sub|VerbClass=Caus3aeinf|VerbForm=Fin	6	advcl:purp	_	Hiero=𓋴𓍯𓈐|Hierocl=𓈐|SPC=Sub
 8	Ppy	Ppy	PROPN	_	Gender=Masc	7	nsubj	_	Hiero=𓍹(𓊪:𓊪)𓇋𓇋𓍺|Name=King
 9	pn	pn	DET	_	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	Hiero=(𓊪:𓈖)
-10	ꞽ.w	ꞽ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	3	parataxis	_	Hiero=𓇋𓅱|OSSC=Say
+10	ꞽ.w	ꞽ	VERB	_	Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	3	parataxis	_	Hiero=𓇋𓅱|OSSC=Say
 11	<ꞽn>	ꞽn	ADP	_	_	12	case	_	Hiero=No
 12	Ppy	Ppy	PROPN	_	Gender=Masc	10	dislocated:obl	_	_
 13	pn	pn	DET	_	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	Hiero=(𓊪:𓈖)
@@ -67549,7 +67549,7 @@
 16	Ppy	Ppy	PROPN	_	Gender=Masc	15	nsubj	_	Hiero=𓍹(𓊪:𓊪)𓇋𓇋𓍺|Name=King
 17	pn	pn	DET	_	Gender=Masc|Number=Sing|PronType=Dem	16	det	_	Hiero=(𓊪:𓈖)
 18	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	15	obj	_	Hiero=𓇳|Name=God
-19	ꞽ.k(ꞽ)	ꞽ	VERB	_	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓎡|OSSC=Say
+19	ꞽ.k(ꞽ)	ꞽ	VERB	_	Conjug=AfroAsia|Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓎡|OSSC=Say
 20	ꞽr	r	ADP	_	_	21	case	_	Hiero=𓇋𓂋|Status=Cons
 21	ꞽꜣ.(w)t	ꞽꜣ.t	NOUN	_	Gender=Fem|Number=Plur	5	conj	_	Hiero=𓇋𓄿(𓏏:𓈏)(𓈏:𓈏)|Hierocl=𓈏(𓈏:𓈏)
 22	ḳꜣꞽ.t	ḳꜣ	ADJ	_	Gender=Fem|Number=Sing	21	amod	_	Hiero=𓈎𓄿𓇋𓏏
