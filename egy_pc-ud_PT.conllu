@@ -24615,7 +24615,7 @@
 16-17	ḥr(.ꞽ)-ꞽb	_	_	_	_	_	_	_	Hiero=𓁷𓄣
 16	ḥr(.ꞽ)	ḥr	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	14	amod	_	Hiero=𓁷|Nisba=DePrep
 17	ꞽb	ꞽb	NOUN	_	Gender=Masc|Number=Sing	16	obl:nisba	_	Hiero=𓄣|MWE=Yes
-18	Ṭ(w)ꜣ.t	Ṭwꜣ.t	PROPN	_	Gender=Fem	17	nmod::poss	_	Hiero=𓂧𓄿(𓏏:𓇽)|Hierocl=𓇽|Name=Place
+18	Ṭ(w)ꜣ.t	Ṭwꜣ.t	PROPN	_	Gender=Fem	17	nmod:poss	_	Hiero=𓂧𓄿(𓏏:𓇽)|Hierocl=𓇽|Name=Place
 
 # sent_id = PT_Sethe_254_282b-c_Unas
 # title = PT
@@ -24825,7 +24825,7 @@
 12	ḳꜣ.t	ḳꜣ.t	NOUN	_	Gender=Fem|Number=Sing	11	nmod:nisba	_	Hiero=𓈎𓄿𓏏
 13	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod	_	Hiero=𓆑|Pron=SFP
 14	ꞽ(.w)	ꞽ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=Def|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓏤|Hierocl=𓏤|OSSC=Say
-15	ꞽn	ꞽn	ADP	_	_	15	case	_	Hiero=𓇋𓈖|Status=Cons
+15	ꞽn	ꞽn	ADP	_	_	16	case	_	Hiero=𓇋𓈖|Status=Cons
 16	ḫnt(.ꞽ)	ḫnt	NOUN	_	Gender=Masc|Number=Sing	14	dislocated:obl	_	Hiero=𓏅𓏏|Nisba=DePrep
 17	mnꞽ.t	mnꞽ.t	NOUN	_	Gender=Fem|Number=Sing	16	nmod:nisba	_	Hiero=(𓏠:𓈖)𓇋𓏏
 18	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	nmod	_	Hiero=𓆑|Pron=SFP
@@ -32162,7 +32162,7 @@
 8	m	m	ADP	_	Case=Ess|ExtPos=ADV	7	orphan	_	Hiero=𓅓|Status=Cons
 9	ḥtp	ḥtp.w	NOUN	_	Gender=Masc|Number=Sing	8	fixed	_	Hiero=(𓊵:𓏏:𓊪)
 10-12	Mꜣ-ḥꜣ-⸗f	_	_	_	_	_	_	_	Hiero=(𓌴:𓁹)𓄿(𓇉:𓆑)
-10	Mꜣ	Mꜣ	PROPN	_	Gender=Masc	1	vocative	_	Hiero=(𓌴:𓁹)𓄿|Hierocl=𓁹|Name=God
+10	Mꜣ	Mꜣ	PROPN	_	Gender=Masc	3	conj	_	Hiero=(𓌴:𓁹)𓄿|Hierocl=𓁹|Name=God
 11	ḥꜣ	ḥꜣ	ADP	_	_	10	flat:name	_	Hiero=𓇉|Status=Pron
 12	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	flat:name	_	Hiero=𓆑|Pron=SFP
 13-14	m-ḥtp	_	_	_	_	_	_	_	Hiero=𓅓𓊵:𓏏:𓊪
@@ -58580,7 +58580,7 @@
 # lang = Old_Egyptian
 # genre = religious
 # place = Saqqara
-# text = [h]ꜣ Ppy pw ḥtp č̣i̯ nsw ḥmś ⸗k ꞽꜣ.(w)t ⸗k Ḥr.w(ꞽ)t wnwn ⸗k ꞽꜣ.(w)t ⸗k Śtẖ.(ꞽ)t
+# text = [h]ꜣ Ppy pw ḥtp-č̣i̯-nsw ḥmś ⸗k ꞽꜣ.(w)t ⸗k Ḥr.w(ꞽ)t wnwn ⸗k ꞽꜣ.(w)t ⸗k Śtẖ.(ꞽ)t
 # lit = O this Pepi, a boon which the king grants, that you sit in the Mounds of Horus and that you travel the Mounds of Seth.
 # trans = O this Pepi, a boon which the king grants, that you occupy the Mounds of Horus and that you travel the Mounds of Seth.
 # type = Offering formula
