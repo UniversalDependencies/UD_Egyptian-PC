@@ -1,0 +1,100 @@
+# sent_id = PT_Sethe_499_1070a-b_Pepi
+# title = PT
+# edition = Sethe
+# spell = 499
+# section = 1070a-b
+# king = Pepi
+# date = 6th Dynasty
+# lang = Old_Egyptian
+# genre = religious
+# place = Saqqara
+# text = č̣(ṭ) mṭw ḥꜣ ⸗k ꞽ:tf ꞽ:tm hy śčꜣ
+1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf                                                           	0	root        	_	Hiero=𓆓
+2	mṭw  	mṭw	NOUN	_	Gender=Masc|Number=Sing                                                                           	1	obj         	_	Hiero=𓌃
+3	ḥꜣ   	ḥꜣ 	ADP 	_	StatPrep=Pron                                                                                     	4	case        	_	Hiero=𓇉𓄿
+4	⸗k   	k  	PRON	_	Gender=Masc|Number=Sing|Person=2|PronClass=Suffix|PronType=Prs                                    	1	ccomp:speech	_	Hiero=𓎡
+5	ꞽ:tf 	tf 	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Prefix=Yodh|Tense=Pres|VerbClass=2lit|VerbForm=Part|Voice=Act 	4	vocative    	_	Hiero=𓇋𓏤(𓏏:𓆑)
+6	ꞽ:tm 	tm 	AUX 	_	Gender=Masc|Number=Sing|Polarity=Neg|Prefix=Yodh|Tense=Pres|VerbClass=2lit|VerbForm=Part|Voice=Act	7	aux         	_	Hiero=𓇋(𓏏:𓍃)𓂜𓅓|Hierocl=𓂜
+7	hy   	hy 	VERB	_	Polarity=Neg|VerbClass=2lit|VerbForm=Inf                                                          	5	acl         	_	Hiero=𓉔𓇋𓇋|Inf=NegCom
+8	śčꜣ  	śčꜣ	VERB	_	Polarity=Neg|VerbClass=3lit|VerbForm=Inf                                                          	7	conj        	_	Hiero=𓋴𓍿𓄿𓍢|Hierocl=𓍢|Inf=NegCom
+
+# sent_id = PT_Sethe_499_1070b_Pepi
+# title = PT
+# edition = Sethe
+# spell = 499
+# section = 1070b
+# king = Pepi
+# date = 6th Dynasty
+# lang = Old_Egyptian
+# genre = religious
+# place = Saqqara
+# text = sꜣu̯ čw ꜥḥꜥ m ṭ[ś] ⸗ꞽ |
+1	sꜣu̯	sꜣu̯	VERB 	_	Mood=Imp|Number=Sing|VerbClass=3aeinf|VerbForm=Fin                    	0	root 	_	Hiero=𓎂𓄿𓅱
+2	čw  	čw  	PRON 	_	Gender=Masc|Number=Sing|Person=2|PronClass=Dep|PronType=Prs|Reflex=Yes	1	obj  	_	Hiero=𓍿𓅱
+3	ꜥḥꜥ 	ꜥḥꜥ 	VERB 	_	Mood=Imp|Number=Sing|VerbClass=3lit|VerbForm=Fin                      	1	conj 	_	Hiero=𓂝𓊢𓂝
+4	m   	m   	ADP  	_	StatPrep=Cons                                                         	5	case 	_	Hiero=𓅓
+5	ṭ[ś]	ṭś  	NOUN 	_	Gender=Masc|Number=Sing                                               	3	obl  	_	Hiero=𓂧[𓋴]
+6	⸗ꞽ  	ꞽ   	PRON 	_	Gender=Com|Number=Sing|Person=1|PronClass=Suffix|PronType=Prs         	5	nmod 	_	Hiero=𓇋
+7	|   	|   	PUNCT	_	_                                                                     	1	punct	_	LINE=Punct
+
+# sent_id = PT_Allen_500_1071a:1_Pepi
+# title = PT
+# edition = Allen
+# spell = 500
+# section = 1071a:1
+# king = Pepi
+# date = 6th Dynasty
+# lang = Old_Egyptian
+# genre = religious
+# place = Saqqara
+# text = č̣(ṭ) mṭw ꞽb ꞽm ꞽb ꞽm ḫtḫt ꞽm ḫtḫt ꞽm
+1 	č̣(ṭ)	č̣ṭ 	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf         	0	root        	_	Hiero=𓆓
+2 	mṭw  	mṭw 	NOUN	_	Gender=Masc|Number=Sing                         	1	obj         	_	Hiero=𓌃
+3 	ꞽb   	ꞽb  	NOUN	_	Gender=Masc|Number=Sing                         	7	vocative    	_	Hiero=𓄣𓏤|Hierocl=𓏤
+4 	ꞽm   	ꞽm  	ADV 	_	AdvType=Loc                                     	3	nmod        	_	Hiero=𓇋𓅓
+5 	ꞽb   	ꞽb  	NOUN	_	Gender=Masc|Number=Sing                         	3	conj        	_	Hiero=𓄣𓏤|Hierocl=𓏤
+6 	ꞽm   	ꞽm  	ADV 	_	AdvType=Loc                                     	5	nmod        	_	Hiero=𓇋𓅓
+7 	ḫtḫt 	ḫtḫt	VERB	_	Mood=Imp|Number=Sing|VerbClass=4lit|VerbForm=Fin	1	ccomp:speech	_	Hiero=(𓆱:𓐍𓏏)(𓆱:𓐍𓏏)𓂽|Hierocl=𓂽
+8 	ꞽm   	ꞽm  	ADV 	_	AdvType=Loc                                     	7	advmod      	_	Hiero=𓇋𓅓
+9 	ḫtḫt 	ḫtḫt	VERB	_	Mood=Imp|Number=Sing|VerbClass=4lit|VerbForm=Fin	7	conj        	_	Hiero=(𓆱:𓐍𓏏)(𓆱:𓐍𓏏)𓂽|Hierocl=𓂽
+10	ꞽm   	ꞽm  	ADV 	_	AdvType=Loc                                     	9	advmod      	_	Hiero=𓇋𓅓
+
+#	sent_id = PT_Allen_500_1071b:2_Pepi
+# title = PT
+# edition = Allen
+# spell = 500
+# section = 1071b:2
+# king = Pepi
+# date = 6th Dynasty
+# lang = Old_Egyptian
+# genre = religious
+# place = Saqqara
+# text = ḥꜣ ⸗k Ꞽmn-wr pr m ꜥ.t ꞽmn.t
+1  	ḥꜣ    	ḥꜣ  	ADP 	_	StatPrep=Pron                                                                                       	2	case    	_	Hiero=𓇉𓄿
+2  	⸗k    	k   	PRON	_	Gender=Masc|Number=Sing|Person=2|PronClass=Suffix|PronType=Prs                                      	0	root    	_	Hiero=𓎡
+3-4	Ꞽmn-wr	_   	_   	_	_                                                                                                   	_	_       	_	Hiero=
+3  	Ꞽmn   	ꞽmn 	VERB	_	Gender=Masc|NameType=Epith|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=3lit|VerbForm=Part|Voice=Act	2	vocative	_	Hiero=𓇋(𓏠:𓈖:𓂜)|Hierocl=𓂜
+4  	wr    	wr  	ADJ 	_	Gender=Masc|Number=Sing                                                                             	3	amod    	_	Hiero=(𓅨:𓂋)
+5  	pr    	pri̯	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbClass=3aeinf|VerbForm=Part|Voice=Act                         	3	acl     	_	Hiero=(𓉐:𓂋)
+6  	m     	m   	ADP 	_	Case=Ela|StatPrep=Cons                                                                              	7	case    	_	Hiero=𓅓
+7  	ꜥ.t   	ꜥ.t 	NOUN	_	Gender=Fem|Number=Sing                                                                              	5	obl     	_	Hiero=(𓂝:𓏏)𓄹|Hierocl=𓄹
+8  	ꞽmn.t 	ꞽmn 	VERB	_	Gender=Masc|Number=Sing|Tense=Pres|VerbClass=3lit|VerbForm=Part|Voice=Act                           	7	amod    	_	Hiero=𓇋(𓏠:𓈖)(𓂜:𓏏)|Hierocl=𓂜
+
+# sent_id = PT_Allen_500_1071c:3_Pepi
+# title = PT
+# edition = Allen
+# spell = 500
+# section = 1071c:3
+# king = Pepi
+# date = 6th Dynasty
+# lang = Old_Egyptian
+# genre = religious
+# place = Saqqara
+# text = mꜣ sꜣu̯ čw šp(.ꞽ) ⸗ꞽ |
+1	mꜣ    	mꜣꜣ 	VERB 	_	Mood=Imp|Number=Sing|VerbClass=2aered|VerbForm=Fin                                   	0	root   	_	Hiero=(𓌴:𓁹)𓄿|Hierocl=𓁹
+2	sꜣu̯  	sꜣu̯	VERB 	_	Mood=Imp|Number=Sing|VerbClass=3aeinf|VerbForm=Fin                                   	1	conj   	_	Hiero=(𓊃:𓎂)𓄿𓅱
+3	čw    	čw  	PRON 	_	Gender=Masc|Number=Sing|Person=2|PronClass=Dep|PronType=Prs|Reflex=Yes               	2	expl:pv	_	Hiero=𓍿𓅱
+4	šp(.ꞽ)	šp  	VERB 	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=2lit|VerbForm=Part|Voice=Act	2	obj    	_	Hiero=(𓈙:𓊪)𓁹|Hierocl=𓁹
+5	⸗ꞽ    	ꞽ   	PRON 	_	Gender=Com|Number=Sing|Person=1|Poss=Yes|PronClass=Suffix|PronType=Prs               	4	nmod   	_	Hiero=𓇋
+6	|     	|   	PUNCT	_	_                                                                                    	1	punct  	_	LINE=Punct
+
