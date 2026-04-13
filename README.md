@@ -15,33 +15,33 @@ Egyptian](https://universaldependencies.org/egy/index.html); and the bibliograph
 
 Tübingen Transcription System
 
-| Egypt | Schenkel | Computer |
-| :---: | :---: | :---: |
-| 𓄿 | ꜣ | A |
-| 𓇋 | ꞽ | i |
-| 𓇌 | y | y |
-| 𓂝 | ꜥ | a |
-| 𓅱 | w | w |
-| 𓃀 | b | b |
-| 𓊪 | p | p |
-| 𓆑 | f | f |
-| 𓅓 | m | m |
-| 𓈖 | n | n |
-| 𓂋 | r | r |
-| 𓉔 | h | h |
-| 𓎛 | ḥ | H |
-| 𓐍 | ḫ | x |
-| 𓄡 | ẖ | X |
-| 𓊃 | s | z |
-| 𓋴 | ś | s |
-| 𓈙 | š | S |
-| 𓈎 | ḳ | q |
-| 𓎡 | k | k |
-| 𓎼 | g | g |
-| 𓏏 | t | t |
-| 𓍿 | č | T |
-| 𓂧 | ṭ | d |
-| 𓆓 | č̣ | D |
+| Egypt | Schenkel | Unicode | Computer |
+| :---: | :---: | :---: | :---: |
+| 𓄿 | ꜣ | | A |
+| 𓇋 | ꞽ | | i |
+| 𓇌 | y | | y |
+| 𓂝 | ꜥ | | a |
+| 𓅱 | w | | w |
+| 𓃀 | b | | b |
+| 𓊪 | p | | p |
+| 𓆑 | f | | f |
+| 𓅓 | m | | m |
+| 𓈖 | n | | n |
+| 𓂋 | r | | r |
+| 𓉔 | h | | h |
+| 𓎛 | ḥ | | H |
+| 𓐍 | ḫ | | x |
+| 𓄡 | ẖ | | X |
+| 𓊃 | s | | z |
+| 𓋴 | ś | | s |
+| 𓈙 | š | | S |
+| 𓈎 | ḳ | | q |
+| 𓎡 | k | | k |
+| 𓎼 | g | | g |
+| 𓏏 | t | | t |
+| 𓍿 | č | | T |
+| 𓂧 | ṭ | | d |
+| 𓆓 | č̣ | | D |
 
 # Acknowledgments
 
