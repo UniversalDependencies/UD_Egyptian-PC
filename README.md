@@ -17,10 +17,10 @@ Tübingen Transcription System
 
 | Egypt | Schenkel | Unicode | Computer |
 | :---: | :---: | :---: | :---: |
-| 𓄿 | ꜣ | | A |
-| 𓇋 | ꞽ | | i |
+| 𓄿 | ꜣ | U+A723 | A |
+| 𓇋 | ꞽ | U+A7BD | i |
 | 𓇌 | y | | y |
-| 𓂝 | ꜥ | | a |
+| 𓂝 | ꜥ | U+A725 | a |
 | 𓅱 | w | | w |
 | 𓃀 | b | | b |
 | 𓊪 | p | | p |
@@ -29,19 +29,19 @@ Tübingen Transcription System
 | 𓈖 | n | | n |
 | 𓂋 | r | | r |
 | 𓉔 | h | | h |
-| 𓎛 | ḥ | | H |
-| 𓐍 | ḫ | | x |
-| 𓄡 | ẖ | | X |
+| 𓎛 | ḥ | U+1E25 | H |
+| 𓐍 | ḫ | U+1E2B | x |
+| 𓄡 | ẖ | U+1E96 | X |
 | 𓊃 | s | | z |
-| 𓋴 | ś | | s |
-| 𓈙 | š | | S |
-| 𓈎 | ḳ | | q |
+| 𓋴 | ś | U+015B | s |
+| 𓈙 | š | U+0161 | S |
+| 𓈎 | ḳ | U+1E33 | q |
 | 𓎡 | k | | k |
 | 𓎼 | g | | g |
 | 𓏏 | t | | t |
-| 𓍿 | č | | T |
-| 𓂧 | ṭ | | d |
-| 𓆓 | č̣ | | D |
+| 𓍿 | č | U+010D | T |
+| 𓂧 | ṭ | U+1E6D | d |
+| 𓆓 | č̣ | U+010D+U+0323 | D |
 
 # Acknowledgments
 
