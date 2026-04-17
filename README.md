@@ -18,7 +18,7 @@ Tübingen Transcription System
 | Egypt | Schenkel | Unicode | Computer |
 | :---: | :---: | :---: | :---: |
 | 𓄿 | ꜣ | U+A723 | A |
-| 𓇋 | ꞽ | U+A7BD | i |
+| 𓇋 | ꞽ | U+A7BD | j |
 | 𓇌 | y | | y |
 | 𓂝 | ꜥ | U+A725 | a |
 | 𓅱 | w | | w |
