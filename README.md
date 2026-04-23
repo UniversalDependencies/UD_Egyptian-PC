@@ -1,11 +1,13 @@
 # Summary
 
-Egyptian-PC is the first dependency treebank created for the morphosyntactic annotation of pre-Coptic Egyptian. It is developed at the University of Jaén. Its current state (UD v2.18) consists of 2,994 sentences and 33,019 tokens manually annotated from the Pyramid Texts. 
+Egyptian-PC is the first dependency treebank created for the morphosyntactic annotation of pre-Coptic Egyptian. It is developed at the University of Jaén. Its current state (UD v2.18) consists of 3,089 sentences and 34,234 tokens manually annotated from the Pyramid Texts. 
 
 
 # Introduction
 
-The Egyptian-PC treebank (henceforth EPC; originally released as Egyptian-UJaen) contains a corpus of Egyptian texts manually annotated using the Tübingen transcription system (see below). It aims to contribute to the Universal Dependencies (UD) project and to the PARSEME corpora of multiword expressions in order to compare Egyptian morphosyntactic features with those from other languages. The EPC treebank started as UD release 2.14 with 5,515 words and 707 sentences. It contained Old Egyptian multiword expressions and sentences from the Pyramid Texts (see list of sources, below). Unas's Pyramid Texts were annotated in the EPC treebank for the UD release 2.15, and Teti's Pyramid Texts for the UD release 2.16. Annotation of Pepi I's Pyramid Texts began for the UD release 2.17. Data exploration in these texts can be carried out using [GrewPT](https://grew.fr/grew_match/pt/)
+The Egyptian-PC treebank (henceforth EPC; originally released as Egyptian-UJaen) contains a corpus of Egyptian texts manually annotated using the Tübingen transcription system (see below). It aims to contribute to the Universal Dependencies (UD) project and to the PARSEME corpora of multiword expressions in order to compare Egyptian morphosyntactic features with those from other languages. The EPC treebank started as UD release 2.14 with 5,515 words and 707 sentences. It contained Old Egyptian multiword expressions and sentences from the Pyramid Texts (see list of sources, below). Unas's Pyramid Texts were annotated in the EPC treebank for the UD release 2.15, and Teti's Pyramid Texts for the UD release 2.16. Annotation of Pepi I's Pyramid Texts began for the UD release 2.17. The Pyramid Texts were annotated up to utterance 514 in the UD release 2.18. The last version of the EPC treebank has been used to develop a [parser](https://web.ujaen.es/investiga/nile-in-contact/Analizador_es.html) for Earlier Egyptian based on Stanza.
+
+Data exploration in the Pyramid Texts can be carried out using [GrewPT](https://grew.fr/grew_match/pt/)
 
 The treebank will contain texts from various historical stages: Old Egyptian, Middle Egyptian, Late Egyptian
 and Demotic. For an overall description of these linguistic stages, see the [Language Page for
