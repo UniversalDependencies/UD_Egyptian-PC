@@ -94,6 +94,7 @@ Oxford.
 
 # Digital resources for Egyptian
 
+- [EPC parser](https://web.ujaen.es/investiga/nile-in-contact/Analizador_es.html)
 - [GrewPT](https://grew.fr/grew_match/about/)
 - [Ramses Online](http://ramses.ulg.ac.be/)
 - [Thesaurus Linguae Aegyptiae](https://thesaurus-linguae-aegyptiae.de/home)
