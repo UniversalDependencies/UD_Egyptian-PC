@@ -5,174 +5,212 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>2347</sentences><tokens>23565</tokens><words>24375</words><fused>709</fused></total>
-    <train><sentences>1091</sentences><tokens>12243</tokens><words>12711</words><fused>401</fused></train>
-    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>1256</sentences><tokens>11322</tokens><words>11664</words><fused>308</fused></test>
+    <total><sentences>3089</sentences><tokens>32796</tokens><words>34234</words><fused>1224</fused></total>
+    <train><sentences>1619</sentences><tokens>18684</tokens><words>19486</words><fused>719</fused></train>
+    <dev><sentences>230</sentences><tokens>2878</tokens><words>3167</words><fused>184</fused></dev>
+    <test><sentences>1240</sentences><tokens>11234</tokens><words>11581</words><fused>321</fused></test>
   </size>
-  <lemmas unique="1650" /><!-- k, m, f, n, Wnꞽś, r, Ttꞽ, ḥr.w, č̣ṭ, mṭw, ḥr, nčr, śn, wśr.w, | -->
-  <forms unique="2897" /><!-- ⸗k, ⸗f, m, n, Wnꞽś, Ttꞽ, Ḥr.w, mṭw, č̣(ṭ), n(.ꞽ), ꞽr, wśr(.w), ꞽm, ḥr, | -->
-  <fusions unique="289" /><!-- m-ꜥw, m-m, m-ḥtp, Mr-n(.ꞽ)-ḫꜣ, Ḥr.w-ꜣḫ.tꞽ, m-ḫt, ꞽ:nč̣-(⸗ꞽ)-ḥr, ꞽ:ḫm-śk(.w), m-bꜣḥ, p(w)-nn, ꞽ:(n)č̣-(⸗ꞽ)-ḥr, m-ꜥb, ẖnw-ꜥw(.wꞽ), ꞽ:ḫm(.w)-śk(.w), m-ẖnw -->
+  <lemmas unique="1769" /><!-- k, f, m, n, r, Wnꞽś, ḥr.w, č̣ṭ, mṭw, Ppy, ḥr, Ttꞽ, pn, nčr, rꜥw -->
+  <forms unique="3674" /><!-- ⸗k, ⸗f, m, n, Wnꞽś, Ḥr.w, mṭw, Ppy, Ttꞽ, ꞽr, č̣(ṭ), pn, rꜥw, ḥr, n(.ꞽ) -->
+  <fusions unique="403" /><!-- Nfr-kꜣ-Rꜥw, Mr.y-Rꜥw, m-ꜥw, m-m, Ḥr.w-ꜣḫ.tꞽ, Nb.t-ḥw.t, Mr-n(.ꞽ)-ḫꜣ, m-ḥtp, m-ḫt, m-ṭp, m-bꜣḥ, ꞽ:ḫm-śk(.w), m-ḫnt, m-ꜥb, Ḫnt(.ꞽ)-ꞽmn.t(ꞽ)w -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">943</tag><!-- n, m, nb, wr, ḥr, ḫnt, ꞽꜣb.t, ꜥꜣ, ẖr, ḥč̣ -->
-    <tag name="ADP">3103</tag><!-- m, n, r, ḥr, ḫr, ꞽn, ḥnꜥ, ṭp, ꞽś, ḥꜣ -->
-    <tag name="ADV">138</tag><!-- ꞽm, nn, čnꞽ, č̣w, č̣ṭk, ꞽwn, wr, č̣rč, mꞽn, ꜥn -->
-    <tag name="AUX">117</tag><!-- ꞽmi̯, ꞽw, tm, wnn -->
-    <tag name="CCONJ">59</tag><!-- ḥnꜥ, ꞽśč -->
-    <tag name="DET">566</tag><!-- pw, pn, pf, tn, tw, pꞽ, ꞽpf, ꞽpn, ꞽptw, tf -->
-    <tag name="INTJ">123</tag><!-- hꜣ, ꞽ, wꞽ, hꞽ, ꞽꜣ, ḥw -->
-    <tag name="NOUN">6113</tag><!-- mṭw, nčr, ꞽr.t, p.t, ꜥw, ḥr, rn, tꜣ, kꜣ, ꞽb -->
-    <tag name="NUM">296</tag><!-- 4, 2, 1, ḫꜣ, ꞽfṭ.w, wꜥ, 5, 3, śfḫ.t, śn.w -->
-    <tag name="PART">392</tag><!-- nꞽ, ꞽw, ꞽn, ꞽś, m, ꜣ, ḥm, wnn.t, rrꞽ, ḥw -->
-    <tag name="PRON">4623</tag><!-- k, f, śn, čw, ś, č, św, ꞽ, čn, śꞽ -->
-    <tag name="PROPN">3000</tag><!-- Wnꞽś, Ttꞽ, ḥr.w, Wśr.w, Rꜥw, Ppy, Śtẖ, Gbb, Nw.t, Ꞽtm.w -->
-    <tag name="PUNCT">260</tag><!-- | -->
-    <tag name="SCONJ">89</tag><!-- mr, n, ꞽśč, ꞽśk, m, n.ty, r, ꞽr, č̣r, ꞽw -->
-    <tag name="VERB">4454</tag><!-- č̣ṭ, rč̣i̯, ꞽwi̯, pri̯, m, ꞽri̯, ꜥnḫ, wṭi̯, mꜣꜣ, ꞽni̯ -->
-    <tag name="X">99</tag><!-- _, {nb}, ꜣꜣꜣ, {n}, {ꞽ}, ḫwrr, hꞽ, {r}, kbb, phtꞽ -->
+    <tag name="ADJ">1315</tag><!-- n, m, wr, nb, ꜥꜣ, ḥr, ꞽꜣb.t, ḫnt, r, ṭp -->
+    <tag name="ADP">4420</tag><!-- m, n, r, ḥr, ḫr, ꞽn, ḥnꜥ, ṭp, ꞽś, mr -->
+    <tag name="ADV">196</tag><!-- ꞽm, nn, čnꞽ, č̣w, č̣ṭk, ꞽwn, č̣rč, wr, ꜥꜣ, mꞽn -->
+    <tag name="AUX">146</tag><!-- ꞽmi̯, ꞽw, tm, ḫm, wnn -->
+    <tag name="CCONJ">65</tag><!-- ḥnꜥ, ꞽśč -->
+    <tag name="DET">939</tag><!-- pn, pw, pf, tn, tw, ꞽpn, pꞽ, ꞽpw, ꞽptw, ꞽpf -->
+    <tag name="INTJ">171</tag><!-- hꜣ, ꞽ, wꞽ, ꞽꜣ, hꞽ, y, wy, ḥw -->
+    <tag name="NOUN">8619</tag><!-- mṭw, nčr, p.t, kꜣ, ꞽr.t, ꜥw, tꜣ, ḥr, rn, ꜣḫ.t -->
+    <tag name="NUM">333</tag><!-- 4, 2, 1, ꞽfṭ.w, ḫꜣ, wꜥ, śn.w, 3, 5, mč̣ -->
+    <tag name="PART">541</tag><!-- nꞽ, ꞽw, ꞽn, ꞽś, m, ꜣ, ḥm, ꞽw.t, n.tt, rrꞽ -->
+    <tag name="PRON">6251</tag><!-- k, f, śn, ś, čw, ꞽ, św, č, čn, śꞽ -->
+    <tag name="PROPN">4276</tag><!-- Wnꞽś, Ḥr.w, Ppy, Ttꞽ, Rꜥw, Wśr.w, Śtẖ, Nfr, Gbb, Nw.t -->
+    <tag name="PUNCT">320</tag><!-- | -->
+    <tag name="SCONJ">106</tag><!-- n, mr, ꞽśč, m, ꞽśk, r, ꞽr, ꞽw, č̣r, wn.t -->
+    <tag name="VERB">6293</tag><!-- č̣ṭ, ꞽwi̯, rč̣i̯, pri̯, ꞽri̯, m, ꜥnḫ, wṭi̯, wꜥb, ꜥḥꜥ -->
+    <tag name="X">243</tag><!-- _, ꞽ, nb, f, n, [...], k, ꜣꜣꜣ, ḫwrr, hꞽ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="94">
-    <feat name="AdvType" value="Deg" upos="ADV">2</feat><!-- wr -->
-    <feat name="AdvType" value="Loc" upos="ADV">85</feat><!-- ꞽm, nn, [ꞽ]m, ꜥꜣ -->
+  <feats unique="113">
+    <feat name="AdvType" value="Deg" upos="ADV">3</feat><!-- wr, wr.t -->
+    <feat name="AdvType" value="Loc" upos="ADV">119</feat><!-- ꞽm, nn, ꜥꜣ, [ꞽ]m -->
     <feat name="AdvType" value="Man" upos="ADV,NOUN">8</feat><!-- č̣w, mwmw, [ꞽm], ꞽm -->
     <feat name="AdvType" value="Mod" upos="ADV">1</feat><!-- ꞽm -->
-    <feat name="AdvType" value="Tim" upos="ADV,NOUN">34</feat><!-- č̣.t, rꜥw, hrw, grḥ, mrn, č̣.t{n}, ꜣ.t, ꜥn -->
+    <feat name="AdvType" value="Tim" upos="ADV,NOUN">24</feat><!-- č̣.t, hrw, [č̣.t], grḥ, mrn, ꜥn -->
     <feat name="Aspect" value="Hab" upos="AUX">6</feat><!-- ꞽw, ꞽ(w) -->
-    <feat name="Aspect" value="Perf" upos="AUX">28</feat><!-- ꞽw, ꞽ(w) -->
-    <feat name="Case" value="Abl" upos="ADP">37</feat><!-- m, ꞽm, (ꞽ)m, ḥr -->
-    <feat name="Case" value="Acc" upos="ADP">18</feat><!-- n, ꞽm -->
-    <feat name="Case" value="All" upos="ADP">74</feat><!-- r, ꞽr, n, (ꞽ)r -->
-    <feat name="Case" value="Ben" upos="ADP,NOUN">390</feat><!-- n, [n], [<n>], n{t}, ꞽr, ꞽr.t -->
-    <feat name="Case" value="Cau" upos="ADP">42</feat><!-- n, ḥr, ḫr, [n], m -->
-    <feat name="Case" value="Cmp" upos="ADP">39</feat><!-- ꞽr, r -->
-    <feat name="Case" value="Com" upos="ADP">98</feat><!-- ḫr, ḥnꜥ, m, ꞽm.(w)t(ꞽ), ꞽm.wt(ꞽ), [ḫr], ꞽm.wtꞽ -->
-    <feat name="Case" value="Dis" upos="ADJ,ADP">21</feat><!-- m, ꞽm.t -->
-    <feat name="Case" value="Ela" upos="ADP">72</feat><!-- m, ꞽm, ꞽr, [ꞽm], ḫr, [m] -->
-    <feat name="Case" value="Equ" upos="ADJ,ADP,NOUN">197</feat><!-- m, ꞽś, mr, ꞽm(.ꞽ), r, <m>, [m], ꞽm -->
-    <feat name="Case" value="Ess" upos="ADP">27</feat><!-- m -->
-    <feat name="Case" value="Gen" upos="ADJ,NOUN,PROPN">371</feat><!-- n(.ꞽ), n.t, n.(ꞽ)w, [n(.ꞽ)], n.ꞽ, [n.t], nčr, (ꞽ)m(.ꞽw), P(ꞽ), Wśr(.w) -->
-    <feat name="Case" value="Ill" upos="ADP">7</feat><!-- ꞽr, r -->
-    <feat name="Case" value="Ins" upos="ADP">205</feat><!-- m, ꞽm, ḥr, [m], <m>, [ꞽm], ˹m˺, ẖr -->
-    <feat name="Case" value="Lat" upos="ADP">18</feat><!-- ꞽr, n, r -->
-    <feat name="Case" value="Loc" upos="ADJ,ADP,NOUN">528</feat><!-- m, ꞽm(.ꞽ), ꞽm, ꞽm.(ꞽ)w, ꞽm.t, ḫnt(.ꞽ), ḥr, [m], č̣r, ḥr.t -->
-    <feat name="Case" value="Sub" upos="ADJ,ADP,NOUN">36</feat><!-- ẖr, ẖr(.ꞽ), ẖr.t, ẖr.ꞽ, [ẖr](.ꞽ), ṭp.t -->
-    <feat name="Case" value="Sup" upos="ADJ,ADP,NOUN">44</feat><!-- ḥr, ṭp, ṭp.(ꞽ)w, ḥr(.ꞽ), [ḥr] -->
-    <feat name="Case" value="Tem" upos="ADP">9</feat><!-- m -->
+    <feat name="Aspect" value="Perf" upos="AUX,VERB">210</feat><!-- ꞽꞽ, ꞽw, sꞽ, pr, ḫr, mś.w, ꞽr.t, śčp, wn.t, šm -->
+    <feat name="Aspect" value="Prosp" upos="VERB">12</feat><!-- ḫpr.t, mś.t, sꜣꞽ.t, wn.t, wṭ.t, č̣ꜣ.t, šw.t, šṭ.t -->
+    <feat name="Aspect" value="Stat" upos="VERB">236</feat><!-- č̣ṭ(.w), wč̣ꜣ.t(ꞽ), ꜣḫ(.w), ꜥpr(.w), nfr(.w), ꜥnḫ(.w), ꞽ:rḫ.t(ꞽ), bꜣ.tꞽ, mn.tꞽ, tm.tꞽ -->
+    <feat name="Case" value="Abl" upos="ADP">14</feat><!-- ḥr, [ḥr] -->
+    <feat name="Case" value="All" upos="ADP">533</feat><!-- ꞽr, r, ḫr, [r], [ꞽr], ˹r˺, (ꞽ)r, [ḫr], ˹ꞽ˺r, ꞽ[r] -->
+    <feat name="Case" value="Ben" upos="ADP">179</feat><!-- n, [n], ˹n˺ -->
+    <feat name="Case" value="Cau" upos="ADP">87</feat><!-- n, ḥr, [n] -->
+    <feat name="Case" value="Cmp" upos="ADP">40</feat><!-- ꞽr, r -->
+    <feat name="Case" value="Com" upos="ADP">186</feat><!-- ḫr, ḥnꜥ, m, ꞽm.(w)t(ꞽ), ꞽm.wt(ꞽ), [ḫr], ꞽm, ꞽm(w).tꞽ, ꞽm.wtꞽ, [ḥ]nꜥ -->
+    <feat name="Case" value="Dat" upos="ADP">938</feat><!-- n, [n], <n>, [<n>], ˹n˺, n{t} -->
+    <feat name="Case" value="Dis" upos="ADJ,ADP">43</feat><!-- m, ꞽm.t -->
+    <feat name="Case" value="Ela" upos="ADP">144</feat><!-- m, ꞽm, ꞽr, (ꞽ)m, [m], ḫr, [ꞽm], r, [ꞽ]r, ˹m˺ -->
+    <feat name="Case" value="Equ" upos="ADJ,ADP,NOUN">318</feat><!-- m, ꞽś, mr, ꞽm(.ꞽ), [m], <m>, [mr], ˹m˺, ꞽmr, [ꞽś] -->
+    <feat name="Case" value="Ess" upos="ADP">168</feat><!-- m, [m], ˹m˺, ꞽm -->
+    <feat name="Case" value="Gen" upos="ADJ,NOUN,PROPN">467</feat><!-- n(.ꞽ), n.t, n.(ꞽ)w, n.ꞽ, [n(.ꞽ)], [n.t], nčr, (ꞽ)m(.ꞽw), n(.t), nw.ꞽ -->
+    <feat name="Case" value="Ins" upos="ADP">239</feat><!-- m, ꞽm, ẖr, [m], <m>, n, [ꞽm] -->
+    <feat name="Case" value="Lat" upos="ADP">71</feat><!-- n, [n] -->
+    <feat name="Case" value="Loc" upos="ADJ,ADP,NOUN">1038</feat><!-- m, ḥr, ꞽm(.ꞽ), ꞽm, ꞽm.t, ꞽm.(ꞽ)w, ḫnt(.ꞽ), [m], ˹m˺, ḥr.t -->
+    <feat name="Case" value="Par" upos="ADP">49</feat><!-- m, ꞽm -->
+    <feat name="Case" value="Sub" upos="ADJ,ADP,NOUN">50</feat><!-- ẖr, ẖr(.ꞽ), ẖr.t, ẖr.ꞽ, [ẖr(.ꞽ)], ṭp.t -->
+    <feat name="Case" value="Sup" upos="ADP,NOUN">61</feat><!-- ṭp, ḥr(.ꞽ), ṭp.(ꞽ)w -->
+    <feat name="Case" value="Tem" upos="ADP">59</feat><!-- m, n, ꞽr, ꞽr{f} -->
+    <feat name="Conjug" value="AfroAsia" upos="AUX,VERB">386</feat><!-- č̣ṭ(.w), ꞽ.t(ꞽ), pr(.w), ꞽꞽ.y, wč̣ꜣ.t(ꞽ), ꞽ:rḫ(.w), ꜥnḫ(.w), bꜣ.tꞽ, rḫ(.w), ḫꜥ(.w) -->
+    <feat name="Conjug" value="Suffix" upos="AUX,PROPN,VERB">3669</feat><!-- pr, ꞽꞽ, č̣i̯, rč̣.n, ꜥnḫ, wꜥb, č̣ꜣ, ꞽw.n, ꞽr, ꞽꞽ.n -->
     <feat name="ExtPos" value="ADJ" upos="ADJ,ADP">4</feat><!-- r, ꞽm.(ꞽ)w -->
-    <feat name="ExtPos" value="ADP" upos="ADP">157</feat><!-- m, ṭp, ḥr, r, ꞽr, [m], [n] -->
-    <feat name="ExtPos" value="ADV" upos="ADP,NOUN">31</feat><!-- m, r, č̣.t, [ꞽr], n, čꜣs -->
-    <feat name="ExtPos" value="INTJ" upos="ADP,PART">26</feat><!-- m, (ꞽ)r, ꞽr -->
-    <feat name="ExtPos" value="PRON" upos="DET,NOUN">35</feat><!-- č̣ś, p(w), č̣.t, pw, tw, [č̣.t] -->
-    <feat name="ExtPos" value="SCONJ" upos="ADP">15</feat><!-- n, m -->
-    <feat name="Foreign" value="Yes" upos="VERB,X">30</feat><!-- ꜣꜣꜣ, hꞽ, kbb, phtꞽ, pčtꞽ, ꞽmḥw, bś, bꞽ, bꞽtꞽ, hnw -->
-    <feat name="Gender" value="Com" upos="PRON,VERB">601</feat><!-- ⸗śn, (⸗ꞽ), ⸗čn, śn, ⸗čn(ꞽ), ⸗ꞽ, ꞽnk, čn, bꜣ.tꞽ, ⸗śn(ꞽ) -->
-    <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">3039</feat><!-- ⸗ś, ꞽr.t, ⸗č, p.t, ḥnw.t, ś(ꞽ), ꜣḫ.t, č̣.t, wr.t, Nw.t -->
-    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">13030</feat><!-- ⸗k, ⸗f, Wnꞽś, Ttꞽ, Ḥr.w, mṭw, č̣(ṭ), n(.ꞽ), wśr(.w), pn -->
+    <feat name="ExtPos" value="ADP" upos="ADP">248</feat><!-- m, ṭp, ꞽr, ḥr, r, [m], [n], ˹m˺, ˹wpw˺ -->
+    <feat name="ExtPos" value="ADV" upos="ADP,NOUN">55</feat><!-- m, rꜥw, n, r, č̣.t, [m], [ꞽr], čꜣs, ˹r˺ -->
+    <feat name="ExtPos" value="INTJ" upos="ADP,PART">112</feat><!-- (ꞽ)r, ꞽr, m, r -->
+    <feat name="ExtPos" value="PRON" upos="DET,NOUN,PART">37</feat><!-- č̣ś, p(w), č̣.t, pw, tw, [č̣.t], ꞽn -->
+    <feat name="ExtPos" value="SCONJ" upos="ADP">17</feat><!-- n, m -->
+    <feat name="Foreign" value="Yes" upos="VERB,X">29</feat><!-- ꜣꜣꜣ, hꞽ, kbb, phtꞽ, pčtꞽ, ꞽmḥw, bś, bꞽ, bꞽtꞽ, tꞽtꞽ -->
+    <feat name="Gender" value="Com" upos="PRON,VERB">887</feat><!-- ⸗śn, (⸗ꞽ), ⸗čn, ⸗ꞽ, ⸗čn(ꞽ), ⸗śn(ꞽ), śn, ꞽnk, <⸗ꞽ>, [(⸗ꞽ)] -->
+    <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">4128</feat><!-- p.t, ⸗ś, ꞽr.t, ⸗č, wr.t, ś(ꞽ), ꜣḫ.t, ḥnw.t, nw.t, śḫ.t -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">18355</feat><!-- ⸗k, ⸗f, Wnꞽś, Ḥr.w, mṭw, Ppy, Ttꞽ, č̣(ṭ), pn, rꜥw -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">13</feat><!-- rč̣.kꜣ, sḫ.kꜣ, wṭ.kꜣ, ꞽ:tm, ꞽr.kꜣ, ꞽw.kꜣ, tm.ḫr -->
-    <feat name="Mood" value="Imp" upos="AUX,VERB">624</feat><!-- m, (ꞽ)m, ḥtm, ꜥḥꜥ, ḫw, ꞽn, šsp, sꜣu̯, čs, sbn -->
-    <feat name="Mood" value="Ind" upos="AUX,PROPN,VERB">1980</feat><!-- ꞽꞽ, rč̣.n, ꞽw.n, ꞽꞽ.n, ꜥnḫ, pr, mꜣ.n, sꞽ, ꞽw, (w)ṭ.n -->
-    <feat name="Mood" value="Pot" upos="VERB">38</feat><!-- rč̣.n, śḫm.n, bꞽꜣ.n, swr.n, wnm.n, wp.n, šw.n, ẖn.n, ꞽw.n, ꞽč.n -->
-    <feat name="Mood" value="Sub" upos="AUX,VERB">769</feat><!-- č̣i̯, č̣ꜣ, ꜥḥꜥ, ꞽ:nč̣, ꞽr, mꜣ, ꞽm, pr, ḥtp, ꜥnḫ -->
-    <feat name="Nominal" value="Yes" upos="ADJ,AUX,VERB">334</feat><!-- mr.y, wr, č̣śr, ꜥnḫ.t, ꞽr.w, wnm.t, ḫbč̣, ꜥꜣ, ꞽꞽ, nfr.t -->
-    <feat name="Number" value="Coll" upos="NOUN">57</feat><!-- pśč̣.t, ḥnmm.t, pꜥ.t, rmč, rḫ.(w)t, rnp.(w)t, ꜣw.t, ꞽs.t, ꞽt, [pśč̣.t] -->
-    <feat name="Number" value="Dual" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">369</feat><!-- ꜥw(.wꞽ), ꜥꜣ(.wꞽ), ꜥw.w(ꞽ), ꞽr.t(ꞽ), ꜣḫ.tꞽ, rṭ(.wꞽ), sḫn.w(ꞽ), ⸗čn(ꞽ), pśč̣.t(ꞽ), tꜣ(.wꞽ) -->
-    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">1444</feat><!-- ⸗śn, nčr(.w), ⸗čn, ꞽm.(ꞽ)w, mw, ꜣḫ(.w), kꜣ(.w), ꞽꜣr.w, ḳś(.w), ꞽmn.t(ꞽ)w -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">12095</feat><!-- ⸗k, ⸗f, mṭw, n(.ꞽ), pn, čw, ⸗ś, ꞽr.t, pw, ⸗č -->
-    <feat name="NumType" value="Card" upos="NUM">291</feat><!-- 4, 2, 1, ḫꜣ, fṭ.w, wꜥ, ḫꜣ(.w), 5, 3, [2] -->
-    <feat name="NumType" value="Ord" upos="NUM">5</feat><!-- ḫtm.nw, fṭ.nw, ḫmt.nw, ṭp(.ꞽ) -->
-    <feat name="PartType" value="Emp" upos="PART">63</feat><!-- ꞽn, ꞽś, ḥm, wnn.t, m -->
-    <feat name="PartType" value="Int" upos="PART">7</feat><!-- ꞽn, [ꞽn] -->
-    <feat name="PartType" value="Mod" upos="PART">15</feat><!-- ꜣ, my, wn.t -->
-    <feat name="PartType" value="Neg" upos="PART">201</feat><!-- nꞽ, [nꞽ], w, nn, ny -->
-    <feat name="Person" value="1" upos="PRON,VERB">165</feat><!-- (⸗ꞽ), ⸗ꞽ, ꞽnk, [(⸗ꞽ)], w(ꞽ), ⸗n, <⸗ꞽ>, nꞽś.k(w), wꞽ, śn -->
-    <feat name="Person" value="2" upos="PRON,VERB">2491</feat><!-- ⸗k, čw, ⸗č, ⸗čn, kw, čwt, <⸗k>, [⸗k], ⸗f, ⸗čn(ꞽ) -->
-    <feat name="Person" value="3" upos="PRON,VERB">2219</feat><!-- ⸗f, ⸗śn, ⸗ś, św, ś(ꞽ), [⸗f], śn, ⸗f(ꞽ), <⸗f>, śwt -->
-    <feat name="Polarity" value="Neg" upos="ADJ,AUX,NOUN,PRON,VERB">135</feat><!-- (ꞽ)m, ꞽm, ꞽ:ḫm, ḫm(.w), ꞽ:ḫm(.w), ꞽw.t(ꞽ), ꞽ:ḫm.w, tm, rč̣, ꞽ:tm -->
-    <feat name="Poss" value="Yes" upos="ADJ,ADP,NOUN,PRON">1431</feat><!-- ⸗k, ⸗f, ⸗śn, ⸗č, ⸗ś, (⸗ꞽ), [⸗k], n(.ꞽ), ⸗čn, <⸗k> -->
-    <feat name="Prefix" value="Yodh" upos="ADJ,AUX,NOUN,PROPN,VERB">262</feat><!-- ꞽ:nč̣, ꞽ:ḫm, ꞽ:wn, ꞽ:(n)č̣, ꞽ:ḫr, ꞽ:ḫm(.w), ꞽ:ṭr, ꞽ:šm, ꞽ:ḫm.w, ꞽ:č̣ṭ -->
-    <feat name="PronType" value="Dem" upos="DET,NOUN">604</feat><!-- pn, pw, pꞽ, pf, nw, tn, ꞽpw, nn, tw, p(w) -->
-    <feat name="PronType" value="Emp" upos="PRON">232</feat><!-- ⸗k, ⸗f, ⸗čn, ⸗ś -->
-    <feat name="PronType" value="Int" upos="ADV,DET,PRON">8</feat><!-- sy, čn(ꞽ), čn, čnꞽ -->
-    <feat name="PronType" value="Prs" upos="PRON">4374</feat><!-- ⸗k, ⸗f, ⸗śn, čw, ⸗ś, ⸗č, św, (⸗ꞽ), ⸗čn, ś(ꞽ) -->
-    <feat name="PronType" value="Rel" upos="PRON">15</feat><!-- ꞽw.t(ꞽ), ꞽw.tꞽ, n.t(ꞽ), n.tt, n.tꞽ -->
-    <feat name="Reflex" value="Yes" upos="PRON">107</feat><!-- čw, św, kw, k(w), čn, ś(ꞽ), č(w), śn(ꞽ) -->
-    <feat name="SubForm" value="AbstRel" upos="AUX,PROPN,VERB">959</feat><!-- rč̣.n, ꞽw.n, ꞽꞽ.n, ꜥnḫ, ꞽw, (w)ṭ.n, (w)ṭ(.w), pr, wn(.w), mś(.w) -->
-    <feat name="SubForm" value="Pred" upos="AUX,VERB">396</feat><!-- rč̣.n, ꞽ.n, mꜣ.n, č̣.n, ꞽn.n, ꞽč.n, pr, ꜥm.n, ꞽr, gꜣ.w -->
-    <feat name="SubForm" value="RelForm" upos="AUX,VERB">225</feat><!-- ꞽr.n, wnm.t, ꜥnḫ.t, ꞽr.tn, mś.n, wnm.tn, č̣ṭ.n, ꞽtḥ.tn, prr.t, swr.t -->
-    <feat name="Tense" value="Fut" upos="AUX,NOUN,VERB">435</feat><!-- pr, ꜥnḫ, m(w)t, ḫśf, śk, wnn, č̣ꜣ, gꜣ.w, mr, nhp -->
-    <feat name="Tense" value="Past" upos="ADJ,AUX,NOUN,VERB">1101</feat><!-- ꞽꞽ, pr, rč̣.n, ꞽw.n, ꞽꞽ.n, mꜣ.n, (w)ṭ.n, wn(.w), (w)ṭ(.w), mś.n -->
-    <feat name="Tense" value="Pres" upos="ADJ,AUX,NOUN,PROPN,VERB">919</feat><!-- ꜥnḫ, ꞽw, ꞽ:ḫm, ḫr, ḥtp, ꜥꜣ, ꞽ:ḫm(.w), mꜣꜣ, wꜥb, č̣ṭ -->
-    <feat name="Typo" value="Yes" upos="X">57</feat><!-- [...], {nb}, {n}, {⸗ꞽ}, {r}, {k}, {t}, {tꜣ}, {č̣}, {ḥr} -->
-    <feat name="VerbClass" value="2aeinf" upos="VERB">2</feat><!-- t(ꞽ), tꞽ.t -->
-    <feat name="VerbClass" value="2aered" upos="AUX,VERB">151</feat><!-- mꜣ, mꜣ.n, mꜣꜣ, wn, wr, wnn, ḥw(w), wn.t, wr.t(ꞽ), wr.w -->
-    <feat name="VerbClass" value="2lit" upos="ADJ,AUX,NOUN,VERB">965</feat><!-- č̣(ṭ), wč̣, ꞽ:nč̣, ꞽp, sꞽ, ꞽ:ḫm, wn(.w), ḫr, rś, ḫm(.w) -->
-    <feat name="VerbClass" value="3aeinf" upos="ADJ,NOUN,PROPN,VERB">1098</feat><!-- pr, ꞽr, śk(.w), č̣ꜣ, fꜣ.t, (w)ṭ, wp, ꞽč, ḫw, šm -->
+    <feat name="Mood" value="Imp" upos="AUX,VERB">771</feat><!-- m, (ꞽ)m, ꜥḥꜥ, čs, ꞽn, šsp, ꞽmi̯, ḥtm, ḫw, sbn -->
+    <feat name="Mood" value="Ind" upos="AUX,PROPN,VERB">2862</feat><!-- ꞽꞽ, rč̣.n, pr, ꞽw.n, ꞽꞽ.n, ꜥnḫ, wn(.w), ꞽw, sꞽ, ḫr -->
+    <feat name="Mood" value="Pot" upos="VERB">42</feat><!-- rč̣.n, śḫm.n, bꞽꜣ.n, swr.n, wnm.n, wp.n, wrč̣.n, šw.n, ẖn.n, ꞽr.n -->
+    <feat name="Mood" value="Sub" upos="AUX,VERB">1157</feat><!-- č̣i̯, č̣ꜣ, ꞽ:nč̣, pr, ꞽr, mꜣ, wꜥb, ꞽm, ꜥḥꜥ, (w)ṭ -->
+    <feat name="NameType" value="Epith" upos="ADJ,NOUN,VERB">158</feat><!-- Wr, Wr.t, Ḫnt(.ꞽ), Sꜣ, Śmꜣ, Štꜣ.w, Ꞽm(.ꞽ), M(ꞽ)n.t, Nb, H̠nm.t -->
+    <feat name="NameType" value="God" upos="PROPN">2153</feat><!-- Ḥr.w, Rꜥw, Wśr(.w), Śtẖ, Gbb, Nw.t, (Ꞽ)tm(.w), Č̣ḥw.tꞽ, Šw, Ꜣś.t -->
+    <feat name="NameType" value="King" upos="PROPN">1791</feat><!-- Wnꞽś, Ppy, Ttꞽ, Nfr, Mr.y, N(ꞽ).t, [Ppy], [Mr.y], [Ttꞽ], [Wnꞽś] -->
+    <feat name="NameType" value="Place" upos="PROPN">303</feat><!-- Ꞽwn.w, Nw.w, Mr, P(ꞽ), Šmꜥ.w, Ṭ(w)ꜣ.t, Tꜣ, Mḥ.w, Šꞽ, Kns.t -->
+    <feat name="Nisba" value="DeNom" upos="ADJ,NOUN,PROPN">258</feat><!-- ꜣḫ.tꞽ, ꞽmn.t(ꞽ)w, ꞽꜣb.t(ꞽ), ꞽꜣb.tꞽ, ṭwꜣ.w(ꞽ), mḥ.t(ꞽ)w, ꜣḫ.t(ꞽ), ꞽꜣb(.ꞽ), mḥ.t(ꞽ), Ꞽwn.w(y) -->
+    <feat name="Nisba" value="DePrep" upos="ADJ,NOUN,PROPN">972</feat><!-- n(.ꞽ), ꞽm(.ꞽ), ḫnt(.ꞽ), ꞽm.(ꞽ)w, ꞽm.t, ḥr(.ꞽ), n.t, n.(ꞽ)w, ẖr(.ꞽ), ꞽr.t -->
+    <feat name="Nominal" value="Yes" upos="ADJ,AUX,PROPN,VERB">562</feat><!-- mr.y, ꜥnḫ.t, pr, wr, č̣śr, mṭw, nfr.t, wnm.t, wꜣč̣, Štꜣ.w -->
+    <feat name="Number" value="Coll" upos="NOUN">100</feat><!-- pśč̣.t, ḥnmm.t, ꞽt, ꜣw.t, pꜥ.t, rḫ.(w)t, šmś(.w), bṭ.t, pꜥ(.t), rmč -->
+    <feat name="Number" value="Dual" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">584</feat><!-- ꜥꜣ(.wꞽ), ꜥw(.wꞽ), ꜥw.w(ꞽ), ⸗čn(ꞽ), sḫn.w(ꞽ), ⸗śn(ꞽ), pśč̣.t(ꞽ), rṭ(.wꞽ), ꞽr.t(ꞽ), nčr(.wꞽ) -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">2078</feat><!-- ⸗śn, nčr(.w), ⸗čn, ꞽꜣr.w, ꜣḫ(.w), mw, ꞽm.(ꞽ)w, kꜣ(.w), ḳś(.w), ꞽꜣ.(w)t -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">16901</feat><!-- ⸗k, ⸗f, mṭw, pn, n(.ꞽ), p.t, čw, ⸗ś, pw, ꞽr.t -->
+    <feat name="NumType" value="Card" upos="NUM">324</feat><!-- 4, 2, 1, ḫꜣ, fṭ.w, wꜥ, ḫꜣ(.w), fṭ.t, 5, fṭ(.w) -->
+    <feat name="NumType" value="Ord" upos="NUM">9</feat><!-- ḫmt.nwt, ḫtm.nw, [śn.nw], [ḫtm.nw], fṭ.nw, ḫmt.nw, ṭp(.ꞽ) -->
+    <feat name="PartType" value="Emp" upos="PART">105</feat><!-- ꞽn, ꞽś, ḥm, wnn.t, m(ꞽ), <ꞽ>ś, ˹ꞽn˺, ˹ꞽś˺ -->
+    <feat name="PartType" value="Int" upos="PART">12</feat><!-- ꞽn, [ꞽn] -->
+    <feat name="PartType" value="Mod" upos="PART">22</feat><!-- ꜣ, my, wn.t, ḥwꞽ, ꜣ{ꞽ}, ꞽr -->
+    <feat name="PartType" value="Neg" upos="PART">270</feat><!-- nꞽ, ꞽw.t, ny, ˹nꞽ˺, [nꞽ], w -->
+    <feat name="Person" value="1" upos="PRON,VERB">273</feat><!-- (⸗ꞽ), ⸗ꞽ, ꞽnk, <⸗ꞽ>, [(⸗ꞽ)], wꞽ, [⸗ꞽ], w(ꞽ), tm.kꞽ, ˹⸗ꞽ˺ -->
+    <feat name="Person" value="2" upos="PRON,VERB">3150</feat><!-- ⸗k, čw, ⸗č, ⸗čn, [⸗k], kw, čwt, ⸗čn(ꞽ), <⸗k>, čn -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">3191</feat><!-- ⸗f, ⸗śn, ⸗ś, św, ś(ꞽ), [⸗f], ⸗śn(ꞽ), ⸗f(ꞽ), śn, <⸗f> -->
+    <feat name="Polarity" value="Neg" upos="ADJ,AUX,NOUN,PRON,VERB">160</feat><!-- (ꞽ)m, ꞽm, ꞽ:ḫm, ꞽ:ḫm.w, ꞽ:ḫm(.w), tm, ꞽ:ḫm.t, ḫm, ꞽ:tm.w, ꞽw.tꞽ -->
+    <feat name="Poss" value="Yes" upos="ADJ,ADP,NOUN,PRON">1907</feat><!-- ⸗k, ⸗f, ⸗śn, ⸗ś, ⸗č, [⸗k], (⸗ꞽ), n(.ꞽ), ⸗čn, [⸗f] -->
+    <feat name="Prefix" value="Yodh" upos="ADJ,AUX,NOUN,PROPN,VERB">394</feat><!-- ꞽ:nč̣, ꞽ:ḫm, ꞽ:ḫm.w, ꞽ:sn(.w), ꞽ:wn, ꞽ:ḫm(.w), ꞽ:(n)č̣, ꞽ:ḫr, ꞽ:ṭr, ꞽ:šm -->
+    <feat name="PronClass" value="Dep" upos="PRON">664</feat><!-- čw, św, ś(ꞽ), kw, śn, čn, čm, [čw], k(w), wꞽ -->
+    <feat name="PronClass" value="Ind" upos="PRON">75</feat><!-- čwt, śwt, ꞽnk, śtt, ntśn, [čw]t, [ꞽnk], nnk, ntk, čmt -->
+    <feat name="PronClass" value="Suffix" upos="PRON">5453</feat><!-- ⸗k, ⸗f, ⸗śn, ⸗ś, ⸗č, (⸗ꞽ), ⸗čn, ⸗ꞽ, [⸗k], [⸗f] -->
+    <feat name="PronType" value="Dem" upos="DET,NOUN">1004</feat><!-- pn, pw, pꞽ, nw, ꞽpw, p(w), pf, nn, p(ꞽ), tn -->
+    <feat name="PronType" value="Emp" upos="PRON">193</feat><!-- ⸗k, ⸗čn(ꞽ) -->
+    <feat name="PronType" value="Int" upos="ADV,DET,PRON">15</feat><!-- čn(ꞽ), sy, čnꞽ, m -->
+    <feat name="PronType" value="Prs" upos="PRON">6035</feat><!-- ⸗k, ⸗f, ⸗śn, čw, ⸗ś, św, ⸗č, (⸗ꞽ), ⸗čn, ś(ꞽ) -->
+    <feat name="PronType" value="Rel" upos="PRON">20</feat><!-- n.tꞽ, ꞽw.tꞽ, ꞽw.t(ꞽ), n.tt, n.ty, n.t(ꞽ), n.t(ꞽ)w, ꞽw.t{w} -->
+    <feat name="Reflex" value="Yes" upos="PRON">138</feat><!-- čw, św, kw, k(w), čn, ś(ꞽ), [čw], č(w), śn, śn(ꞽ) -->
+    <feat name="StatPrep" value="Cons" upos="ADP,CCONJ,SCONJ">2854</feat><!-- m, n, ꞽr, ḥr, r, ḫr, ḥnꜥ, ꞽn, ꞽś, mr -->
+    <feat name="StatPrep" value="Pron" upos="ADP">1530</feat><!-- n, ꞽm, ꞽr, ḫr, (ꞽ)r, ḥr, r, m, ḥnꜥ, ḥꜣ -->
+    <feat name="SubForm" value="AbstRel" upos="AUX,VERB">1394</feat><!-- ꞽw.n, ꞽꞽ.n, rč̣.n, ꜥnḫ, wn(.w), pr, ꞽw, (w)ṭ(.w), (w)ṭ.n, pr.n -->
+    <feat name="SubForm" value="Pred" upos="AUX,VERB">714</feat><!-- rč̣.n, pr, ꞽ.n, m(w)t, wꜥb.n, mꜣ.n, šsp.n, č̣.n, śk, ꞽn.n -->
+    <feat name="SubForm" value="RelForm" upos="AUX,PROPN,VERB">297</feat><!-- č̣ṭ.n, ꞽr.n, ꜥnḫ.t, ꞽr.tn, mś.w, wnm.t, ꞽr.t, mś.n, wnm.tn, ḥtp.n -->
+    <feat name="Tense" value="Fut" upos="ADJ,AUX,NOUN,VERB">672</feat><!-- pr, wnn, ꜥnḫ, m(w)t, rč̣, gꜣ.w, č̣ꜣ, śk, ḫśf, mr -->
+    <feat name="Tense" value="Past" upos="ADJ,AUX,NOUN,PROPN,VERB">1697</feat><!-- ꞽꞽ, mr.y, pr, rč̣.n, ꞽw.n, ꞽꞽ.n, wn(.w), wꜥb.n, č̣ṭ.n, ꞽr.n -->
+    <feat name="Tense" value="Pres" upos="ADJ,AUX,NOUN,PROPN,VERB">1293</feat><!-- ꜥnḫ, wꜥb, ꞽw, ḥtp, ꞽ:ḫm.w, č̣ṭ, ꜥḥꜥ, ꞽ:ḫm, ꞽ:ḫm(.w), pr -->
+    <feat name="Typo" value="Yes" upos="X">203</feat><!-- [...], {⸗ꞽ}, {nb}, {⸗f}, {n}, {⸗k}, {mṭw}, {r}, {č̣(ṭ)}, [...]ꞽ -->
+    <feat name="VerbClass" value="2aeinf" upos="VERB">4</feat><!-- ni̯, ny.n, t(ꞽ), tꞽ.t -->
+    <feat name="VerbClass" value="2aered" upos="AUX,VERB">205</feat><!-- mꜣ, mꜣ.n, wn, wnn, mꜣꜣ, wr, tmm, ḥw(w), wn.t, mꜣꜣ.t(ꞽ) -->
+    <feat name="VerbClass" value="2lit" upos="ADJ,AUX,NOUN,VERB">1333</feat><!-- č̣(ṭ), ꞽ:nč̣, wč̣, sꞽ, wn(.w), č̣ṭ.n, ḫr, č̣ṭ, rś, ꞽp -->
+    <feat name="VerbClass" value="3aeinf" upos="ADJ,AUX,NOUN,PROPN,VERB">1687</feat><!-- pr, mr.y, ꞽr, č̣ꜣ, śk(.w), (w)ṭ, čs, fꜣ.t, ꞽč, wp -->
     <feat name="VerbClass" value="3aered" upos="VERB">3</feat><!-- čḥnn, ꞽ:śšꜣ.w -->
-    <feat name="VerbClass" value="3lit" upos="ADJ,NOUN,VERB">1263</feat><!-- ꜥnḫ, ꜥḥꜥ, ḥtp, ḥtm, šsp, wꜥb, pẖr, śḫm, wnm, wčs -->
-    <feat name="VerbClass" value="4aeinf" upos="VERB">156</feat><!-- ḥmś, nč̣r, mṭw, ḥmś.w, bꞽꜣ.n, nč̣r.n, nč̣r.w, rnp.w, sḫn.n, č̣św -->
-    <feat name="VerbClass" value="4lit" upos="VERB">46</feat><!-- ꞽ:nn, wnwn, nmnm, (ꞽ)m(ꞽ)m, nnꞽ, tḫtḫ, śnčr, śnśn, ꞽ:nn.t, [śnśn] -->
-    <feat name="VerbClass" value="5aeinf" upos="VERB">12</feat><!-- nḫḫ, ḥꜥꜥ.t(ꞽ) -->
-    <feat name="VerbClass" value="5lit" upos="VERB">27</feat><!-- ḥbnbn, nbꜣbꜣ, nṭfṭf, nhmhm(.w), ntktk, nwtwt.w, nwꜣwꜣ, nč̣ṭnč̣ṭ, nšbšb.tn, nḥ<r>ḥr -->
-    <feat name="VerbClass" value="Anom" upos="VERB">418</feat><!-- č̣i̯, ꞽꞽ, rč̣.n, ꞽw.n, ꞽꞽ.n, ꞽn, ꞽw, ꞽn<.n>, ꞽn.n, č̣.n -->
-    <feat name="VerbClass" value="Caus2aered" upos="VERB">11</feat><!-- ś:fḫḫ(.w), ś:fḫḫ.w, <ś:>fḫḫ(.w), ś:fḫḫ, ś:mꜣꜣ, ś:ḳbb, ś:ꜣḫ.w, šsp, ꞽ:ś:fkk.tn -->
-    <feat name="VerbClass" value="Caus2lit" upos="VERB">41</feat><!-- ś:č̣ꜣ, ś:mn, ś:ꜣḫ, ś:ꞽw, ś:sn(.w), ś:č̣ꜣ.n, ś:śn, ś:ḥč̣, ś:ꞽp, ś:bš -->
-    <feat name="VerbClass" value="Caus3aeinf" upos="NOUN,VERB">39</feat><!-- ś:wꜣ, ś:ḫt, ś:(w)ꜣ.tꞽ, ś:ḳṭ, ś:pꜣ.n, ś:wꜣ.n, ś:wꜣ.w, ś:ḥm.n, ś:ḳṭṭ.t, ś:sꜣ.t -->
-    <feat name="VerbClass" value="Caus3lit" upos="VERB">62</feat><!-- ś:ꞽꜥ, ś:(w)ꜣč̣, ś:ḥtp, ś:nhṭ, ś:swn.tn, ś:wꜥb, ś:čꜣs.tꞽ, ś:škr.t, ś:štꜣ(.w), ś:ḥtm(.w) -->
-    <feat name="VerbClass" value="Caus4aeinf" upos="VERB">2</feat><!-- ś:bꜣg, ś:bꜣg.y -->
-    <feat name="VerbClass" value="Def" upos="AUX,VERB">220</feat><!-- m, (ꞽ)m, ꞽm, ꞽ.n, m(ꞽ), m.y, ꞽ(.w), [ꞽm], ꞽ.t(ꞽ) -->
-    <feat name="VerbForm" value="Fin" upos="AUX,PROPN,VERB">3424</feat><!-- m, rč̣.n, ꞽꞽ, č̣i̯, ꜥḥꜥ, ꜥnḫ, pr, (ꞽ)m, ꞽr, č̣ꜣ -->
-    <feat name="VerbForm" value="Inf" upos="NOUN,VERB">565</feat><!-- č̣(ṭ), śk(.w), fꜣ.t, ḫm(.w), [č̣(ṭ)], ḥr(.w), ꞽr(.w), ꞽw(.w), pr.t, č̣ꜣu̯.t -->
-    <feat name="VerbForm" value="Part" upos="ADJ,AUX,NOUN,PROPN,VERB">612</feat><!-- pr, ꞽ:ḫm, ꜥꜣ, ꞽ:ḫm(.w), mr.y, č̣śr, ꞽ:ḫm.w, wr, ꜥnḫ, ꞽr.w -->
-    <feat name="VerbType" value="Aux" upos="AUX">59</feat><!-- (ꞽ)m, ꞽm, [ꞽm] -->
-    <feat name="Voice" value="Act" upos="ADJ,AUX,NOUN,PROPN,VERB">1775</feat><!-- pr, ꞽꞽ, rč̣.n, ꜥnḫ, ꞽw.n, ꞽꞽ.n, sꞽ, mꜣ.n, ꞽw, (w)ṭ.n -->
-    <feat name="Voice" value="Pass" upos="NOUN,VERB">293</feat><!-- wn(.w), (w)ṭ(.w), mś(.w), mr.y, šn(.w), ḥtm(.w), ꞽwr(.w), rč̣(.w), ꞽ:sn(.w), ḥ(w.w) -->
+    <feat name="VerbClass" value="3lit" upos="ADJ,NOUN,PROPN,VERB">1841</feat><!-- ꜥḥꜥ, ꜥnḫ, wꜥb, šsp, ḥtp, śḫm, wnm, ḥtm, wꜥb.n, pẖr -->
+    <feat name="VerbClass" value="4aeinf" upos="NOUN,VERB">269</feat><!-- ḥmś, nč̣r, mṭw, śšm, ḥmś.w, č̣św, rmn, rnp.w, ḥfṭ.w, nč̣r.w -->
+    <feat name="VerbClass" value="4lit" upos="VERB">66</feat><!-- ꞽ:nn, nmnm, wnwn, śnśn, ḫtḫt, (ꞽ)m(ꞽ)m, nnꞽ, tḫtḫ, śnčr, ꞽ:nn.t -->
+    <feat name="VerbClass" value="5aeinf" upos="VERB">20</feat><!-- nḫḫ, nḫḫ.t, nḫḫ.w, ḥꜥꜥ.t(ꞽ) -->
+    <feat name="VerbClass" value="5lit" upos="VERB">36</feat><!-- ḥbnbn, nbꜣbꜣ, nṭfṭf, nhmhm, ꜣgbgb, hnꞽnꞽ, nbč̣bč̣, nhmhm(.w), nkꞽkꞽ, nsnsn.w -->
+    <feat name="VerbClass" value="Anom" upos="VERB">576</feat><!-- ꞽꞽ, č̣i̯, rč̣.n, ꞽw.n, ꞽꞽ.n, ꞽn, ꞽw, ꞽmi̯, rč̣, rč̣(.w) -->
+    <feat name="VerbClass" value="Caus2aered" upos="VERB">13</feat><!-- ś:fḫḫ(.w), ś:fḫḫ.w, <ś:>fḫḫ(.w), ś:fḫḫ, ś:fḫḫ.y, ś:mꜣꜣ, ś:ḳbb, ś:ꜣḫ.w, šsp, ꞽ:ś:fkk.tn -->
+    <feat name="VerbClass" value="Caus2lit" upos="VERB">57</feat><!-- ś:mn, ś:č̣ꜣ, ś:ꜣḫ, ś:ꞽw, ś:fḫ.w, ś:sn(.w), ś:č̣ꜣ.n, ś:śn, ś:ḥč̣, ś:ꞽp -->
+    <feat name="VerbClass" value="Caus3aeinf" upos="NOUN,VERB">65</feat><!-- ś:wꜣ, ś:č̣ꜣ, ś:ḫt, ś:(w)ꜣ.tꞽ, ś:šw, ś:ḳṭ, č̣ꜣ, ś:hꜣ, ś:pꜣ.n, ś:wꜣ.n -->
+    <feat name="VerbClass" value="Caus3lit" upos="VERB">84</feat><!-- ś:ḥtp, ś:ꞽꜥ, ś:(w)ꜣč̣, ś:wꜥb, ś:ꜥḥꜥ, wꜥb, ś:nhṭ, ś:nčr, ś:swn.tn, ś:čꜣs.tꞽ -->
+    <feat name="VerbClass" value="Caus4aeinf" upos="VERB">3</feat><!-- ś:bꜣg, ś:bꜣg.y, ś:ḫnt -->
+    <feat name="VerbClass" value="Caus4lit" upos="VERB">1</feat><!-- ś:ḫṭḫṭ -->
+    <feat name="VerbClass" value="Caus5lit" upos="VERB">1</feat><!-- ś:nfḫfḫ(.w) -->
+    <feat name="VerbClass" value="Def" upos="AUX,VERB">262</feat><!-- m, (ꞽ)m, ꞽm, ꞽ.n, ꞽ.t(ꞽ), ḫr, m(ꞽ), m.y, ꞽ(.w), ꞽ.ꞽ -->
+    <feat name="VerbForm" value="Conv" upos="VERB">129</feat><!-- śk(.w), ḫm(.w), śk.ꞽ, ḥr(.w), ꞽw, ꞽw(.w), gꜣ.w, č̣ṭ, ꞽr(.w), rč̣ -->
+    <feat name="VerbForm" value="Fin" upos="AUX,PROPN,VERB">4845</feat><!-- m, pr, ꞽꞽ, ꜥḥꜥ, č̣i̯, rč̣.n, ꜥnḫ, wꜥb, č̣ꜣ, ꞽr -->
+    <feat name="VerbForm" value="Inf" upos="NOUN,VERB">564</feat><!-- č̣(ṭ), fꜣ.t, [č̣(ṭ)], pr.t, ꞽr.t, č̣ṭ, ˹č̣˺(ṭ), ꞽw.t, mꜣ, nwr -->
+    <feat name="VerbForm" value="Part" upos="ADJ,AUX,NOUN,PROPN,VERB">961</feat><!-- mr.y, pr, ꞽ:ḫm.w, ꞽ:ḫm, ꞽ:ḫm(.w), ꜥnḫ, rś, wr, śḫm, mṭw -->
+    <feat name="VerbForm" value="Vnoun" upos="VERB">20</feat><!-- č̣ꜣ.wt, mś.wt, č̣ꜣ.t, hꜣb.t, m(w)t.t, mnḫ.t, mwt.t, nḫḫ.t, pẖr, rm.yt -->
+    <feat name="VerbType" value="Aux" upos="AUX">70</feat><!-- (ꞽ)m, ꞽm, [ꞽm], ꞽ:tm -->
+    <feat name="Voice" value="Act" upos="ADJ,AUX,NOUN,PROPN,VERB">2650</feat><!-- pr, ꞽꞽ, rč̣.n, ꞽw.n, ꜥnḫ, ꞽꞽ.n, wꜥb, sꞽ, ꞽw, wꜥb.n -->
+    <feat name="Voice" value="Pass" upos="ADJ,NOUN,PROPN,VERB">550</feat><!-- mr.y, wn(.w), (w)ṭ(.w), rč̣(.w), ꞽ:sn(.w), mś(.w), wn.y, (w)ṭ.y, šn(.w), ḥtm(.w) -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="43">
-    <dep name="acl">254</dep>
-    <dep name="acl:relcl">155</dep>
-    <dep name="advcl">783</dep>
-    <dep name="advmod">345</dep>
-    <dep name="amod">867</dep>
-    <dep name="appos">599</dep>
-    <dep name="aux">117</dep>
-    <dep name="case">3023</dep>
-    <dep name="cc">59</dep>
-    <dep name="ccomp">422</dep>
-    <dep name="compound">215</dep>
-    <dep name="conj">963</dep>
-    <dep name="cop">120</dep>
-    <dep name="csubj">12</dep>
+  <deps unique="62">
+    <dep name="acl">342</dep>
+    <dep name="acl:relcl">211</dep>
+    <dep name="advcl">521</dep>
+    <dep name="advcl:consec">21</dep>
+    <dep name="advcl:purp">456</dep>
+    <dep name="advcl:tcl">127</dep>
+    <dep name="advmod">217</dep>
+    <dep name="advmod:neg">250</dep>
+    <dep name="advmod:q">19</dep>
+    <dep name="amod">1187</dep>
+    <dep name="appos">814</dep>
+    <dep name="aux">146</dep>
+    <dep name="case">4220</dep>
+    <dep name="cc">65</dep>
+    <dep name="ccomp">1</dep>
+    <dep name="ccomp:obj">70</dep>
+    <dep name="ccomp:speech">462</dep>
+    <dep name="compound">206</dep>
+    <dep name="compound:a">56</dep>
+    <dep name="conj">1730</dep>
+    <dep name="cop">184</dep>
+    <dep name="csubj">17</dep>
     <dep name="csubj:outer">1</dep>
     <dep name="csubj:pass">3</dep>
-    <dep name="dep">102</dep>
-    <dep name="det">390</dep>
-    <dep name="discourse">285</dep>
-    <dep name="dislocated">111</dep>
-    <dep name="expl">22</dep>
-    <dep name="expl:pv">22</dep>
-    <dep name="fixed">254</dep>
-    <dep name="flat">171</dep>
-    <dep name="flat:foreign">16</dep>
+    <dep name="dep">125</dep>
+    <dep name="det">690</dep>
+    <dep name="discourse">500</dep>
+    <dep name="dislocated">15</dep>
+    <dep name="dislocated:agent">13</dep>
+    <dep name="dislocated:ccomp">7</dep>
+    <dep name="dislocated:csubj">2</dep>
+    <dep name="dislocated:nsubj">115</dep>
+    <dep name="dislocated:obj">20</dep>
+    <dep name="dislocated:obl">10</dep>
+    <dep name="expl">34</dep>
+    <dep name="expl:pv">28</dep>
+    <dep name="fixed">481</dep>
+    <dep name="flat:foreign">15</dep>
+    <dep name="flat:name">562</dep>
     <dep name="list">5</dep>
-    <dep name="mark">97</dep>
-    <dep name="nmod">1717</dep>
-    <dep name="nmod:poss">818</dep>
-    <dep name="nsubj">3025</dep>
-    <dep name="nsubj:outer">4</dep>
-    <dep name="nsubj:pass">215</dep>
-    <dep name="nummod">204</dep>
-    <dep name="obj">1910</dep>
-    <dep name="obl">2884</dep>
-    <dep name="obl:agent">51</dep>
-    <dep name="obl:arg">359</dep>
-    <dep name="orphan">32</dep>
-    <dep name="parataxis">486</dep>
-    <dep name="punct">260</dep>
-    <dep name="root">2347</dep>
-    <dep name="vocative">647</dep>
+    <dep name="mark">123</dep>
+    <dep name="nmod">2078</dep>
+    <dep name="nmod:nisba">195</dep>
+    <dep name="nmod:poss">1213</dep>
+    <dep name="nmod:unmarked">1</dep>
+    <dep name="nsubj">4327</dep>
+    <dep name="nsubj:outer">1</dep>
+    <dep name="nsubj:pass">362</dep>
+    <dep name="nummod">213</dep>
+    <dep name="obj">2535</dep>
+    <dep name="obl">2696</dep>
+    <dep name="obl:agent">59</dep>
+    <dep name="obl:arg">946</dep>
+    <dep name="obl:nisba">632</dep>
+    <dep name="obl:unmarked">149</dep>
+    <dep name="orphan">41</dep>
+    <dep name="parataxis">381</dep>
+    <dep name="punct">320</dep>
+    <dep name="reparandum">104</dep>
+    <dep name="root">3089</dep>
+    <dep name="vocative">818</dep>
     <dep name="xcomp">3</dep>
   </deps>
 </treebank>
