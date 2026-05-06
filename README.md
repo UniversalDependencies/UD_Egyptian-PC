@@ -1,11 +1,13 @@
 # Summary
 
-Egyptian-UJaen is the first dependency treebank created for the morphosyntactic annotation of pre-Coptic Egyptian. Its current state (UD v2.17) consists of 2,347 sentences and 24,375 tokens manually annotated from texts written in Old Egyptian, mainly from the Pyramid Texts.
+Egyptian-PC is the first dependency treebank created for the morphosyntactic annotation of pre-Coptic Egyptian. It is developed at the University of Jaén. Its current state (UD v2.18) consists of 3,089 sentences and 34,234 tokens manually annotated from the Pyramid Texts. 
 
 
 # Introduction
 
-The Egyptian-UJaen treebank (henceforth EUJA treebank) contains a corpus of Egyptian texts manually annotated at the University of Jaén following the Tübingen transcription system (see below). It aims to contribute to the Universal Dependencies (UD) project and to the PARSEME corpora of multiword expressions in order to compare Egyptian morphosyntactic features with those from other languages. The EUJA treebank started as UD release 2.14 with 5,515 words and 707 sentences. It contained Old Egyptian multiword expressions and sentences from the Pyramid Texts (see list of sources, below). The systematic annotation of the Pyramid Texts begins with EUJA-44. Unas's Pyramid Texts were annotated in the EUJA treebank for the UD release 2.15, and Teti's Pyramid Texts for the UD release 2.16. Annotation of Pepi I's Pyramid Texts began for the UD release 2.17. Data exploration in these texts can be carried out using [GrewPT](https://grew.fr/grew_match/pt/)
+The Egyptian-PC treebank (henceforth EPC; originally released as Egyptian-UJaen) contains a corpus of Egyptian texts manually annotated using the Tübingen transcription system (see below). It aims to contribute to the Universal Dependencies (UD) project and to the PARSEME corpora of multiword expressions in order to compare Egyptian morphosyntactic features with those from other languages. The EPC treebank started as UD release 2.14 with 5,515 words and 707 sentences. It contained Old Egyptian multiword expressions and sentences from the Pyramid Texts (see list of sources, below). Unas's Pyramid Texts were annotated in the EPC treebank for the UD release 2.15, and Teti's Pyramid Texts for the UD release 2.16. Annotation of Pepi I's Pyramid Texts began for the UD release 2.17. The main witnesses of the Pyramid Texts were annotated up to utterance 514 in the UD release 2.18. The last version of the EPC treebank has been used to develop a [parser](https://web.ujaen.es/investiga/nile-in-contact/Analizador_es.html) for Earlier Egyptian based on Stanza.
+
+Data exploration in the Pyramid Texts can be carried out using [GrewPT](https://grew.fr/grew_match/pt/)
 
 The treebank will contain texts from various historical stages: Old Egyptian, Middle Egyptian, Late Egyptian
 and Demotic. For an overall description of these linguistic stages, see the [Language Page for
@@ -15,36 +17,33 @@ Egyptian](https://universaldependencies.org/egy/index.html); and the bibliograph
 
 Tübingen Transcription System
 
-<table>
-<tr><th>Egypt</th>	<th>Schenkel</th></tr>
-<tr><td>𓄿</td>	<td>ꜣ</td></tr>
-<tr><td>𓇋</td>	<td>ꞽ</td></tr>
-<tr><td>𓇌</td>	<td>y</td></tr>
-<tr><td>𓏭</td>	<td>ï</td></tr>
-<tr><td>𓂝</td>	<td>ꜥ</td></tr>
-<tr><td>𓅱</td>	<td>w</td></tr>
-<tr><td>𓃀</td>	<td>b</td></tr>
-<tr><td>𓊪</td>	<td>p</td></tr>
-<tr><td>𓆑</td>	<td>f</td></tr>
-<tr><td>𓅓</td>	<td>m</td></tr>
-<tr><td>𓈖</td>	<td>n</td></tr>
-<tr><td>𓂋</td>	<td>r</td></tr>
-<tr><td>𓉔</td>	<td>h</td></tr>
-<tr><td>𓎛</td>	<td>ḥ</td></tr>
-<tr><td>𓐍</td>	<td>ḫ</td></tr>
-<tr><td>𓄡</td>	<td>ẖ</td></tr>
-<tr><td>𓊃</td>	<td>s</td></tr>
-<tr><td>𓋴</td>	<td>ś</td></tr>
-<tr><td>𓈙</td>	<td>š</td></tr>
-<tr><td>𓈎</td>	<td>ḳ</td></tr>
-<tr><td>𓎡</td>	<td>k</td></tr>
-<tr><td>𓎼</td>	<td>g</td></tr>
-<tr><td>𓏏</td>	<td>t</td></tr>
-<tr><td>𓍿</td>	<td>č</td></tr>
-<tr><td>𓂧</td>	<td>ṭ</td></tr>
-<tr><td>𓆓</td>	<td>č̣</td></tr>
-</table>
-
+| Egypt | Schenkel | Unicode | Computer |
+| :---: | :---: | :---: | :---: |
+| 𓄿 | ꜣ | U+A723 | A |
+| 𓇋 | ꞽ | U+A7BD | j |
+| 𓇌 | y | | y |
+| 𓂝 | ꜥ | U+A725 | a |
+| 𓅱 | w | | w |
+| 𓃀 | b | | b |
+| 𓊪 | p | | p |
+| 𓆑 | f | | f |
+| 𓅓 | m | | m |
+| 𓈖 | n | | n |
+| 𓂋 | r | | r |
+| 𓉔 | h | | h |
+| 𓎛 | ḥ | U+1E25 | H |
+| 𓐍 | ḫ | U+1E2B | x |
+| 𓄡 | ẖ | U+1E96 | X |
+| 𓊃 | s | | z |
+| 𓋴 | ś | U+015B | s |
+| 𓈙 | š | U+0161 | S |
+| 𓈎 | ḳ | U+1E33 | q |
+| 𓎡 | k | | k |
+| 𓎼 | g | | g |
+| 𓏏 | t | | t |
+| 𓍿 | č | U+010D | T |
+| 𓂧 | ṭ | U+1E6D | d |
+| 𓆓 | č̣ | U+010D+U+0323 | D |
 
 # Acknowledgments
 
@@ -95,12 +94,15 @@ Oxford.
 
 # Digital resources for Egyptian
 
+- [EPC parser](https://web.ujaen.es/investiga/nile-in-contact/Analizador_es.html)
 - [GrewPT](https://grew.fr/grew_match/about/)
 - [Ramses Online](http://ramses.ulg.ac.be/)
 - [Thesaurus Linguae Aegyptiae](https://thesaurus-linguae-aegyptiae.de/home)
 
 # Changelog
 
+* 2026-05-15 v2.18
+  * Repository renamed from UD_Egyptian-UJaen to UD_Egyptian-PC.
 * 2024-05-15 v2.14
   * Initial release in Universal Dependencies.
 
