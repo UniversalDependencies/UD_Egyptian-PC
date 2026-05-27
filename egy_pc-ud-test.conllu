@@ -5617,9 +5617,8 @@
 # genre = religious
 # place = Saqqara
 # TLA = IBUBd6b04dPBsky3mQ4E4X51gO0
-# text = wꜥb (ꞽ)r-⸗f šśꜣ.w pn ꞽm(.ꞽ) rʾ ⸗f
+# text = wꜥb (ꞽ)r ⸗f šśꜣ.w pn ꞽm(.ꞽ) rʾ ⸗f
 1	wꜥb	wꜥb	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓅱𓄐𓃀|ID=400114
-2-3	(ꞽ)r-⸗f	_	_	_	_	_	_	_	Hiero=(𓂋:𓆑)
 2	(ꞽ)r	r	ADP	_	ExtPos=INTJ|StatPrep=Pron	1	discourse	_	Hiero=𓂋|ID=28170
 3	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	2	fixed	_	Hiero=𓆑|ID=10050
 4	šśꜣ.w	šśꜣ.w	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	Hiero=𓈙𓐟𓅱𓄓|Hierocl=𓄓|ID=157110
