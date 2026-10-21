@@ -1,17 +1,14 @@
 # Summary
 
-Egyptian-PC is the first dependency treebank created for the morphosyntactic annotation of pre-Coptic Egyptian. It is developed at the University of Jaén. Its current state (UD v2.18) consists of 3,089 sentences and 34,234 tokens manually annotated from the Pyramid Texts. 
-
+The Egyptian/Pre-Coptic treebank is the first dependency treebank created for the morphosyntactic annotation of pre-Coptic Egyptian. Its development is an international collaborative effort coordinated at the the University of Jaén (see team members below). The current version (UD v2.19) comprises annotated sentences drawn from Old Egyptian, Middle Egyptian, Late Egyptian, and Demotic texts.
 
 # Introduction
 
-The Egyptian-PC treebank (henceforth EPC; originally released as Egyptian-UJaen) contains a corpus of Egyptian texts manually annotated using the Tübingen transcription system (see below). It aims to contribute to the Universal Dependencies (UD) project and to the PARSEME corpora of multiword expressions in order to compare Egyptian morphosyntactic features with those from other languages. The EPC treebank started as UD release 2.14 with 5,515 words and 707 sentences. It contained Old Egyptian multiword expressions and sentences from the Pyramid Texts (see list of sources, below). Unas's Pyramid Texts were annotated in the EPC treebank for the UD release 2.15, and Teti's Pyramid Texts for the UD release 2.16. Annotation of Pepi I's Pyramid Texts began for the UD release 2.17. The main witnesses of the Pyramid Texts were annotated up to utterance 514 in the UD release 2.18. The last version of the EPC treebank has been used to develop a [parser](https://web.ujaen.es/investiga/nile-in-contact/Analizador_es.html) for Earlier Egyptian based on Stanza.
+The Egyptian/PC treebank (henceforth EPC; originally released as Egyptian-UJaen) features a manually annotated corpus of Egyptian texts using the Tübingen transcription system (see below). It was designed to contribute to the Universal Dependencies (UD) project and the PARSEME corpora of multiword expressions, allowing researchers to compare Egyptian morphosyntactic features with those of other languages. The EPC treebank started in UD release 2.14 with 5,515 words and 707 sentences. It contained Old Egyptian multiword expressions and sentences from the Pyramid Texts (see list of sources, below). Over successive updates, the annotation of the Pyramid Texts was expanded sequentially, adding Unas's texts in release 2.15, Teti's in 2.16, and Pepi I's starting in 2.17. The annotation of the Pyramid Texts continued through the UD releases 2.18 and 2.19. The first Middle Egyptian, Late Egyptian and Demotic texts were annotated in UD release 2.19.
 
 Data exploration in the Pyramid Texts can be carried out using [GrewPT](https://grew.fr/grew_match/pt/)
 
-The treebank will contain texts from various historical stages: Old Egyptian, Middle Egyptian, Late Egyptian
-and Demotic. For an overall description of these linguistic stages, see the [Language Page for
-Egyptian](https://universaldependencies.org/egy/index.html); and the bibliography below.
+See also the [Language Page for Egyptian](https://universaldependencies.org/egy/index.html); and the bibliography below.
 
 # Further Details
 
@@ -49,11 +46,22 @@ Tübingen Transcription System
 
 This work received support from the CA21167 COST action UniDive, funded by COST (European Cooperation in Science and Technology). I thank Agata Savary (UniDive/PARSEME), Daniel Zeman (UniDive/UD) and Marco Carlo Passarotti (CIRCSE) for introducing me to computational linguistics.
 
+# Team members
+
+- Roberto A. Díaz Hernández (University of Jaén): Coordinator, co-initator, editor and annotator of Old Egyptian texts.
+- Daniel Zeman (Charles University): Co-initiator and editor.
+- Bruno Guillaume (Université de Lorraine, CNRS, Inria, LORIA): Editor.
+- Valentina Anselmi (University of Pennsylvania): Annotator of Middle Egyptian texts.
+- Halely Harel (Berlin-Brandenburg Academy of Sciences and Humanities): Annotator of Late Egyptian texts.
+- Johannes Nikolaus Heinrich Schmitt (University of Heidelberg): Annotator of Demotic texts.
+
 # Publications related to the project
 
+- Díaz Hernández, Roberto Antonio. 2026. "Guidelines for the Annotation of Old Egyptian Texts in the UD-EPC Treebank". Lingua Aegyptia 34.
+- Díaz Hernández, Roberto Antonio and Zeman, Daniel. 2025. "Annotation of Relative Forms in the Egyptian-UJaen Treebank". In G. Bouma, Ç. Çöltekin (eds.) Proceedings of the Eighth Workshop on Universal Dependencies (UDW, SyntaxFest 2025), pages 11-21. https://aclanthology.org/2025.udw-1.2/.
+- - Díaz Hernández, Roberto Antonio. 2025. "A Typology of Non-Projective Patterns in Unas’s and Teti’s Pyramid Texts". In E. Hajičová, S. Kahane (eds.) Proceedings of the Eighth International Conference on Dependency Linguistics (Depling, SyntaxFest 2025), pages 1-12. https://aclanthology.org/2025.depling-1.1/.
 - Díaz Hernández, Roberto Antonio and Passarotti, Marco Carlo. 2024. "Developing the Egyptian-UJaen Treebank". In D. Dakota et al. (eds.) Proceedings of the 22nd Workshop on Treebanks and Linguistic Theories (TLT 2024) Association for Computational Linguistics, pages 1–10. https://aclanthology.org/2024.tlt-1.1/
-- Díaz Hernández, Roberto Antonio. 2025. "A Typology of Non-Projective Patterns in Unas’s and Teti’s Pyramid Texts". In E. Hajičová, S. Kahane (eds.) Proceedings of the Eighth International Conference on Dependency Linguistics (Depling, SyntaxFest 2025), pages 1-12. https://aclanthology.org/2025.depling-1.1/
-- Díaz Hernández, Roberto Antonio and Zeman, Daniel 2025. "Annotation of Relative Forms in the Egyptian-UJaen Treebank". In G. Bouma, Ç. Çöltekin (eds.) Proceedings of the Eighth Workshop on Universal Dependencies (UDW, SyntaxFest 2025), pages 11-21. https://aclanthology.org/2025.udw-1.2/.
+
 
 # Bibliography used for the Language Page
 
