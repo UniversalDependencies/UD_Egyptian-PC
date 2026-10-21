@@ -59,9 +59,7 @@ This work received support from the CA21167 COST action UniDive, funded by COST 
 
 Please cite sentences from the EPC treebank using the following format: annotator’s name, sent_id in: editors’ names, The UD-EPC Treebank, release number. 
 
-<em>For example</em>: Johannes N. H. Schmitt, Amasis_Spiegelberg_P.Bibl.Nat._215_1_(1)
-in: Roberto A. Díaz Hernández, Bruno Guillaume, Daniel Zeman (eds.), The UD-EPC Treebank,
-release 2.19 (November 2026).
+<em>For example</em>: Johannes N. H. Schmitt, Amasis_Spiegelberg_P.Bibl.Nat.\_215\_1\_(1) in: Roberto A. Díaz Hernández, Bruno Guillaume, Daniel Zeman (eds.), The UD-EPC Treebank, release 2.19 (November 2026).
 
 # Publications related to the project
 
