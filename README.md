@@ -127,13 +127,13 @@ Data available since: UD v2.14
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
-Genre: bible fiction nonfiction government, poetry, fiction literature, government texts.
+Genre: bible fiction nonfiction government poetry
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Editors: Díaz Hernández, Roberto Antonio; Guillaume, Bruno; Zeman, Daniel
+Contributors: Díaz Hernández, Roberto Antonio; Guillaume, Bruno; Zeman, Daniel
 Contributing: here
 Contact: radiaz@ujaen.es
 ===============================================================================
