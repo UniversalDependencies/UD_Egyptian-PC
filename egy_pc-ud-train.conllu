@@ -59825,3 +59825,1545 @@
 26	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	25	obl:nisba	_	Hiero=(𓊪𓏏:𓇯)|Hierocl=𓇯|ID=58710
 27	|	|	PUNCT	_	_	1	punct	_	ID=.
 
+# sent_id = oBorchardt_1_Mathieu_24_rto_1
+# title = oBorchardt_1
+# edition = Mathieu
+# plate = 24
+# line = 1
+# date = 19th-20th
+# lang = Late Egyptian
+# genre = literary
+# place = Thebes
+# TLA = IBUBd8dLEQUEUkJIseHx3hsMdgc
+# text = hrw nfr pꜣy.ꞽ ptrꞽ ⸗k .
+# annotator = Haleli Hareil.
+1	hrw	hrw	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓉔(𓂋:𓏲𓇳)𓏤|Hierocl=𓇳𓏤|ID=99060
+2	nfr	nfr	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	Hiero=𓄤(𓆑:𓂋)|ID=550034
+3	pꜣy.ꞽ	pꜣy.ꞽ	DET	_	Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	Gender[psor]=Com|Hiero=𓅯𓄿𓇋𓇋𓁐|ID=No|Number[psor]=Sing
+4	ptrꞽ	ptr	VERB	_	Gender=Masc|VerbClass=3lit|VerbForm=Inf	0	root	_	Hiero=𓊪(𓏏:𓂋)𓇋𓆵𓁻|Hierocl=𓆵𓁻|ID=62900|StatInf=Pron|Trans=Yes
+5	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronClass=Suffix|PronType=Prs	4	obj	_	Hiero=𓎢|ID=10110
+6	.	.	PUNCT	_	_	4	punct	_	Hiero=𔏳|ID=.
+
+# sent_id = oBorchardt_1_Mathieu_24_rto_1-2
+# title = oBorchardt_1
+# edition = Mathieu
+# plate = 24
+# line = rto_1-2
+# date = 19th-20th
+# lang = Late Egyptian
+# genre = literary
+# place = Thebes
+# TLA = IBUBdQCbNsvlJEoHjS1j1Vc1OE0
+# text = sn ḥs.y(t) ꜥꜣ<.t> pꜣ mꜣꜣ ⸗k .
+# annotator = Haleli Hareil.
+1	sn	śn	NOUN	_	Gender=Masc|Number=Sing	5	vocative	_	Hiero=𓌢𓀀|Hierocl=𓀀|ID=136230
+2	ḥs.y(t)	ḥsw.t	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	Hiero=𓎛𓎿𓋴𓇋𓇋𓏫|Hierocl=𓏫|ID=855743
+3	ꜥꜣ<.t>	ꜥꜣ	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	Hiero=(𓉻:𓏛)|Hierocl=𓏛|ID=450158
+4	pꜣ	pꜣ	DET	_	Gender=Masc|Number=Sing|PronType=Art	5	det	_	Definite=Def|Hiero=𓅯𓄿|ID=58770
+5	mꜣꜣ	mꜣꜣ	VERB	_	Gender=Masc|VerbClass=2aered|VerbForm=Inf	0	root	_	Hiero=(𓌴:𓂂𓂂)|ID=66270|StatInf=Pron|Trans=Yes
+6	⸗k	k	PRON	_	Gender=Masc|Person=2|PronClass=Suffix|PronType=Prs	5	obj	_	Hiero=𓎢|ID=10110
+7	.	.	PUNCT	_	_	5	punct	_	Hiero=𔏳|ID=.
+
+# sent_id = oBorchardt_1_Mathieu_24_rto_2-3
+# title = oBorchardt_1
+# edition = Mathieu
+# plate = 24
+# line = rto_2-3
+# date = 19th-20th
+# lang = Late Egyptian
+# genre = literary
+# place = Thebes
+# TLA = IBUBd3oO62uH1EToholJ9HmOjqg
+# text = bsy ⸗k n ⸗ꞽ ꞽrm ḥ(n)ḳ.t .
+# annotator = Haleli Hareil.
+1	bsy	bsi̯	VERB	_	Conjug=Suffix|Mood=Sub|SubForm=No|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓃀𓋴𓇋𓇋𓷖|Hierocl=𓷖|ID=57160|Trans=No
+2	⸗k	k	PRON	_	Gender=Masc|Person=2|PronClass=Suffix|PronType=Prs	1	nsubj	_	Hiero=𓎢|ID=10110
+3	n	n	ADP	_	Case=Dat|StatPrep=Pron	4	case	_	Hiero=𓈖|ID=400055
+4	⸗ꞽ	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Suffix|PronType=Prs	1	obl:arg	_	Hiero=𓀀|Hierocl=𓀀|ID=10030
+5	ꞽrm	ꞽrm	ADP	_	Case=Ins|StatPrep=Cons	6	case	_	Hiero=𓇋𓀁(𓏭:𓂋)𓏤(𓅓:𓂝)|ID=29840
+6	ḥ(n)ḳ.t	ḥnḳ.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	Hiero=𓎛(𓈎:𓏏)𓏊𓏫|Hierocl=𓏊𓏫|ID=110300
+7	.	.	PUNCT	_	_	1	punct	_	Hiero=𔏳|ID=.
+
+# sent_id = oBorchardt_1_Mathieu_24_rto_3-5
+# title = oBorchardt_1
+# edition = Mathieu
+# plate = 24
+# line = rto_3-5
+# date = 19th-20th
+# lang = Late Egyptian
+# genre = literary
+# place = Thebes
+# TLA = IBUBd7rnBzQP5U9Xh44ECjvcbwU
+# text = ḥs.yw ꜥpr(.w) m ḫꜥ(.w) ꞽw rʾ(.w) ⸗sn ꜥpr(.w) m sḫmḫ-ꞽb . n ršw.t čḥḥw.t .
+# annotator = Haleli Hareil.
+1	ḥs.yw	ḥś.w	NOUN	_	Gender=Masc|Number=Plur	2	nsubj	_	Hiero=𓎛𓎿𓇋𓇋𓀁𓏫|Hierocl=𓀁𓏫|ID=855743
+2	ꜥpr(.w)	ꜥpr	VERB	_	Aspect=Stat|Conjug=AfroAsia|Gender=Com|Mood=Ind|Number=Plur|Person=3|VerbClass=3lit|VerbForm=Fin	0	root	_	Hiero=𓐢(𓂋:𓏛)|Hierocl=𓏛|ID=37090|Trans=No
+3	m	m	ADP	_	Case=Ins|StatPrep=Cons	4	case	_	Hiero=𓅓|ID=64364
+4	ḫꜥ(.w)	ḫꜥ.w	NOUN	_	Gender=Masc|Number=Coll	2	obl	_	Hiero=(𓈍:𓂝)𓏤𓆱𓏫|Hierocl=𓏤𓆱𓏫|ID=114680
+5	ꞽw	ꞽw	SCONJ	_	_	8	mark	_	Hiero=𓇋𓏲|ID=851512
+6	rʾ(.w)	rʾ	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	Hiero=𓂋𓏤𓏫|Hierocl=𓏤𓏫|ID=92580
+7	⸗sn	śn	PRON	_	Gender=Com|Number=Plur|Person=3|Poss=Yes|PronClass=Suffix|PronType=Prs	6	nmod:poss	_	Hiero=𓋴(𓈖:𓏥)|Hierocl=𓏥|ID=10100
+8	ꜥpr(.w)	ꜥpr	VERB	_	Aspect=Stat|Conjug=AfroAsia|Gender=Com|Mood=Ind|Number=Plur|Person=3|VerbClass=3lit|VerbForm=Fin	2	advcl	_	Hiero=𓐢(𓂋:𓏛)|Hierocl=𓏛|ID=37090|Trans=No
+9	m	m	ADP	_	Case=Ins|StatPrep=Cons	10	case	_	Hiero=𓅓|ID=64364
+10-11	sḫmḫ-ꞽb	_	_	_	_	_	_	_	Hiero=𓋴𓐍𓅓(𓐍:𓂜)𓄣𓏤(𓏛:𓏥)|ID=142430
+10	sḫmḫ	śḫmḫ	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	Hiero=𓋴𓐍𓅓(𓐍:𓂜)|Hierocl=𓂜|ID=142420
+11	ꞽb	ꞽb	NOUN	_	Gender=Masc|Number=Sing	10	compound	_	Hiero=𓄣𓏤(𓏛:𓏥)|Hierocl=𓏤(𓏛:𓏥)|ID=23290
+12	.	.	PUNCT	_	_	14	punct	_	Hiero=𔏳|ID=.
+13	n	n	ADP	_	Case=Cau|StatPrep=Cons	14	case	_	Hiero=𓈖|ID=78874
+14	ršw.t	ršw.t	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	Hiero=(𓂋:𓈙)(𓏲:𓏏)𓂉(𓏛:𓏥)|Hierocl=𓂉(𓏛:𓏥)|ID=96220
+15	čḥḥw.t	čḥḥw.t	NOUN	_	Gender=Fem|Number=Sing	14	conj	_	Hiero=𓎀𓎛𓎛(𓏏:𓏲)𓄑𓀁𓏫|Hierocl=𓄑𓀁𓏫|ID=176750
+16	.	.	PUNCT	_	_	2	punct	_	Hiero=𔏳|ID=.
+
+# sent_id = oBorchardt_1_Mathieu_24_rto_6-7
+# title = oBorchardt_1
+# edition = Mathieu
+# plate = 24
+# line = rto_6-7
+# date = 19th-20th
+# lang = Late Egyptian
+# genre = literary
+# place = Thebes
+# TLA = IBUBd7rnBzQP5U9Xh44ECjvcbwU
+# text = ꞽw ꞽn(.w) pꜣy.k šm.w n-ḥꜣ ⸗f . ꞽw ⸗k spṭ.t(ꞽ) m ꞽꜣw.t .
+# annotator = Haleli Hareil.
+1	ꞽw	ꞽw	AUX	_	Aspect=Perf	2	aux	_	Hiero=𓇋𓏲|ID=851512
+2	ꞽn(.w)	ꞽni̯	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=Pred|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Pass	0	root	_	Hiero=(𓏎:𓈖)|ID=26870|Trans=Yes
+3	pꜣy.k	pꜣy.k	DET	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	det	_	Gender[psor]=Masc|Hiero=𓅯𓄿(𓇋𓇋:𓎢)|ID=No|Number[psor]=Sing
+4	šm.w	šm.w	NOUN	_	_	2	nsubj:pass	_	Hiero=𓈙𓅓𓏲𓊮𓏴|Hierocl=𓊮𓏴|ID=154460
+5-6	n-ḥꜣ	_	_	_	_	_	_	_	Hiero=𓈖𓇉𓄿𓁶|ID=600068
+5	n	n	ADP	_	ExtPos=ADP|StatPrep=Pron	7	case	_	Hiero=𓈖|ID=78870
+6	ḥꜣ	ḥꜣ	ADP	_	_	5	fixed	_	Hiero=𓇉𓄿𓁶|Hierocl=𓁶|ID=100150
+7	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	2	obl	_	Hiero=𓆑|ID=10050
+8	.	.	PUNCT	_	_	11	punct	_	Hiero=𔏳|ID=.
+9	ꞽw	ꞽw	SCONJ	_	_	11	mark	_	Hiero=𓇋𓅱|ID=851512
+10	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronClass=Suffix|PronType=Prs	11	nsubj	_	Hiero=𓎢|ID=10110
+11	spṭ.t(ꞽ)	śpṭ	VERB	_	Aspect=Stat|Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=2|VerbClass=3lit|VerbForm=Fin	2	advcl	_	Hiero=𓋴(𓊪:𓂧)𓏙𓏤(𓏛:𓏏𓏲)|Hierocl=𓏙𓏤𓏛|ID=500143|Trans=No
+12	m	m	ADP	_	Case=Loc|StatPrep=Cons	13	case	_	Hiero=𓅓|ID=400007
+13	ꞽꜣw.t	ꞽꜣw.t	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	Hiero=𓇋𓄿(𓏲:𓏏)𓊑(𓏛:𓏥)|Hierocl=𓊑(𓏛:𓏥)|ID=20430
+14	.	.	PUNCT	_	_	2	punct	_	Hiero=𔏳|ID=.
+
+# sent_id = oBorchardt_1_Mathieu_24_rto_7-vso_1
+# title = oBorchardt_1
+# edition = Mathieu
+# plate = 24
+# line = rto_7-vso_1
+# date = 19th-20th
+# lang = Late Egyptian
+# genre = literary
+# place = Thebes
+# TLA = IBUBdzIha6G0SEsDo5e597U7iAs; IBUBd0xhPWaVNkBCkDANOcmLRAE
+# text = č̣ṭ-tw ḫr-tw sč̣m<-tw> mṭw.t ⸗k . ḫbꜣ(.w) pꜣ wčs tw .
+# annotator = Haleli Hareil.
+1-2	č̣ṭ-tw	_	_	_	_	_	_	_	Hiero=𓆓𓂧𓏏𓏲
+1	č̣ṭ	č̣ṭ	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	5	advcl	_	Hiero=𓆓𓂧|ID=185810|Trans=Yes
+2	tw	tw	NOUN	_	Gender=Masc|Impersonal=Man|Number=Sing	1	nsubj	_	Hiero=𓏏𓏲|ID=170100
+3-4	ḫr-tw	_	_	_	_	_	_	_	Hiero=(𓐍:𓂋)𓏏𓏲
+3	ḫr	ḫr	PART	_	_	5	discourse	_	Hiero=(𓐍:𓂋)|ID=119600
+4	tw	tw	NOUN	_	Gender=Masc|Impersonal=Man|Number=Sing	5	dislocated:nsubj	_	Hiero=𓏏𓏲|ID=170100
+5-6	sč̣m<-tw>	_	_	_	_	_	_	_	Hiero=𓄔𓅓𓏛𓏏𓏲
+5	sč̣m	śč̣m	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=Pred|Tense=Pres|VerbClass=3lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓄔𓅓𓏛|Hierocl=𓏛|ID=150560|Trans=Yes
+6	<-tw>	tw	NOUN	_	Gender=Masc|Impersonal=Man|Number=Sing	5	nsubj	_	Hiero=<𓏏𓏲>|ID=170100_Emend
+7	mṭw.t	mṭw.t	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	Hiero=𓌃(𓂧:𓏏)𓀁𓏫|Hierocl=𓀁𓏫|ID=78030
+8	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronClass=Suffix|PronType=Prs	7	nmod	_	Hiero=𓎢|ID=10110
+9	.	.	PUNCT	_	_	10	punct	_	Hiero=𔏳|ID=No
+10	ḫbꜣ(.w)	ḫbꜣ	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=Pred|Tense=Past|VerbClass=3lit|VerbForm=Fin|Voice=Pass	5	advcl:tcl	_	Hiero=𓐍𓃀𓅯𓄿(𓂷:𓂡)𓀒𓏴(𓏥:𓅪)|Hierocl=(𓂷:𓂡)𓀒𓏴(𓏥:𓅪)|ID=115490|Trans=Yes
+11	pꜣ	pꜣ	DET	_	Gender=Masc|Number=Sing|PronType=Art	12	det	_	Definite=Def|Hiero=𓅯𓄿|ID=58770
+12	wčs	wčs	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Past|VerbClass=3lit|VerbForm=Part|Voice=Act	10	nsubj:pass	_	Hiero=𓏲(𓎀:𓊃)𓍞𓀁|Hierocl=𓍞𓀁|ID=51340|Trans=Yes
+13	tw	tw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronClass=Dep|PronType=Prs	12	obj	_	Hiero=(𓏏:𓏲)|ID=851182
+14	.	.	PUNCT	_	_	5	punct	_	Hiero=𔏳|ID=No
+
+# sent_id = oBorchardt_1_Mathieu_24_vso_1-2
+# title = oBorchardt_1
+# edition = Mathieu
+# plate = 24
+# line = vso_1-2
+# date = 19th-20th
+# lang = Late Egyptian
+# genre = literary
+# place = Thebes
+# TLA = IBUBd1yI5ZmQvk9NgaXKhSPufeQ
+# text = sn.t ⸗k ꞽḳr.t m ꞽꜣ.wt n-ḥr ⸗k (ḥr) sn tꜣ n ptrꞽ ⸗k .
+# annotator = Haleli Hareil.
+1	sn.t	śn.t	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	Hiero=𓌢(𓏏:𓁐)|Hierocl=𓁐|ID=136260
+2	⸗k	k	PRON	_	Gender=Masc|Person=2|Poss=Yes|PronClass=Suffix|PronType=Prs	1	nmod:poss	_	Hiero=𓎢|ID=10110
+3	ꞽḳr.t	ꞽḳr	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	Hiero=𓇋(𓈎:𓂋)(𓏏:𓏛)|Hierocl=𓏛|ID=400076
+4	m	m	ADP	_	Case=Ess|StatPrep=Cons	5	case	_	Hiero=𓅓|ID=64362
+5	ꞽꜣ.wt	ꞽꜣ.w	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓇋𓄿(𓏲:𓏏)𓀢𓏛|Hierocl=𓀢𓏛|ID=20360
+6-7	n-ḥr	_	_	_	_	_	_	_	Hiero=𓈖𓁷𓏤|ID=79310
+6	n	n	ADP	_	Case=Loc|ExtPos=ADP|StatPrep=Pron	8	case	_	Hiero=𓈖|ID=78873
+7	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	6	fixed	_	Hiero=𓁷𓏤|Hierocl=𓏤|ID=107510
+8	⸗k	k	PRON	_	Gender=Masc|Person=2|PronClass=Suffix|PronType=Prs	5	obl	_	Hiero=𓎢|ID=10110
+9	(ḥr)	ḥr	ADP	_	StatPrep=Cons	10	case	_	Hiero=No|ID=107529_Add
+10	sn	śn	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	5	obl	_	Hiero=(𓊃:𓈖)𓏭𓂉|Hierocl=𓏭𓂉|ID=136560|StatInf=Cons|Trans=Yes
+11	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	Hiero=(𓇾:𓏤𓈇)|Hierocl=𓈇|ID=400576|MWE=Yes
+12	n	n	ADP	_	Case=Cau|StatPrep=Cons	13	case	_	Hiero=𓈖|ID=78874
+13	ptrꞽ	ptr	VERB	_	Gender=Masc|VerbClass=3lit|VerbForm=Inf	10	obl	_	Hiero=𓊪(𓏏:𓂋)𓇋𓆵𓁻|Hierocl=𓆵𓁻|ID=62900|StatInf=Pron|Trans=Yes
+14	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronClass=Suffix|PronType=Prs	13	obj	_	Hiero=𓎢|ID=10110
+15	.	.	PUNCT	_	_	5	punct	_	Hiero=𔏳|ID=.
+
+# sent_id = oBorchardt_1_Mathieu_24_vso_2-4
+# title = oBorchardt_1
+# edition = Mathieu
+# plate = 24
+# line = vso_2-4
+# date = 19th-20th
+# lang = Late Egyptian
+# genre = literary
+# place = Thebes
+# TLA = IBUBd7sL9gZu4kQJkSp71QoavK4
+# text = šśp-tw ⸗śt m ḥ(n)ḳ.t ḥr śntr mꞽ pꜣ ś:ḥtp nčr grḥ
+# annotator = Haleli Hareil.
+1-2	šśp-tw	_	_	_	_	_	_	_	Hiero=𓊏𓊪(𓀜:𓏏𓏲)
+1	šśp	šśp	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓊏𓊪𓀜|Hierocl=𓀜|ID=157160|Trans=Yes
+2	tw	tw	NOUN	_	Gender=Masc|Impersonal=Man|Number=Sing	1	nsubj	_	Hiero=𓏏𓏲|ID=170100
+3	⸗śt	ś	PRON	_	Gender=Fem|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	1	obj	_	Hiero=𓋴𓏏|ID=851173
+4	m	m	ADP	_	Case=Ins|StatPrep=Cons	5	case	_	Hiero=𓅓|ID=64364
+5	ḥ(n)ḳ.t	ḥnḳ.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	Hiero=𓎛(𓈎:𓏏)𓏊𓏫|Hierocl=𓏊𓏫|ID=110300
+6	ḥr	ḥr	CCONJ	_	StatPrep=Cons	7	cc	_	Hiero=𓁷𓏤|Hierocl=𓏤|ID=400093
+7	śntr	śnčr	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	Hiero=𓊹𓌢(𓏏:𓂋)𓇋𓆵(𓈒:𓏥)|Hierocl=𓆵(𓈒:𓏥)|ID=138670
+8	mꞽ	mꞽ	ADP	_	Case=Equ|StatPrep=Cons	9	case	_	Hiero=𓏇𓇋|ID=67820
+9	pꜣ	pꜣ	DET	_	Gender=Masc|Number=Sing|PronType=Art	10	det	_	Definite=Def|Hiero=𓅯𓄿|ID=58770
+10	ś:ḥtp	ḥtp	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=Caus3lit|VerbForm=Part|Voice=Act	1	obl	_	Hiero=𓋴(𓊵:𓏏)𓊪𓏛|Hierocl=𓏛|ID=141120|Trans=Yes
+11	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	Hiero=𓊹𓅆|Hierocl=𓅆|ID=90260
+12	grḥ	grḥ	PUNCT	_	_	1	punct	_	Hiero=𓂢|ID=167900
+
+# sent_id = oBorchardt_1_Mathieu_24_vso_4-10
+# title = oBorchardt_1
+# edition = Mathieu
+# plate = 24
+# line = vso_4-10
+# date = 19th-20th
+# lang = Late Egyptian
+# genre = literary
+# place = Thebes
+# TLA = IBUBdWOU6AMW70klrLYr1yrhT4g
+# text = pꜣ ꞽnr n nč̣ msṭm.t . pꜣ nčr-ꜥꜣ n.tꞽ m tꜣ p.t . tꜣ s.t-ḥms n wꜥ.w ẖn<n>.w . ḫrw r(m)č m-sꜣ ꞽḥ(.w) tꜣ ḫꜣ(.t) n.tꞽ bn {sw} <st> (ḥr) ḳṭ . pḥ tw n rn nb
+# annotator = Haleli Hareil.
+1	pꜣ	pꜣ	DET	_	Gender=Masc|Number=Sing|PronType=Art	2	det	_	Definite=Def|Hiero=𓅯𓄿|ID=58770
+2	ꞽnr	ꞽnr	NOUN	_	Gender=Masc|Number=Sing	36	vocative	_	Hiero=𓇋(𓈖:𓂋)𓊌|Hierocl=𓊌|ID=27560
+3	n	n	ADP	_	Case=Gen|StatPrep=Cons	4	case	_	Hiero=𓈖|ID=79800
+4	nč̣	nč̣	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	2	nmod	_	Hiero=𓐩𓏌𓀜|Hierocl=𓏌𓀜|ID=90880|StatInf=Cons|Trans=Yes
+5	msṭm.t	mśṭm.t	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	Hiero=𓄟𓋴𓂧(𓅓:𓏏)(𓈒:𓏥)|Hierocl=(𓈒:𓏥)|ID=76190
+6	.	.	PUNCT	_	_	8	punct	_	Hiero=𔏳|ID=.
+7	pꜣ	pꜣ	DET	_	Gender=Masc|Number=Sing|PronType=Art	8	det	_	Definite=Def|Hiero=𓅯𓄿|ID=58770
+8-9	nčr-ꜥꜣ	_	_	_	_	_	_	_	Hiero=𓊹𓅆(𓉻:𓏛)|ID=90360
+8	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	Hiero=𓊹𓅆|Hierocl=𓅆|ID=90260
+9	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	8	compound	_	Hiero=(𓉻:𓏛)|Hierocl=𓏛|ID=450158
+10	n.tꞽ	n.tꞽ	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	13	nsubj	_	Hiero=(𓈖:𓏏𓏭)|ID=851214
+11	m	m	ADP	_	Case=Loc|StatPrep=Cons	13	case	_	Hiero=𓅓|ID=400007
+12	tꜣ	tꜣ	DET	_	Gender=Fem|Number=Sing|PronType=Art	13	det	_	Definite=Def|Hiero=(𓏏:𓄿)|ID=168850
+13	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	8	acl:relcl	_	Hiero=𓊪(𓏏:𓇯)|ID=58710
+14	.	.	PUNCT	_	_	16	punct	_	Hiero=𔏳|ID=.
+15	tꜣ	tꜣ	DET	_	Gender=Fem|Number=Sing|PronType=Art	16	det	_	Definite=Def|Hiero=(𓏏:𓄿)|ID=168850
+16-17	s.t-ḥms	_	_	_	_	_	_	_	Hiero=𓊨(𓏏:𓉐)(𓈞:𓊃)𓀔𓏲|ID=125380
+16	s.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	Hiero=𓊨(𓏏:𓉐)|Hierocl=𓉐|ID=125100
+17	ḥms	ḥmś.w	NOUN	_	Gender=Masc|Number=Sing	16	compound	_	Hiero=(𓈞:𓊃)𓀔𓏲|Hierocl=𓀔|ID=856830
+18	n	n	ADP	_	Case=Gen|StatPrep=Cons	19	case	_	Hiero=𓈖|ID=78900
+19	wꜥ.w	wꜥ.w	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	Hiero=𓏲𓂝𓏲𓏛𓀜|Hierocl=𓏛𓀜|ID=44390
+20	ẖn<n>.w	ẖnn.w	NOUN	_	Gender=Masc|Number=Sing	19	nmod:poss	_	Hiero=(𓂙:𓈖)(𓈖:𓏌:𓏲)𓊛𓀜|Hierocl=𓊛𓀜|ID=123760
+21	.	.	PUNCT	_	_	22	punct	_	Hiero=𔏳|ID=.
+22	ḫrw	ḫrw	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	Hiero=𓊤𓏲𓀁|Hierocl=𓀁|ID=120010
+23	r(m)č	rmč	NOUN	_	Gender=Masc|Number=Sing	22	nmod:poss	_	Hiero=(𓂋:𓎀)(𓀀𓁐:𓏥)|Hierocl=(𓀀𓁐:𓏥)|ID=94530
+24-25	m-sꜣ	_	_	_	_	_	_	_	Hiero=𓅓𓐠𓏤|ID=94530
+24	m	m	ADP	_	Case=Loc|ExtPos=ADP|StatPrep=Cons	26	case	_	Hiero=𓅓|ID=400007
+25	sꜣ	śꜣ	NOUN	_	Gender=Masc|Number=Sing	24	fixed	_	Hiero=𓐠𓏤|Hierocl=𓏤|ID=125670
+26	ꞽḥ(.w)	ꞽḥ	NOUN	_	Gender=Masc|Number=Plur	22	nmod	_	Hiero=𓃒𓏫|Hierocl=𓏫|ID=30410
+27	tꜣ	tꜣ	DET	_	Gender=Fem|Number=Sing|PronType=Art	28	det	_	Definite=Def|Hiero=(𓏏:𓄿)|ID=168850
+28	ḫꜣ(.t)	ḫnr	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	Hiero=𓆼𓄿𓍉|Hierocl=𓍉|ID=118370
+29	n.tꞽ	n.tꞽ	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	34	expl:rel	_	Hiero=(𓈖:𓏏:𓏭)|ID=851214,89850
+30	bn	bn	PART	_	PartType=Neg	34	advmod:neg	_	Hiero=(𓃀:𓈖)|ID=55500
+31	{sw}	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Procl|PronType=Prs|Typo=Yes	32	reparandum	_	Hiero={𓇓𓏲}|ID=851203_Error
+32	<st>	st	PRON	_	Gender=Fem|Number=Sing|Person=3|PronClass=Procl|PronType=Prs	34	nsubj	_	Hiero=<𓋴𓏏>|ID=851204_Emend
+33	(ḥr)	ḥr	ADP	_	StatPrep=Cons	34	case	_	Hiero=No|ID=107529
+34	ḳṭ	ḳṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	28	acl:relcl	_	Hiero=𓀨𓀜|Hierocl=𓀜|ID=162420|StatInf=Abs|Trans=Yes
+35	.	.	PUNCT	_	_	36	punct	_	Hiero=𔏳|ID=.
+36	pḥ	pḥ	VERB	_	Mood=Imp|Number=Sing|VerbClass=3lit|VerbForm=Fin	0	root	_	Hiero=𓄖|ID=61370
+37	tw	tw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronClass=Dep|PronType=Prs|Reflex=Yes	36	obj	_	Hiero=(𓏲:𓏏)|ID=851182
+38	n	n	ADP	_	Case=Cau|StatPrep=Cons	39	case	_	Hiero=𓈖|ID=78874
+39	rn	rn	NOUN	_	Gender=Masc|Number=Sing	36	obl	_	Hiero=(𓂋:𓈖)𓀁|Hierocl=𓀁|ID=94700
+40	nb	nb	ADJ	_	Gender=Masc|Number=Sing	39	amod	_	Hiero=𓎟|ID=81660
+
+# sent_id = oNash_12_Mathieu_26_1-2
+# title = oNash_12
+# edition = Mathieu
+# plate = 26
+# line = 1-2
+# date = 19th-20th
+# lang = Late Egyptian
+# genre = literary
+# place = Thebes
+# TLA = IBUBd2ruZVTnXUSir2QFlNWDoZg
+# text = pꜣ grḥ (ꞽ)n tw.tw m šm.t (r) ꞽsḳꜣ ⸗ꞽ ḥnꜥ ⸗st
+# annotator = Haleli Hareil.
+1	pꜣ	pꜣ	DET	_	Gender=Masc|Number=Sing|PronType=Art	2	det	_	Definite=Def|Hiero=𓅯𓄿|ID=58770
+2	grḥ	grḥ	NOUN	_	Gender=Masc|Number=Sing	6	vocative	_	Hiero=(𓎼:𓂋)𓎛𓇰|Hierocl=𓇰|ID=167920
+3	(ꞽ)n	ꞽn	PART	_	PartType=Int	6	advmod:q	_	Hiero=𓈖|ID=26680
+4	tw.tw	tw.tw	PRON	_	Gender=Com|Impersonal=Man|Number=Sing|Person=3|PronClass=Procl|PronType=Prs	6	nsubj	_	Hiero=𓏏𓏲𓏏𓏲|ID=851206
+5	m	m	ADP	_	StatPrep=Cons	6	case	_	Hiero=𓅓|ID=64369
+6	šm.t	šmi̯	VERB	_	Gender=Masc|VerbClass=3aeinf|VerbForm=Inf	0	root	_	Hiero=𓈝𓅓(𓏏:𓂻)|Hierocl=𓂻|ID=154340|StatInf=Abs|Trans=No
+7	(r)	r	ADP	_	StatPrep=Cons	8	case	_	Hiero=No|ID=91909
+8	ꞽsḳꜣ	ꞽśḳ	VERB	_	Gender=Masc|VerbClass=3lit|VerbForm=Inf	6	advcl:purp	_	Hiero=𓇋𓋴𓈎𓄿𓂾𓂻|Hierocl=𓂾𓂻|ID=31730|StatInf=Pron|Trans=Yes
+9	⸗ꞽ	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Suffix|PronType=Prs	8	obj	_	Hiero=𓀀|ID=10030
+10	ḥnꜥ	ḥnꜥ	CCONJ	_	StatPrep=Pron	11	cc	_	Hiero=𓎛(𓈖:𓂝)|ID=550300
+11	⸗st	ś	PRON	_	Gender=Fem|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	9	conj	_	Hiero=𓋴𓏏|ID=10090
+
+# sent_id = oNash_12_Mathieu_26_2
+# title = oNash_12
+# edition = Mathieu
+# plate = 26
+# line = 2
+# date = 19th-20th
+# lang = Late Egyptian
+# genre = literary
+# place = Thebes
+# TLA = IBUBd7dhAqTkbk1lj76A2OL77RM; IBUBd9AHxsQbJkq4s3pXTLclRCw; IBUBd7RTZpjYnU5CkSyTDUJu8kU
+# text = ꞽś ntk wꜥb ntk ḥm-nčr ntk fꜣ.y-mhn.w
+# annotator = Haleli Hareil.
+1	ꞽś	ꞽś	PART	_	PartType=Int	3	advmod:q	_	Hiero=𓇋𓋴|ID=31140
+2	ntk	ntk	PRON	_	Gender=Masc|Number=Sing|Person=2|PronClass=Ind|PronType=Prs	3	nsubj	_	Hiero=(𓈖:𓏏:𓎢)|ID=90120
+3	wꜥb	wꜥb	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓃂𓈗|Hierocl=𓈗|ID=44460
+4	ntk	ntk	PRON	_	Gender=Masc|Number=Sing|Person=2|PronClass=Ind|PronType=Prs	5	nsubj	_	Hiero=(𓈖:𓏏:𓎢)|ID=90120
+5-6	ḥm-nčr	_	_	_	_	_	_	_	Hiero=𓊹𓍛(𓏤:𓀀)|ID=104940
+5	ḥm	ḥm	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	Hiero=𓍛(𓏤:𓀀)|Hierocl=𓏤𓀀|ID=104680|Title=Yes
+6	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	5	compound	_	Hiero=𓊹|ID=90260
+7	ntk	ntk	PRON	_	Gender=Masc|Number=Sing|Person=2|PronClass=Ind|PronType=Prs	8	nsubj	_	Hiero=(𓈖:𓏏:𓎢)|ID=90120
+8-9	fꜣ.y-mhn.w	_	_	_	_	_	_	_	Hiero=(𓆑:𓄿)𓇋𓇋𓀋𓀜(𓅓:𓂝)𓉔(𓈖:𓏌:𓏲)𓏋𓏫|ID=63590
+8	fꜣ.y	fꜣi̯	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=3aeinf|VerbForm=Part|Voice=Act	3	conj	_	Hiero=(𓆑:𓄿)𓇋𓇋𓀋𓀜|Hierocl=𓀋𓀜|ID=63460|Trans=Yes
+9	mhn.w	mhr	NOUN	_	Gender=Masc|Number=Sing	8	compound	_	Hiero=(𓅓:𓂝)𓉔(𓈖:𓏌:𓏲)𓏋𓏫|Hierocl=𓏋𓏫|ID=73210
+
+# sent_id = oNash_12_Mathieu_26_3-4
+# title = oNash 12
+# edition = Mathieu
+# plate = 26
+# line = 3-4
+# date = 19th-20th
+# lang = Late Egyptian
+# genre = literary
+# place = Theban
+# TLA = IBUBd7jK6Sf1VkmWsq1ZveXtMoE
+# text = ꜣbb (⸗ꞽ) rhny č̣w.w ꞽw ⸗ꞽ ḥr pẖr wꜣč̣[-wr] [ḥnꜥ] n.tꞽ m tꜣ č̣rꞽ.t pḫꜣ(.t) p.t rꜥw-nb
+# annotator = Haleli Harel
+1	ꜣbb	ꜣbi̯	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Pres|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓍋𓃀𓃀𓀁|Hierocl=𓀁|ID=73|Trans=Yes
+2	(⸗ꞽ)	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Suffix|PronType=Prs	1	nsubj	_	Hiero=No|ID=10030_Add
+3	rhny	rhni̯	VERB	_	Gender=Masc|VerbClass=4aeinf|VerbForm=Inf	1	xcomp	_	Hiero=(𓂋:𓉔)(𓈖:𓏭)𓇋𓇋𓈗(𓈘:𓈇:𓏤)|Hierocl=𓈗𓈘𓈇𓏤|ID=95450|StatInf=Cons|Trans=Yes
+4	č̣w.w	č̣w	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	Hiero=𓈋𓏲𓏲(𓊌:𓏥)|Hierocl=𓊌𓏥|ID=182830
+5	ꞽw	ꞽw	SCONJ	_	_	8	mark	_	Hiero=𓇋𓏲|ID=851512
+6	⸗ꞽ	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Suffix|PronType=Prs	8	nsubj	_	Hiero=𓀀|ID=10030
+7	ḥr	ḥr	ADP	_	StatPrep=Cons	8	case	_	Hiero=𓁷𓏤|Hierocl=𓏤|ID=107529
+8	pẖr	pẖr	VERB	_	Gender=Masc|VerbClass=3lit|VerbForm=Inf	3	advcl	_	Hiero=(𓄲:𓂋)𓏲𓂻|Hierocl=𓂻|ID=61900|StatInf=Cons|Trans=Yes
+9-10	wꜣč̣[-wr]	_	_	_	_	_	_	_	Hiero=𓇆𓈗(𓈘:𓈇:𓏤)|ID=43820
+9	wꜣč̣	wꜣč̣	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=3lit|VerbForm=Part|Voice=Act	8	obj	_	Hiero=𓇆|ID=43580|Trans=No
+10	[wr]	wr	ADJ	_	Gender=Masc|Number=Sing	9	compound	_	Hiero=Lost|ID=47271_Rest
+11	[ḥnꜥ]	ḥnꜥ	ADP	_	Case=Com|StatPrep=Cons	12	case	_	Hiero=[𓎛(𓈖:𓂝)]|ID=106200_Rest
+12	n.tꞽ	n.tꞽ	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	15	nsubj	_	Hiero=(𓈖:𓏏:𓏭)|ID=851214
+13	m	m	ADP	_	Case=Equ|StatPrep=Cons	15	case	_	Hiero=𓅓|ID=500292
+14	tꜣ	tꜣ	DET	_	Gender=Fem|Number=Sing|PronType=Art	15	det	_	Definite=Def|Hiero=(𓏏:𓄿)|ID=168850
+15	č̣rꞽ.t	č̣r.t	NOUN	_	Gender=Fem|Number=Sing	3	advcl	_	Hiero=(𓇥:𓂋)𓇋𓏏𓅭|Hierocl=𓅭|ID=184660
+16	pḫꜣ(.t)	pḫꜣ	VERB	_	Gender=Fem|Number=Sing|Tense=Pres|VerbClass=3lit|VerbForm=Part|Voice=Act	15	acl	_	Hiero=(𓊪:𓐍)𓆼𓄿𓍸𓈇𓏤|Hierocl=𓍸𓈇𓏤|ID=61730|Trans=Yes
+17	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	Hiero=𓊪(𓏏:𓇯)|Hierocl=𓇯|ID=58710
+18-19	rꜥw-nb	_	_	_	_	_	_	_	Hiero=(𓇳𓏤:𓎟)|Hierocl=𓏤|ID=93320
+18	rꜥw	rꜥw	NOUN	_	ExtPos=ADV|Gender=Masc|Number=Sing	16	advmod	_	Hiero=𓇳𓏤|Hierocl=𓏤|ID=93290
+19	nb	nb	ADJ	_	Gender=Masc|Number=Sing	18	fixed	_	Hiero=𓎟|ID=81660
+
+# sent_id = oNash_12_Mathieu_26_5
+# title = oNash 12 = oBM EA 65942
+# edition = Mathieu
+# plate = 26
+# line = 5
+# date = 19th-20th
+# lang = Late Egyptian
+# genre = literary
+# place = Theban
+# TLA = IBUBd9oXI8RsEkR2suasU2QALdA
+# text = ꞽw ⸗ꞽ r ḥḥꞽ [...] n sn(.t) ꞽw ⸗s m pꜣy.ꞽ mr
+# annotator = Haleli Harel
+1	ꞽw	ꞽw	AUX	_	Tense=Fut	4	aux	_	Hiero=𓇋𓏲|ID=851514
+2	⸗ꞽ	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Suffix|PronType=Prs	4	nsubj	_	Hiero=𓀀|Hierocl=𓀀|ID=10030
+3	r	r	ADP	_	StatPrep=Cons	4	case	_	Hiero=𓂋|ID=91907
+4	ḥḥꞽ	ḥꞽḥꞽ	VERB	_	Gender=Masc|VerbClass=4lit|VerbForm=Inf	0	root	_	Hiero=𓎛𓎛(𓏭:𓂻)|Hierocl=𓂻|ID=101930|StatInf=Cons|Trans=Yes
+5	[...]	_	NOUN	_	_	4	obj	_	Hiero=Lost|ID=Dam
+6	n	n	ADP	_	Case=Gen|StatPrep=Cons	7	case	_	Hiero=𓈖|ID=78900
+7	sn(.t)	sn.t	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	Hiero=𓌢𓁐|Hierocl=𓁐|ID=136260
+8	ꞽw	ꞽw	SCONJ	_	_	12	mark	_	Hiero=𓇋𓏲|ID=851512
+9	⸗s	ś	PRON	_	Gender=Fem|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	12	nsubj	_	Hiero=𓋴|ID=10090
+10	m	m	ADP	_	Case=Equ|StatPrep=Cons	12	case	_	Hiero=𓅓|ID=500292
+11	pꜣy.ꞽ	pꜣy.ꞽ	DET	_	Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	Gender[psor]=Com|Hiero=𓅯𓄿𓇋𓇋𓀀|ID=No|Number[psor]=Sing
+12	mr	mr	NOUN	_	Gender=Masc|Number=Sing	4	advcl	_	Hiero=𓍋(𓅓:𓂋)𓅪|Hierocl=𓅪|ID=71810
+
+# sent_id = oNash_12_Demarée_193_5-6
+# title = oNash 12
+# edition = Demarée
+# plate = 193
+# line = 5-6
+# date = 19th-20th
+# lang = Late Egyptian
+# genre = literary
+# place = Theban
+# TLA = IBUBdz1X4FdD7UmFl9WpdYxfCzo
+# text = [mꞽ] [pꜣ] n.tꞽ m tꜣ p.t
+# annotator = Haleli Harel
+1	[mꞽ]	mꞽ	VERB	_	Mood=Imp|Number=Sing|VerbClass=Anom|VerbForm=Fin	0	root	_	Hiero=[(𓅓:𓂝)𓇋(𓏭:𓂻)]|Hierocl=[𓂻]|ID=67770_Rest|Trans=No
+2	[pꜣ]	pꜣ	DET	_	Gender=Masc|Nominal=Yes|Number=Sing|PronType=Art	1	vocative	_	Definite=Def|Hiero=𓑃[𓄿]|ID=58770_Rest
+3	n.tꞽ	n.tꞽ	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Hiero=(𓈖:𓏏𓏭)|ID=851214
+4	m	m	ADP	_	Case=Loc|StatPrep=Cons	6	case	_	Hiero=𓅓|ID=400007
+5	tꜣ	tꜣ	DET	_	Gender=Fem|Number=Sing|PronType=Art	6	det	_	Definite=Def|Hiero=(𓏏:𓄿)|ID=168850
+6	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	2	acl:relcl	_	Hiero=𓊪(𓏏:𓇯)|Hierocl=𓇯|ID=58710
+
+# sent_id = oNash_12_Demarée_193_6-7
+# title = oNash 12
+# edition = Demarée
+# plate = 193
+# line = 6-7
+# date = 19th-20th
+# lang = Late Egyptian
+# genre = literary
+# place = Theban
+# TLA = IBUBdQgxnVxsIk6UkvWhDRqerIY; IBUBd6K4sh2kWEjMt7psTrc42w4
+# text = mꞽ r ꞽr(.t) n [...] s.t mꜣꜣ [...]
+# annotator = Haleli Harel
+1	mꞽ	mꞽ	VERB	_	Mood=Imp|Number=Sing|VerbClass=Anom|VerbForm=Fin	0	root	_	Hiero=(𓅓:𓂝)𓇋(𓏭:𓂻)|Hierocl=𓂻|ID=67770|Trans=No
+2	r	r	ADP	_	StatPrep=Cons	3	case	_	Hiero=𓂋|ID=91909
+3	ꞽr(.t)	ꞽri̯	VERB	_	Gender=Masc|VerbClass=3aeinf|VerbForm=Inf	1	obl	_	Hiero=𓁹|ID=28550|StatInf=Cons|Trans=Yes
+4	n	n	ADP	_	Case=Dat|StatPrep=Cons	5	case	_	Hiero=𓈖|ID=400055
+5	[...]	_	X	_	Typo=Yes	3	obl:arg	_	Hiero=Lost|ID=Dam
+6	s.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	1	dep	_	Hiero=[𓊨(𓏏:𓉐)]|Hierocl=𓉐|ID=125100
+7	mꜣꜣ	mꜣꜣ	VERB	_	Gender=Masc|VerbClass=2aered|VerbForm=Inf	1	dep	_	Hiero=[(𓌳:𓁹)𓄿]|ID=66270|StatInf=Abs|Trans=Yes
+8	[...]	_	X	_	Typo=Yes	1	dep	_	Hiero=Lost|ID=Dam
+
+# sent_id = oDeM_1040_Fox_50_1
+# title = oDeM 1040
+# edition = Fox
+# plate = 50
+# line = 1
+# date = 19th-20th
+# lang = Late Egyptian
+# genre = literary
+# place = Deir el-Medina
+# TLA = IBUBd0i0bySifE2YqhOnuWQ9WQM
+# text = pnꜥ tw
+# annotator = Haleli Harel
+1	pnꜥ	pnꜥ	VERB	_	Mood=Imp|Number=Sing|VerbClass=3lit|VerbForm=Fin	0	root	_	Hiero=𓊪(𓑕:𓈖)(𓂝:𓊜)|Hierocl=𓊜|ID=59960|Trans=Yes
+2	tw	tw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronClass=Dep|PronType=Prs|Reflex=Yes	1	obj	_	Hiero=𓏏𓏲𓀀|Hierocl=𓀀|ID=851182
+
+# sent_id = oDeM_1040_Fox_50_2
+# title = oDeM 1040
+# edition = Fox
+# plate = 50
+# line = 2
+# date = 19th-20th
+# lang = Late Egyptian
+# genre = literary
+# place = Deir el-Medina
+# TLA = IBUBd2BWzAnrjkQ2lPGmI5fkREo
+# text = sꜣ(u̯) ḥꜥ.t ⸗k č̣s.k
+# annotator = Haleli Harel
+1	sꜣ(u̯)	sꜣu̯	VERB	_	Mood=Imp|Number=Sing|VerbClass=3aeinf|VerbForm=Fin	0	root	_	Hiero=𓀸𓄿(𓏴:𓂡)|Hierocl=𓀸𓏴|ID=126290|Trans=Yes
+2	ḥꜥ.t	ḥꜥ.w	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓎛(𓂝:𓏏:𓄹)𓏥|Hierocl=𓄹|ID=101950
+3	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronClass=Suffix|PronType=Prs	2	nmod	_	Hiero=𓎢|ID=10110
+4	č̣s.k	č̣ś.k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	1	obl:unmarked	_	Hiero=(𓆓:𓊃)𓎡|ID=No
+
+# sent_id = oDeM_1040_Fox_50_3
+# title = oDeM 1040
+# edition = Fox
+# plate = 50
+# line = 3
+# date = 19th-20th
+# lang = Late Egyptian
+# genre = literary
+# place = Deir el-Medina
+# TLA = IBUBdyq4O0CEdkQ9kLMKIoUhk9Q
+# text = ꞽmm ḥr ⸗k r-ẖnw mtw ⸗k gꜣb ḥꜣ.tꞽ ⸗kw m {nꜣfꞽ} <nf> nč̣m ḥꜥ.t [⸗k] [m]-[mn.t]
+# annotator = Haleli Harel
+1	ꞽmm	rč̣i̯	VERB	_	Mood=Imp|Number=Sing|VerbClass=3aeinf|VerbForm=Fin	0	root	_	Hiero=𓇋(𓅓𓅓:𓂝)|ID=851706|Trans=Yes
+2	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓁷𓏤|ID=107510|MWE=Yes
+3	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronClass=Suffix|PronType=Prs	2	nmod	_	Hiero=𓎢|ID=10110
+4-5	r-ẖnw	_	_	_	_	_	_	_	Hiero=𓂋(𓄚:𓈖)𓏌𓏲𓉐|ID=851618
+4	r	r	ADP	_	Case=Loc|ExtPos=ADV|StatPrep=Cons	1	advmod	_	Hiero=𓂋|ID=91900
+5	ẖnw	ẖnw	NOUN	_	Gender=Masc|Number=Sing	4	fixed	_	Hiero=(𓄚:𓈖)𓏌𓏲𓉐|Hierocl=𓉐|ID=123270
+6	mtw	mtw	CCONJ	_	_	8	cc	_	Hiero=𓅓𓏏𓏲|ID=600030
+7	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronClass=Suffix|PronType=Prs	8	nsubj	_	Hiero=𓎢|ID=10110
+8	gꜣb	gbi̯	VERB	_	Gender=Masc|VerbClass=3aeinf|VerbForm=Inf	1	conj	_	Hiero=𓎼𓄿𓃀𓏴(𓑕:𓅪)|Hierocl=𓏴𓅪|ID=166950|StatInf=Cons|Trans=Yes
+9	ḥꜣ.tꞽ	ḥꜣ.tꞽ	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	Hiero=(𓄂:𓏏:𓏭)𓄣|Hierocl=𓄣|ID=100400
+10	⸗kw	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronClass=Suffix|PronType=Prs	9	nmod	_	Hiero=𓎢𓏲𓀀|ID=10110
+11	m	m	ADP	_	StatPrep=Cons	13	case	_	Hiero=𓅓|ID=64360
+12	{nꜣfꞽ}	nfꜣ	X	_	Typo=Yes	13	reparandum	_	Hiero={(𓈖:𓄿)(𓆑:𓏭)𓈐}|Hierocl=𓈐|ID=83340_Error
+13	<nf>	nf	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	Hiero=No|ID=83280_Emend
+14	nč̣m	nč̣m	VERB	_	Conjug=Suffix|Mood=Sub|SubForm=No|VerbClass=3lit|VerbForm=Fin|Voice=Act	1	advcl:purp	_	Hiero=𓇛𓅓𓏛|Hierocl=𓏛|ID=500020|Trans=Yes
+15	ḥꜥ.t	ḥꜥ.w	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	Hiero=𓎛(𓂝:𓏏𓄹)𓏥|Hierocl=𓄹|ID=101950
+16	[⸗k]	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronClass=Suffix|PronType=Prs	15	nmod	_	Hiero=[𓎢]|ID=10110_Rest
+17-18	[m]-[mn.t]	_	_	_	_	_	_	_	Hiero=No|ID=64850_Rest
+17	[m]	m	ADP	_	Case=Loc|ExtPos=ADV|StatPrep=Cons	14	advmod	_	Hiero=No|ID=400007_Rest
+18	[mn.t]	mn.t	NOUN	_	Gender=Fem|Number=Sing	17	fixed	_	Hiero=No|ID=69760_Rest
+
+# sent_id = Louvre_C172_Ameny_Landgráfová_1-2
+# title = Louvre_C172
+# Person = Ameny
+# edition = Landgráfová
+# line = 1-2
+# king = Amenemhat II
+# date = 12th Dynasty
+# lang = Middle_Egyptian
+# genre = biographical text
+# place = Abydos
+# TLA = IBYAcE9KQ6ES4kV2qiklSLWOZy0
+# text = rnp.t-sp 3 ḫr ḥm n(.ꞽ) nsw-bꞽtꞽ Nbw-kꜣ(.w)-Rꜥw č̣i̯ ꜥnḫ č̣.t
+# annotator = Valentina Anselmi.
+1-2	rnp.t-sp	_	_	_	_	_	_	_	Hiero=𓆳(𓏏:𓊗)|ID=850581
+1	rnp.t	rnp.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Hiero=𓆳𓏏|ID=94920
+2	sp	sp	NOUN	_	Gender=Masc|Number=Sing	1	compound	_	Hiero=𓊗|ID=132310
+3	3	3	NUM	_	NumType=Card	1	nummod	_	Hiero=𓏥|ID=850814
+4	ḫr	ḫr	ADP	_	Case=Com|StatPrep=Cons	5	case	_	Hiero=(𓐍:𓂋)|ID=119590
+5	ḥm	ḥm	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	Hiero=𓍛|ID=104690
+6	n(.ꞽ)	n	ADJ	_	Case=Gen|Gender=Masc|Nisba=DePrep|Number=Sing	5	amod	_	Hiero=𓈖|ID=79800
+7-8	nsw-bꞽtꞽ	_	_	_	_	_	_	_	Hiero=(𓇓:𓏏)(𓆤:𓏏)|ID=88060
+7	nsw	nsw	NOUN	_	Gender=Masc|Number=Sing	6	obl:nisba	_	Hiero=(𓇓:𓏏)|ID=88040|Title=Yes
+8	bꞽtꞽ	bꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	7	compound	_	Hiero=(𓆤:𓏏)|ID=54240
+9-11	Nbw-kꜣ(.w)-Rꜥw	_	_	_	_	_	_	_	Hiero=𓍹𓇳(𓋞:𓂓)(𓂓:𓂓)𓍺|ID=400160
+9	Nbw	Nbw	PROPN	_	Gender=Masc|NameType=King	7	appos	_	Hiero=𓋞|ID=854316
+10	kꜣ(.w)	kꜣ	NOUN	_	Gender=Masc|Number=Plur	9	flat:name	_	Hiero=𓂓𓂓𓂓|ID=162870
+11	Rꜥw	Rꜥw	PROPN	_	Gender=Masc|NameType=God	9	flat:name	_	Hiero=𓇳|ID=400015
+12	č̣i̯	rč̣i̯	VERB	_	Gender=Masc|Number=Sing|Tense=Pres|VerbClass=Anom|VerbForm=Part|Voice=Pass	9	acl	_	Hiero=𓏙|ID=872594|Trans=Yes
+13	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	12	nsubj:pass	_	Hiero=𓋹|ID=38540
+14	č̣.t	č̣.t	NOUN	_	AdvType=Tim|Gender=Fem|Number=Sing	12	obl:unmarked	_	Hiero=(𓆓:𓏏:𓇿)|Hierocl=𓇿|ID=181401
+
+# sent_id = Louvre_C172_Ameny_Landgráfová_3-4
+# title = Louvre_C172
+# Person = Ameny
+# edition = Landgráfová
+# line = 3
+# king = Amenemhat II
+# date = 12th Dynasty
+# lang = Middle_Egyptian
+# genre = biographical text
+# place = Abydos
+# TLA = IBUBd3n09ttWEkdxg3qF6jFZEVg; IBUBdw1E8nV1HE5QvxQuXvW1tqk
+# text = ꞽmꜣḫ.y ḫtm.w-n(.ꞽ)-šmś Ꞽmn.y č̣ṭ ⸗f ꞽnk ḫrp-kꜣ.t rś ṭp ḥr wč̣.t n ⸗f nb śḫr ḳn ḫrp.t pgꜣ ḥr m-ḥr(.ꞽ)-ꞽb mꞽ.t(ꞽ)w ⸗f
+# annotator = Valentina Anselmi.
+1	ꞽmꜣḫ.y	ꞽmꜣḫ	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Past|VerbClass=4lit|VerbForm=Part|Voice=Pass	6	dislocated:nsubj	_	Hiero=(𓄪:𓐍)𓇋𓇋|ID=25090|Title=Yes|Trans=Yes
+2-4	ḫtm.w-n(.ꞽ)-šmś	_	_	_	_	_	_	_	Hiero=𓋨𓅱(𓈖:𓌞𓋴)|ID=860317|Title=Yes
+2	ḫtm.w	ḫtm.w	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	Hiero=𓋨𓅱|ID=121840
+3	n(.ꞽ)	n	ADJ	_	Case=Gen|Gender=Masc|Nisba=DePrep|Number=Sing	2	amod	_	Hiero=𓈖|ID=79800
+4	šmś	šmś	NOUN	_	Gender=Masc|Number=Sing	2	obl:nisba	_	Hiero=𓌞𓋴|ID=155000
+5	Ꞽmn.y	Ꞽmn.y	PROPN	_	Gender=Masc|NameType=Person	1	appos	_	Hiero=𓇋(𓏠:𓈖)𓇋𓇋|ID=400002
+6	č̣ṭ	č̣ṭ	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=Pred|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓆓:𓂧)|ID=185810|Trans=Yes
+7	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	6	nsubj	_	Hiero=𓆑|ID=10050
+8	ꞽnk	ꞽnk	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Ind|PronType=Prs	9	nsubj	_	Hiero=(𓏌:𓎡)|ID=27940
+9-10	ḫrp-kꜣ.t	_	_	_	_	_	_	_	Hiero=(𓐍𓂋:𓊪:𓂥)(𓂓:𓏏)𓀋𓏤|ID=401031|Title=Yes
+9	ḫrp	ḫrp	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=3lit|VerbForm=Part|Voice=Act	6	ccomp:speech	_	Hiero=(𓐍𓂋:𓊪:𓂥)|Hierocl=𓂥|ID=120150|Title=Yes|Trans=Yes
+10	kꜣ.t	kꜣ.t	NOUN	_	Gender=Fem|Number=Sing	9	nmod:poss	_	Hiero=(𓂓:𓏏)𓀋𓏤|Hierocl=𓀋𓏤|ID=163010
+11	rś	rś	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=2lit|VerbForm=Part|Voice=Act	9	appos	_	Hiero=(𓂋:𓋴𓌘)|Hierocl=𓌘|ID=95940|Trans=No
+12	ṭp	ṭp	NOUN	_	Gender=Masc|Number=Sing	11	compound:a	_	Hiero=𓁶|ID=170860
+13	ḥr	ḥr	ADP	_	StatPrep=Cons	14	case	_	Hiero=(𓁷:𓏤)|Hierocl=𓏤|ID=400092
+14	wč̣.t	wč̣	VERB	_	Gender=Fem|Nominal=Yes|Number=Sing|Tense=Past|VerbClass=2lit|VerbForm=Part|Voice=Pass	11	obl	_	Hiero=𓎗(𓆓:𓏏)𓏛|Hierocl=𓏛|ID=51970|Trans=Yes
+15	n	n	ADP	_	Case=Dat|StatPrep=Pron	16	case	_	Hiero=𓈖|ID=400055
+16	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	14	obl:arg	_	Hiero=𓆑|ID=10050
+17	nb	nb	NOUN	_	Gender=Masc|Number=Sing	11	conj	_	Hiero=𓎟|ID=81650
+18	śḫr	śḫr	NOUN	_	Gender=Masc|Number=Sing	17	nmod:poss	_	Hiero=𓋴(𓐍:𓂋)|ID=142800
+19	ḳn	ḳni̯	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=3aeinf|VerbForm=Part|Voice=Act	11	conj	_	Hiero=(𓈎:𓈖:𓂡)|Hierocl=𓂡|ID=161150|Trans=No
+20	ḫrp.t	ḫrp.t	VERB	_	Gender=Fem|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=3lit|VerbForm=Part|Voice=Pass	19	compound:a	_	Hiero=(𓐍:𓊪𓏏)(𓂋:𓂡)|Hierocl=𓂡|ID=120150|Trans=Yes
+21	pgꜣ	pgꜣ	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=3lit|VerbForm=Part|Voice=Act	11	conj	_	Hiero=Hiero=(𓊪:𓎼)𓄿𓂘|Hierocl=𓂘|ID=62820|Trans=No
+22	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	21	compound:a	_	Hiero=𓁷|ID=107510
+23-25	m-ḥr(.ꞽ)-ꞽb	_	_	_	_	_	_	_	Hiero=𓅓(𓁷𓄣:𓂋)|ID=65190
+23	m	m	ADP	_	Case=Loc|ExtPos=ADP|StatPrep=Cons	26	case	_	Hiero=𓅓|ID=400007
+24	ḥr(.ꞽ)	ḥr	NOUN	_	Gender=Masc|Nisba=DePrep|Number=Sing	23	fixed	_	Hiero=𓁷|ID=108300
+25	ꞽb	ꞽb	NOUN	_	Gender=Masc|Number=Sing	23	fixed	_	Hiero=𓄣|ID=23290|MWE=Yes
+26	mꞽ.t(ꞽ)w	mꞽ.tꞽ	NOUN	_	Gender=Masc|Number=Plur	21	obl	_	Hiero=𓏇(𓏏:𓅱)𓏥|Hierocl=𓏥|ID=67930
+27	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronClass=Suffix|PronType=Prs	26	nmod	_	Hiero=𓆑|ID=10050
+
+# sent_id = Louvre_C172_Ameny_Landgráfová_5-6
+# title = Louvre_C172
+# Person = Ameny
+# edition = Landgráfová
+# line = 5-6
+# king = Amenemhat II
+# date = 12th Dynasty
+# lang = Middle_Egyptian
+# genre = biographical text
+# place = Abydos
+# TLA = IBUBd76NxryxOkN1qT8gMs7fXhE
+# text = rč̣.n wꞽ (ꞽ)m(.ꞽ)-rʾ-kꜣ.t m ḫrp n.tt ꞽw.tt n mnḫ ⸗ꞽ n ꞽḳr ⸗ꞽ ḥr ꞽb ⸗f r ꞽr(.ꞽ)-ꜥ.t nb n.tꞽ ḫr ⸗f
+# annotator = Valentina Anselmi.
+1	rč̣.n	rč̣i̯	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓂋:𓂞:𓈖|ID=872594|Trans=Yes
+2	wꞽ	wꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Dep|PronType=Prs	1	obj	_	Hiero=𓅱𓀀|ID=44000
+3-5	(ꞽ)m(.ꞽ)-rʾ-kꜣ.t	_	_	_	_	_	_	_	Hiero=𓅓𓂋𓂓𓏏𓀋|ID=850375|Title=Yes
+3	(ꞽ)m(.ꞽ)	m	NOUN	_	Gender=Masc|Nisba=DePrep|Number=Sing	1	nsubj	_	Hiero=𓅓|ID=25130|Title=Yes
+4	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	3	nmod:nisba	_	Hiero=𓂋|ID=92560
+5	kꜣ.t	kꜣ.t	NOUN	_	Gender=Fem|Number=Sing	4	nmod:poss	_	Hiero=𓂋|ID=92560
+6	m	m	ADP	_	Case=Equ|StatPrep=Cons	9	case	_	Hiero=𓅓|ID=500292
+7	ḫrp	ḫrp	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=(𓐍:𓂋:𓊪)𓂡)|Hierocl=𓂡|ID=855078
+8	n.tt	n.tꞽt	NOUN	_	Gender=Fem|Number=Sing	7	nmod:poss	_	Hiero=(𓈖:𓏏𓏏)|ID=89760
+9	ꞽw.tt	ꞽw.tꞽt	NOUN	_	Gender=Fem|Number=Sing	8	conj	_	Hiero=(𓂜:𓏏𓏏:𓏛)|ID=550302
+10	n	n	SCONJ	_	_	11	mark	_	Hiero=𓈖|ID=852258
+11	mnḫ	mnḫ	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Pres|VerbClass=3lit|VerbForm=Fin|Voice=Act	1	advcl	_	Hiero=(𓏠:𓈖:𓐍𓍊)|Hierocl=𓍊|ID=71080|Trans=No
+12	⸗ꞽ	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Suffix|PronType=Prs	11	nsubj	_	Hiero=𓀀|ID=10030
+13	n	n	SCONJ	_	_	14	mark	_	Hiero=𓈖|ID=852258
+14	ꞽḳr	ꞽḳr	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Pres|VerbClass=3lit|VerbForm=Fin|Voice=Act	11	conj	_	Hiero=𓇋(𓈎:)𓂋|ID=32240|Trans=No
+15	⸗ꞽ	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Suffix|PronType=Prs	14	nsubj	_	Hiero=𓀀|ID=10030
+16	ḥr	ḥr	ADP	_	Case=Loc|StatPrep=Cons	17	case	_	Hiero=𓁷|ID=400090
+17	ꞽb	ꞽb	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	Hiero=𓄣|ID=23290
+18	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronClass=Suffix|PronType=Prs	17	nmod	_	Hiero=𓆑|ID=10050
+19	r	r	ADP	_	Case=Cmp|StatPrep=Cons	20	case	_	Hiero=𓂋|ID=91904
+20-21	ꞽr(.ꞽ)-ꜥ.t	_	_	_	_	_	_	_	Hiero=𓇋(𓂋:𓂝)(𓏏:𓉐)𓀀|Hierocl=𓉐𓀀|ID=28720|Title=Yes
+20	ꞽr(.ꞽ)	r	NOUN	_	Gender=Masc|Nisba=DePrep|Number=Sing	11	obl	_	Hiero=𓇋𓂋|ID=28510
+21	ꜥ.t	ꜥ.t	NOUN	_	Gender=Fem|Number=Sing	20	nmod:nisba	_	Hiero=𓂝(𓏏:𓉐)|Hierocl=𓉐|ID=34540
+22	nb	nb	ADJ	_	Gender=Masc|Number=Sing	20	amod	_	Hiero=𓎟|ID=81660
+23	n.tꞽ	n.tꞽ	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	25	nsubj	_	Hiero=(𓈖:𓏏𓏭)|ID=89850
+24	ḫr	ḫr	ADP	_	Case=Com|StatPrep=Pron	25	case	_	Hiero=(𓐍:𓂋)|ID=119590
+25	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	20	acl:relcl	_	Hiero=𓆑|ID=10050
+
+# sent_id = Louvre_C172_Ameny_Landgráfová_6-7
+# title = Louvre_C172
+# Person = Ameny
+# edition = Landgráfová
+# line = 6-7
+# king = Amenemhat II
+# date = 12th Dynasty
+# lang = Middle_Egyptian
+# genre = biographical text
+# place = Abydos
+# TLA = IBUBd6zLZT2kukdsngL5X5vseyo
+# text = ꞽw ḫrp.n (⸗ꞽ) kꜣ.t m rʾ(.w)-pr(.w) n.(ꞽ)w nčr(.w) Šmꜥ.w Mḥ.w
+# annotator = Valentina Anselmi.
+1	ꞽw	ꞽw	AUX	_	Aspect=Hab	2	aux	_	Hiero=𓇋𓅱|ID=851515
+2	ḫrp.n	ḫrp	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=Pred|Tense=Past|VerbClass=3lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓐍:𓂋)(𓊪:𓂥:𓈖)|Hierocl=𓂥|ID=120150|Trans=Yes
+3	(⸗ꞽ)	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Suffix|PronType=Prs	2	nsubj	_	Hiero=No|ID=10030_Add
+4	kꜣ.t	kꜣ.t	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	Hiero=(𓂓:𓏏)𓀋|Hierocl=𓀋|ID=163010
+5	m	m	ADP	_	Case=Loc|StatPrep=Cons	6	case	_	Hiero=𓅓|ID=400007
+6-7	rʾ(.w)-pr(.w)	_	_	_	_	_	_	_	Hiero=(𓂋:𓂋:𓂋)(𓉐𓉐:𓉐)|ID=92870
+6	rʾ(.w)	rʾ	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	Hiero=(𓂋:𓂋:𓂋)|ID=92590
+7	pr(.w)	pr	NOUN	_	Gender=Masc|Number=Plur	6	compound	_	Hiero=(𓉐𓉐:𓉐)|ID=60220
+8	n.(ꞽ)w	n(ꞽ)	ADJ	_	Case=Gen|Gender=Masc|Nisba=DePrep|Number=Plur	6	amod	_	Hiero=𓏌𓏤|Hierocl=𓏤|ID=79800
+9	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	8	obl:nisba	_	Hiero=𓊹𓊹𓊹|ID=90260
+10	Šmꜥ.w	Šmꜥ.w	PROPN	_	Gender=Masc|NameType=Place	9	nmod:poss	_	Hiero=𓇗|ID=154760
+11	Mḥ.w	Mḥ.w	PROPN	_	Gender=Masc|NameType=Place	10	conj	_	Hiero=𓇉|ID=73940
+
+# sent_id = Louvre_C172_Ameny_Landgráfová_7
+# title = Louvre_C172
+# Person = Ameny
+# edition = Landgráfová
+# line = 7
+# king = Amenemhat II
+# date = 12th Dynasty
+# lang = Middle_Egyptian
+# genre = biographical text
+# place = Abydos
+# TLA = IBUBd8dGEsUt70QEl454aQmXwLs
+# text = ꞽnk nb ꞽꜣm.t bnr mrw.t
+# annotator = Valentina Anselmi.
+1	ꞽnk	ꞽnk	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Ind|PronType=Prs	2	nsubj	_	Hiero=(𓏌:𓎡)|ID=27940
+2	nb	nb	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓎟|ID=81650
+3	ꞽꜣm.t	ꞽꜣm.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod:poss	_	Hiero=𓆭(𓏏:𓏛)|Hierocl=𓏛|ID=24900
+4	bnr	bnꞽ	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Past|VerbClass=3lit|VerbForm=Part|Voice=Act	2	appos	_	Hiero=(𓃀:𓈖)(𓂋:𓇜)|Hierocl=𓇜|ID=55940|Trans=No
+5	mrw.t	mrw.t	NOUN	_	Gender=Fem|Number=Sing	4	compound:a	_	Hiero=𓌸𓅱𓏏|ID=72650
+
+# sent_id = Louvre_C172_Ameny_Landgráfová_7-10
+# title = Louvre_C172
+# Person = Ameny
+# edition = Landgráfová
+# line = 7-10
+# king = Amenemhat II
+# date = 12th Dynasty
+# lang = Middle_Egyptian
+# genre = biographical text
+# place = Abydos
+# TLA = IBUBdWGkL1tDXUMqgWRG0V9LOOo; IBUBd0BKoTA3z0annUlmh3PLRtI
+# text = ꞽmꜣḫ.y ḫrp-kꜣ.t ḫtm.w-n(.ꞽ)-šmś Ꞽmn.y č̣ṭ ⸗f ꞽ r(m)č(.wt) nb.t ś:wꜣ.t(ꞽ) ⸗śn ḥr mꜥḥꜥ.t tn m ḫṭ<.t> m ḫśf.yt m mr{ꞽ}<r> čn ḥss čn Ḫnt(.ꞽ)-ꞽmn.t(ꞽ)w nb Ꜣbč̣.w č̣ṭ ⸗čn ḫꜣ m (ꞽ)ḫ.t nb(.t) n ꞽmꜣḫ(.y) ḫtm.w-n(.ꞽ)-šmś Ꞽmn.y mꜣꜥ-ḫrw
+# annotator = Valentina Anselmi.
+1	ꞽmꜣḫ.y	ꞽmꜣḫ	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Past|VerbClass=4lit|VerbForm=Part|Voice=Pass	9	dislocated:nsubj	_	Hiero=(𓄪:𓐍)𓇋𓇋|ID=25090|Title=Yes|Trans=Yes
+2-3	ḫrp-kꜣ.t	_	_	_	_	_	_	_	Hiero=(𓐍𓂋:𓊪:𓂥)(𓂓:𓏏)𓀋𓏤|ID=401031|Title=Yes
+2	ḫrp	ḫrp	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=3lit|VerbForm=Part|Voice=Act	1	conj	_	Hiero=(𓐍𓂋:𓊪:𓂥)|Hierocl=𓂥|ID=120150|Title=Yes|Trans=Yes
+3	kꜣ.t	kꜣ.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod:poss	_	Hiero=(𓂓:𓏏)𓀋𓏤|Hierocl=𓀋𓏤|ID=163010
+4-6	ḫtm.w-n(.ꞽ)-šmś	_	_	_	_	_	_	_	Hiero=𓋨𓅱(𓈖:𓌞𓋴)|ID=860317|Title=Yes
+4	ḫtm.w	ḫtm.w	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	Hiero=𓋨𓅱|ID=121840
+5	n(.ꞽ)	n	ADJ	_	Case=Gen|Gender=Masc|Nisba=DePrep|Number=Sing	4	amod	_	Hiero=𓈖|ID=79800
+6	šmś	šmś	NOUN	_	Gender=Masc|Number=Sing	5	obl:nisba	_	Hiero=𓌞𓋴|ID=155000
+7	Ꞽmn.y	Ꞽmn.y	PROPN	_	Gender=Masc|NameType=Person	1	appos	_	Hiero=𓇋(𓏠:𓈖)𓇋𓇋|ID=400002
+8	č̣ṭ	č̣ṭ	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=Pred|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓆓:𓂧)|ID=185810|Trans=Yes
+9	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	8	nsubj	_	Hiero=𓆑|ID=10050
+10	ꞽ	ꞽ	INTJ	_	_	11	discourse	_	Hiero=𓇋𓀞|Hierocl=𓀞|ID=20030
+11	r(m)č(.wt)	rmč.t	NOUN	_	Gender=Fem|Number=Plur	31	vocative	_	Hiero=𓂋𓍿𓀀𓁐𓏥|Hierocl=𓀀𓁐𓏥|ID=94550
+12	nb.t	nb	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	Hiero=(𓎟:𓏏)|ID=81660
+13	ś:wꜣ.t(ꞽ)	wꜣi̯	VERB	_	Gender=Fem|Number=Plur|Tense=Fut|VerbClass=Caus3aeinf|VerbForm=Part	11	acl	_	Hiero=𓋴(𓍯:𓂻)𓏏|Hierocl=𓂻|ID=129740
+14	⸗śn	śn	PRON	_	Gender=Com|Number=Plur|Person=3|PronClass=Suffix|PronType=Prs	13	expl	_	Hiero=𓋴𓈖|ID=851180
+15	ḥr	ḥr	ADP	_	Case=Loc|StatPrep=Cons	16	case	_	Hiero=𓁷|ID=400090
+16	mꜥḥꜥ.t	mꜥḥꜥ.t	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	Hiero=𓅓𓊢(𓏏:𓉐)|Hierocl=𓉐|ID=68920
+17	tn	tn	DET	_	Gender=Fem|Number=Sing|PronType=Dem	16	det	_	Hiero=(𓏏:𓈖)|ID=172360
+18	m	m	ADP	_	StatPrep=Cons	19	case	_	Hiero=𓅓|ID=64369
+19	ḫṭ<.t>	ḫṭi̯	VERB	_	Gender=Masc|VerbClass=3aeinf|VerbForm=Inf	13	obl	_	Hiero=(𓐍𓂧:𓊛)|Hierocl=𓊛|ID=122000|Trans=No
+20	m	m	ADP	_	Case=Loc|StatPrep=Cons	21	case	_	Hiero=𓅓|ID=64369
+21	ḫśf.yt	ḫśfi̯	VERB	_	Gender=Fem|VerbClass=4aeinf|VerbForm=Inf	19	conj	_	Hiero=𓐍𓍚𓇋𓇋(𓏏:𓊝)|Hierocl=𓊝|ID=120960|Trans=No
+22	m	m	SCONJ	_	_	23	mark	_	Hiero=𓅓|ID=64370
+23	mr{ꞽ}<r>	mri̯	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Pres|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	31	advcl	_	Hiero=𓌸{𓇋}{𓆵}<𓂋>|Hierocl={𓆵}|ID=72470
+24	čn	čn	PRON	_	Gender=Com|Number=Plur|Person=2|PronClass=Dep|PronType=Prs	23	obj	_	Hiero=(𓍿:𓈖)|ID=175650
+25	ḥss	ḥsi̯	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Pres|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	23	conj	_	Hiero=𓎛𓎿(𓊃:𓊃)|ID=109620
+26	čn	čn	PRON	_	Gender=Com|Number=Plur|Person=2|PronClass=Dep|PronType=Prs	25	obj	_	Hiero=(𓍿:𓈖)|ID=175650
+27-28	Ḫnt(.ꞽ)-ꞽmn.t(ꞽ)w	_	_	_	_	_	_	_	Hiero=𓏅𓊿𓅂𓀭|ID=119180
+27	Ḫnt(.ꞽ)	ḫnt	NOUN	_	Gender=Masc|NameType=Epith|Nisba=DePrep|Number=Sing	23	nsubj	_	Hiero=𓏅|ID=119050
+28	ꞽmn.t(ꞽ)w	ꞽmn.t	NOUN	_	Gender=Masc|Nisba=DeNom|Number=Plur	27	nmod:nisba	_	Hiero=𓊿𓅂|ID=26220
+29	nb	nb	NOUN	_	Gender=Masc|Number=Sing	27	appos	_	Hiero=𓎟|ID=81650
+30	Ꜣbč̣.w	Ꜣbč̣.w	PROPN	_	NameType=Place	29	nmod:poss	_	Hiero=𓍋𓃀(𓈋:𓊖)|Hierocl=𓊖|ID=103
+31	č̣ṭ	č̣ṭ	VERB	_	Conjug=Suffix|Mood=Sub|SubForm=No|VerbClass=2lit|VerbForm=Fin|Voice=Act	8	ccomp:speech	_	Hiero=(𓆓:𓂧)|ID=185810|Trans=Yes
+32	⸗čn	čn	PRON	_	Gender=Com|Number=Plur|Person=2|PronClass=Suffix|PronType=Prs	31	nsubj	_	Hiero=(𓍿:𓈖)|ID=10130
+33	ḫꜣ	ḫꜣ	NUM	_	Gender=Masc|Number=Sing|NumType=Card	38	nsubj	_	Hiero=𓆼|ID=113110
+34	m	m	ADP	_	Case=Par|StatPrep=Cons	35	case	_	Hiero=𓅓|ID=400082
+35	(ꞽ)ḫ.t	ꞽḫ.t	NOUN	_	Gender=Fem|Number=Sing	33	nmod	_	Hiero=𓐍𓏏|ID=30750
+36	nb(.t)	nb	ADJ	_	Gender=Fem|Number=Sing	35	amod	_	Hiero=𓎟|ID=81660
+37	n	n	ADP	_	Case=Ben|StatPrep=Cons	38	case	_	Hiero=𓈖|ID=400055
+38	ꞽmꜣḫ(.y)	ꞽmꜣḫ	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Past|VerbClass=4lit|VerbForm=Part|Voice=Pass	31	ccomp:speech	_	Hiero=(𓄪:𓐍)|ID=25090|Title=Yes|Trans=Yes
+39-41	ḫtm.w-n(.ꞽ)-šmś	_	_	_	_	_	_	_	Hiero=𓋨𓅱(𓈖:𓌞𓋴)|ID=860317|Title=Yes
+39	ḫtm.w	ḫtm.w	NOUN	_	Gender=Masc|Number=Sing	38	conj	_	Hiero=𓋨𓅱|ID=121840
+40	n(.ꞽ)	n	ADJ	_	Case=Gen|Gender=Masc|Nisba=DePrep|Number=Sing	39	amod	_	Hiero=𓈖|ID=79800
+41	šmś	šmś	NOUN	_	Gender=Masc|Number=Sing	40	obl:nisba	_	Hiero=𓌞𓋴|ID=155000
+42	Ꞽmn.y	Ꞽmn.y	PROPN	_	Gender=Masc|NameType=Person	38	appos	_	Hiero=𓇋(𓏠:𓈖)𓇋𓇋|ID=400002
+43-44	mꜣꜥ-ḫrw	_	_	_	_	_	_	_	Hiero=𓐙𓊤|ID=66730
+43	mꜣꜥ	mꜣꜥ	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=3lit|VerbForm=Part	42	appos	_	Hiero=𓐙|ID=66480
+44	ḫrw	ḫrw	NOUN	_	Gender=Masc|Number=Sing	43	compound:a	_	Hiero=𓊤|ID=120010
+
+# sent_id = Cambridge_E.9.1922_Mentuhotep_Landgráfová_1
+# title = Cambridge_E.9.1922
+# Person = Mentuhotep
+# edition = Landgráfová
+# line = 1
+# king = Amenemhat I; Sesostris I
+# date = 12th Dynasty
+# lang = Middle_Egyptian
+# genre = biographical text
+# place = Abydos
+# TLA = IBUBdz1TJKqxgURJhvrZGKYl3l8
+# text = ꞽ ꜥnḫ.w ṭp.(ꞽ)w-tꜣ ś:wꜣ.t(ꞽ) ⸗śn ḥr ꞽs pn mrr.w ꜥnḫ mśč̣č̣.w ḫp.(y)t č̣ṭ ⸗čn ś:ꜣḫ Wśr(.w)-Ḫnt.ꞽ-ꞽmn.tꞽw Mnč.w-[ḥtp(.w)]
+# annotator = Valentina Anselmi.
+1	ꞽ	ꞽ	INTJ	_	_	2	discourse	_	Hiero=𓇋𓀁|ID=20030
+2	ꜥnḫ.w	ꜥnḫ	NOUN	_	Gender=Masc|Number=Plur	14	vocative	_	Hiero=𓋹𓅱𓀀𓏪|Hierocl=𓀀𓏪|ID=400614
+3-4	ṭp.(ꞽ)w-tꜣ	_	_	_	_	_	_	_	Hiero=(𓁶:𓊪)𓅱𓏪(𓇾:𓈇)|ID=171650
+3	ṭp.(ꞽ)w	ṭp	ADJ	_	Case=Loc|Gender=Masc|Nisba=DePrep|Number=Plur	2	amod	_	Hiero=(𓁶:𓊪)𓅱𓏪|Hierocl=𓏪|ID=171450
+4	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	3	obl:nisba	_	Hiero=(𓇾:𓈇)|Hierocl=𓈇|ID=168860
+5	ś:wꜣ.t(ꞽ)	wꜣi̯	VERB	_	Gender=Masc|Number=Plur|Tense=Fut|VerbClass=Caus3aeinf|VerbForm=Part|Voice=Act	2	acl	_	Hiero=𓋴(𓍯𓏏:𓈐)|Hierocl=𓈐|ID=129740|Trans=No
+6	⸗śn	śn	PRON	_	Gender=Com|Number=Plur|Person=3|PronClass=Suffix|PronType=Prs	5	expl	_	Hiero=𓋴𓈖|ID=851180
+7	ḥr	ḥr	ADP	_	Case=Loc|StatPrep=Cons	8	case	_	Hiero=𓁷|ID=400090
+8	ꞽs	ꞽs	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	Hiero=𓇋𓇩(𓊃:𓉐)|Hierocl=𓉐|ID=31010
+9	pn	pn	DET	_	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	Hiero=(𓊪:𓈖)|ID=59920
+10	mrr.w	mri̯	VERB	_	Gender=Masc|Number=Plur|Tense=Pres|VerbClass=3aeinf|VerbForm=Part|Voice=Act	5	conj	_	Hiero=(𓌸:𓂋:𓂋)𓅱|ID=72470|Noun Agent (Allen,"Middle Egyptian,"3rd Edition, p. 323)|Trans=Yes
+11	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	Hiero=𓋹(𓈖:𓐍)|ID=38540
+12	mśč̣č̣.w	mśč̣i̯	VERB	_	Gender=Masc|Number=Plur|Tense=Pres|VerbClass=4aeinf|VerbForm=Part|Voice=Act	5	conj	_	Hiero=𓄟(𓆓:𓆓)𓅱|ID=76210|Noun Agent|Trans=Yes
+13	ḫp.(y)t	ḫp.yt	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	Hiero=(𓐍𓊪:𓏏:𓂻)|Hierocl=𓂻|ID=858305
+14	č̣ṭ	č̣ṭ	VERB	_	Conjug=Suffix|Mood=Sub|SubForm=No|VerbClass=2lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓆓:𓂧)|ID=185810|Trans=Yes
+15	⸗čn	čn	PRON	_	Gender=Com|Number=Plur|Person=2|PronClass=Suffix|PronType=Prs	14	nsubj	_	Hiero=(𓍿:𓈖)|ID=10130
+16	ś:ꜣḫ	ꜣḫ	VERB	_	Conjug=Suffix|Mood=Sub|VerbClass=Caus2lit|VerbForm=Fin|Voice=Act	14	ccomp:speech	_	Hiero=𓋴𓅜(𓐍:𓏛)|Hierocl=𓏛|ID=127110|Trans=Yes
+17-19	Wśr(.w)-Ḫnt.ꞽ-ꞽmn.tꞽw	_	_	_	_	_	_	_	Hiero=(𓁹:𓊨)𓀭(𓏃:𓏏)𓋀𓅂𓊖|ID=500288
+17	Wśꞽr	Wśꞽr	PROPN	_	Gender=Masc|NameType=God	16	nsubj	_	Hiero=(𓁹:𓊨)𓀭|Hierocl=𓀭|ID=49460
+18	Ḫnt(.ꞽ)	ḫnt	NOUN	_	Gender=Masc|NameType=Epith|Nisba=DePrep|Number=Sing	17	flat:name	_	Hiero=(𓏅:𓏏)|ID=119050
+19	ꞽmn.tꞽw	ꞽmn.t	NOUN	_	Gender=Masc|Nisba=DeNom|Number=Plur	17	flat:name	_	Hiero=𓋀𓅂𓊖|Hierocl=𓊖|ID=26220
+20-21	Mnč.w-[ḥtp(.w)]	_	_	_	_	_	_	_	Hiero=(𓏠:𓈖:𓍿)𓅱[(𓊵:𓏏𓊪)]|ID=400025
+20	Mnč.w	Mnč.w	PROPN	_	Gender=Masc|NameType=God	16	obj	_	Hiero=(𓏠:𓈖:𓍿)𓅱|ID=71660
+21	[ḥtp(.w)]	ḥtp	VERB	_	Aspect=Stat|Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=3lit|VerbForm=Fin	20	flat:name	_	Hiero=[(𓊵:𓏏𓊪)]|ID=111230_Rest|Trans=No
+
+# sent_id = Cambridge_E.9.1922_Mentuhotep_Landgráfová_2-3
+# title = Cambridge_E.9.1922
+# Person = Mentuhotep
+# edition = Landgráfová
+# line = 2-3
+# king = Amenemhat I; Sesostris I
+# date = 12th Dynasty
+# lang = Middle_Egyptian
+# genre = biographical text
+# place = Abydos
+# TLA = IBUBd9LQfLVaXUQOpo2GliMipcw; IBUBd88D9Vkur0fop1vIGaEFFO4; IBUBd5sqwtaPhUD6rNPqtnlr8fY
+# text = ꞽnk gr.t ṭp.ꞽ m č̣ꜣm(.w) ⸗f śḥč̣ n(.ꞽ) ꜥpr(.w) ⸗f gm.w č(ꜣ)s wšṭ-t(w) ⸗f ꞽr ⸗f wšb m-sp r sp ⸗f ḳb šsp tʾ r-tr-⸗f ꞽṭn.n n ⸗f śḫr ⸗f mw.t m-ḫnt ꞽt(ꞽ) ḥr <č̣ṭ> ꞽr gm ⸗k sꜣ ⸗ꞽ nfr ḳṭ śbꜣ.n bꞽ(ꜣ).t ⸗f mꞽ ẖrṭ ḫpr m-ꜥw ꞽt(ꞽ)
+# annotator = Valentina Anselmi.
+1	ꞽnk	ꞽnk	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Ind|PronType=Prs	2	nsubj	_	Hiero=(𓏌:𓎡)𓀀)|Hierocl=𓀀|ID=27940
+2	gr.t	gr.t	PART	_	_	3	advmod	_	Hiero=(𓎼:𓂋:𓏏)|ID=167790
+3	ṭp.ꞽ	ṭp	NOUN	_	Gender=Masc|Nisba=DeNom|Number=Sing	0	root	_	Hiero=𓌐|ID=550180
+4	m	m	ADP	_	Case=Dis|StatPrep=Cons	5	case	_	Hiero=𓅓|ID=400007
+5	č̣ꜣm(.w)	č̣ꜣm	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	Hiero=𓍑𓄿𓅓𓀀𓏥|Hierocl=𓀀𓏥|ID=182160
+6	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronClass=Suffix|PronType=Prs	5	nmod	_	Hiero=𓆑|ID=10050
+7	śḥč̣	śḥč̣	NOUN	_	Gender=Masc|Number=Sing	3	appos	_	Hiero=𓋴𓌉𓀀|Hierocl=𓀀|ID=856130
+8	n(.ꞽ)	n	ADJ	_	Case=Gen|Gender=Masc|Nisba=DePrep|Number=Sing	7	amod	_	Hiero=𓈖|ID=79800
+9	ꜥpr(.w)	ꜥpr	NOUN	_	Gender=Masc|Number=Plur	8	obl:nisba	_	Hiero=(𓂝:𓊪:𓂋)𓐢𓀀𓏥|Hierocl=𓀀𓏥|ID=37100
+10	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronClass=Suffix|PronType=Prs	9	nmod	_	Hiero=𓆑|ID=10050
+11	gm.w	gmi̯	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Past|VerbClass=3aeinf|VerbForm=Part|Voice=Act	7	conj	_	Hiero=𓅠𓅓𓅱|ID=167210|Trans=Yes
+12	č(ꜣ)s	čꜣs	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	Hiero=(𓋭:𓊃:𓏛)|Hierocl=𓏛|ID=176860
+13-14	wšṭ-t(w)	_	_	_	_	_	_	_	Hiero=𓅱(𓄞:𓂧:𓏏)
+13	wšṭ	wšṭ	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=Pred|Tense=Pres|VerbClass=3lit|VerbForm=Fin|Voice=Act	11	advcl	_	Hiero=𓅱(𓄞:𓂧)|ID=50700|Trans=Yes
+14	t(w)	tw	NOUN	_	Gender=Masc|Impersonal=Man|Number=Sing	13	nsubj	_	Hiero=𓏏|ID=170100
+15	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	13	obj	_	Hiero=𓆑|ID=10050
+16	ꞽr	r	ADP	_	StatPrep=Pron	17	case	_	Hiero=𓇋𓂋|ID=91903
+17	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	13	obl	_	Hiero=𓆑|ID=10050
+18	wšb	wšb	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Past|VerbClass=3lit|VerbForm=Part|Voice=Act	7	conj	_	Hiero=𓅱(𓈙:𓃀𓏴)𓀁|Hierocl=𓏴𓀁|ID=50340|Trans=No
+19-20	m-sp	_	_	_	_	_	_	_	Hiero=𓅓(𓊃:𓊪𓊗)|ID=65480
+19	m	m	ADP	_	Case=Tem|ExtPos=ADV|StatPrep=Cons	22	case	_	Hiero=𓅓|ID=64365
+20	sp	sp	NOUN	_	Gender=Masc|Number=Sing	19	fixed	_	Hiero=(𓊃:𓊪𓊗)|Hierocl=𓊗|ID=132310
+21	r	r	ADP	_	StatPrep=Cons	22	case	_	Hiero=𓂋|ID=91903
+22	sp	sp	NOUN	_	Gender=Masc|Number=Sing	18	obl	_	Hiero=(𓊃:𓊪𓊗)|Hierocl=𓊗|ID=132300
+23	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronClass=Suffix|PronType=Prs	22	nmod	_	Hiero=𓆑|ID=10050
+24	ḳb	ḳbb	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Past|VerbClass=2aered|VerbForm=Part|Voice=Act	7	conj	_	Hiero=𓈎𓃀𓏁𓈗|Hierocl=𓈗|ID=160170|Trans=No
+25	šsp	šsp	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbClass=3lit|VerbForm=Part|Voice=Act	24	acl	_	Hiero=(𓊃:𓊪)𓊏|ID=157160|Trans=Yes
+26	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	25	obj	_	Hiero=(𓏤:𓏏)|Hierocl=𓏤ID=168810
+27-29	r-tr-⸗f	_	_	_	_	_	_	_	Hiero=𓂋𓆵𓏏𓆑|ID=No
+27	r	r	ADP	_	Case=Tem|ExtPos=ADV|StatPrep=Cons	25	advmod	_	Hiero=𓂋|ID=400030
+28	tr	tr	NOUN	_	Gender=Masc|Number=Sing	27	fixed	_	Hiero=𓆵𓏏|ID=172700
+29	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronClass=Suffix|PronType=Prs	27	fixed	_	Hiero=𓆑|ID=10050
+30	ꞽṭn.n	ꞽṭn	VERB	_	Conjug=Suffix|Gender=Masc|Mood=Ind|Nominal=Yes|Number=Sing|SubForm=RelForm|Tense=Past|VerbClass=3lit|VerbForm=Fin	7	conj	_	Hiero=𓇋(𓂧:𓈖:𓄔)𓈖|Hierocl=𓄔|ID=34080|Trans=Yes
+31	n	n	ADP	_	Case=Dat|StatPrep=Pron	32	case	_	Hiero=𓈖|ID=400055
+32	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	30	obl:arg	_	Hiero=𓆑|ID=10050
+33	śḫr	śḫr	NOUN	_	Gender=Masc|Number=Sing	30	nsubj	_	Hiero=𓋴(𓐍:𓂋:𓏛)|Hierocl=𓏛|ID=142800
+34	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronClass=Suffix|PronType=Prs	33	nmod	_	Hiero=𓆑|ID=10050
+35	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	30	obj	_	Hiero=𓅐𓏏𓁐|Hierocl=𓁐|ID=69040
+36-37	m-ḫnt	_	_	_	_	_	_	_	Hiero=𓅓(𓏅:𓏏𓉐)|ID=65280
+36	m	m	ADP	_	Case=Loc|ExtPos=ADV|StatPrep=Cons	30	advmod	_	Hiero=𓅓|ID=400007
+37	ḫnt	ḫnt	NOUN	_	Gender=Masc|Number=Sing	36	fixed	_	Hiero=(𓏅:𓏏𓉐)|Hierocl=𓉐|ID=118790
+38	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	35	conj	_	Hiero=𓇋𓏏𓀀|Hierocl=𓀀|ID=32820
+39	ḥr	ḥr	ADP	_	StatPrep=Cons	40	case	_	Hiero=𓁷|ID=107529
+40	<č̣ṭ>	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	30	obl	_	Hiero=No|ID=185810_Emend|Trans=Yes
+41	ꞽr	ꞽri̯	VERB	_	Mood=Imp|Number=Sing|VerbClass=3aeinf|VerbForm=Fin	40	ccomp:speech	_	Hiero=𓁹|ID=851809
+42	gm	gmi̯	VERB	_	Conjug=Suffix|Mood=Sub|SubForm=No|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	41	advcl:purp	_	Hiero=𓅠𓅓|ID=167210|Trans=No
+43	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronClass=Suffix|PronType=Prs	42	nsubj	_	Hiero=𓎡|ID=10110
+44	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	41	vocative	_	Hiero=𓅭|ID=125510
+45	⸗ꞽ	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|Poss=Yes|PronClass=Suffix|PronType=Prs	44	nmod	_	Hiero=𓀀|ID=10030
+46	nfr	nfr	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=3lit|VerbForm=Part|Voice=Act	7	conj	_	Hiero=𓄤|ID=83470|Trans=No
+47	ḳṭ	ḳṭ	NOUN	_	Gender=Masc|Number=Plur	46	compound:a	_	Hiero=𓐪(𓂧:𓏌:𓏛)|Hierocl=𓏛|ID=162430
+48	śbꜣ.n	śbꜣ	VERB	_	Conjug=Suffix|Gender=Masc|Mood=Ind|Nominal=Yes|Number=Sing|SubForm=RelForm|Tense=Past|VerbClass=3lit|VerbForm=Fin	7	conj	_	Hiero=𓇼𓀃𓈖|ID=131210|Trans=No
+49	bꞽ(ꜣ).t	bꞽꜣ.t	NOUN	_	Gender=Fem|Number=Sing	48	nsubj	_	Hiero=𓃀𓇋(𓏏:𓄑)|Hierocl=𓄑|ID=54410
+50	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronClass=Suffix|PronType=Prs	49	nmod	_	Hiero=𓆑|ID=10050
+51	mꞽ	mꞽ	ADP	_	Case=Equ|StatPrep=Cons	53	case	_	Hiero=𓏇𓇋|ID=67820
+52	ẖrṭ	ẖrṭ	NOUN	_	Gender=Masc|Number=Sing	48	obl	_	Hiero=(𓄡:𓂧:𓂋:𓅪)|Hierocl=𓅪|ID=854539
+53	ḫpr	ḫpr	VERB	_	Gender=Masc|Number=Sing|Tense=Pres|VerbClass=3lit|VerbForm=Part|Voice=Act	52	acl	_	Hiero=(𓆣:𓂋)|ID=116230|Trans=No
+54-55	m-ꜥw	_	_	_	_	_	_	_	Hiero=𓅓𓂝|ID=550098
+54	m	m	ADP	_	Case=Ins|ExtPos=ADP|StatPrep=Cons	56	case	_	Hiero=𓅓|ID=64364
+55	ꜥw	ꜥw	NOUN	_	Gender=Masc|Number=Sing	54	fixed	_	Hiero=𓂝|ID=34320
+56	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	53	obl	_	Hiero=𓇋(𓏏:𓆑:𓀀)|Hierocl=𓀀|ID=32820
+
+# sent_id = Cambridge_E.9.1922_Mentuhotep_Landgráfová_4
+# title = Cambridge_E.9.1922
+# Person = Mentuhotep
+# edition = Landgráfová
+# line = 4
+# king = Amenemhat I; Sesostris I
+# date = 12th Dynasty
+# lang = Middle_Egyptian
+# genre = biographical text
+# place = Abydos
+# TLA = IBUBd5sqwtaPhUD6rNPqtnlr8fY; IBUBd8pdNVZjXkVWpmxiz8X1LmE; IBUBd6KrWGFl3EporQfqsVBVsUw
+# text = ꞽw śk (w)ꞽ gr.t wꜣ.k(w) r nmḥ ḫrp.n ⸗ꞽ ꞽḥ(.w) ꞽr.n ⸗ꞽ kꜣ(.w) ś:ḫpr.n ⸗ꞽ śšm ⸗ꞽ m wꜥ.tꞽ ⸗ꞽ ḳṭ.n ⸗ꞽ pr šꜣṭ.n (⸗ꞽ) šꞽ ḥm-nčr Mnč.w-ḥtp(.w)
+# annotator = Valentina Anselmi.
+1	ꞽw	ꞽw	AUX	_	Aspect=Perf	8	aux	_	Hiero=𓇋𓅱|ID=851515
+2	śk	ꞽśk	SCONJ	_	_	5	mark	_	Hiero=𓋴𓎡|ID=31760
+3	(w)ꞽ	wꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Dep|PronType=Prs	5	nsubj	_	Hiero=(𓅱)𓀀|ID=44000
+4	gr.t	gr.t	PART	_	_	5	advmod	_	Hiero=(𓎼:𓂋:𓏏)|ID=167790
+5	wꜣ.k(w)	wꜣi̯	VERB	_	Aspect=Stat|Conjug=AfroAsia|Gender=Com|Mood=Ind|Number=Sing|Person=1|VerbClass=3aeinf|VerbForm=Fin	8	advcl	_	Hiero=𓍯𓈐𓎡𓀀|ID=42560|Trans=No
+6	r	r	ADP	_	StatPrep=Cons	7	case	_	Hiero=𓂋|ID=400084
+7	nmḥ	nmḥ	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	Hiero=(𓈖:𓌰𓅓)𓎛𓀔|Hierocl=𓀔|ID=84370
+8	ḫrp.n	ḫrp	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=Pred|Tense=Past|VerbClass=3lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓐍:𓂋:𓊪:𓂠)𓈖|Hierocl=𓂠|ID=120160|Trans=Yes
+9	⸗ꞽ	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Suffix|PronType=Prs	8	nsubj	_	Hiero=𓀀|ID=10030
+10	ꞽḥ(.w)	ꞽḥ	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	Hiero=𓂸𓃒|Hierocl=𓂸|ID=30410
+11	ꞽr.n	ꞽri̯	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=Pred|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	8	conj	_	Hiero=(𓁹:𓈖)|ID=28550|Trans=Yes
+12	⸗ꞽ	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Suffix|PronType=Prs	11	nsubj	_	Hiero=𓀀|ID=10030
+13	kꜣ(.w)	kꜣ	NOUN	_	Gender=Masc|Number=Plur	11	obj	_	Hiero=𓂸𓃓|Hierocl=𓂸|ID=162930
+14	ś:ḫpr.n	ḫpr	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=Pred|Tense=Past|VerbClass=Caus3lit|VerbForm=Fin|Voice=Act	8	conj	_	Hiero=𓋴(𓆣:𓂋)𓈖|ID=142050|Trans=Yes
+15	⸗ꞽ	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Suffix|PronType=Prs	14	nsubj	_	Hiero=𓀀|ID=10030
+16	śšm	śšm	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	Hiero=𓋴(𓂸:𓏛)|Hierocl=𓏛|ID=31700
+17	⸗ꞽ	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|Poss=Yes|PronClass=Suffix|PronType=Prs	16	nmod	_	Hiero=𓀀|ID=10030
+18	m	m	ADP	_	Case=Par|StatPrep=Cons	19	case	_	Hiero=𓅓|ID=400082
+19	wꜥ.tꞽ	wꜥ.tꞽ	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	Hiero=(𓌡:𓂝:𓏏𓏻)(𓂸:𓃒)|Hierocl=(𓂸:𓃒)|ID=44240
+20	⸗ꞽ	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|Poss=Yes|PronClass=Suffix|PronType=Prs	19	nmod	_	Hiero=𓀀|ID=10030
+21	ḳṭ.n	ḳṭ	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=Pred|Tense=Past|VerbClass=2lit|VerbForm=Fin|Voice=Act	8	conj	_	Hiero=𓐪𓀨𓈖|Hierocl=𓀨|ID=162420|Trans=Yes
+22	⸗ꞽ	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Suffix|PronType=Prs	21	nsubj	_	Hiero=𓀀|ID=10030
+23	pr	pr	NOUN	_	Gender=Masc|Number=Sing	21	obj	_	Hiero=𓉐𓏤|Hierocl=𓏤|ID=60220
+24	šꜣṭ.n	šꜣṭ	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=Pred|Tense=Past|VerbClass=3lit|VerbForm=Fin|Voice=Act	8	conj	_	Hiero=𓆷(𓄿:𓂧)𓈖|ID=152150|Trans=Yes
+25	(⸗ꞽ)	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Suffix|PronType=Prs	24	nsubj	_	Hiero=No|ID=10030_Add
+26	šꞽ	šꞽ	NOUN	_	Gender=Masc|Number=Sing	24	obj	_	Hiero=(𓈙:𓈇)|Hierocl=𓈇|ID=151010
+27-28	ḥm-nčr	_	_	_	_	_	_	_	Hiero=𓊹𓍛|ID=104940
+27	ḥm	ḥm	NOUN	_	Gender=Masc|Number=Sing	8	parataxis	_	Hiero=𓍛|ID=104680|Title=Yes
+28	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	27	nmod:poss	_	Hiero=𓊹|ID=90260
+29-30	Mnč.w-ḥtp(.w)	_	_	_	_	_	_	_	Hiero=(𓏠:𓈖:𓍿)𓅱(𓊵:𓏏𓊪)|ID=400025
+29	Mnč.w	Mnč.w	PROPN	_	Gender=Masc|NameType=Person	27	appos	_	Hiero=(𓏠:𓈖:𓍿)𓅱|ID=71660
+30	ḥtp(.w)	ḥtp	VERB	_	Aspect=Stat|Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbClass=3lit|VerbForm=Fin	29	flat:name	_	Hiero=(𓊵:𓏏𓊪)|ID=111260|Trans=No
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_1_(1)
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 1
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBd0Lx3sjaXUd2qhHrCuEcYdg
+# text = ḫpr wꜥ ssw n pꜣ hꜣ (n) pr-ꜥꜣ ꜥnḫ-wč̣ꜣ-snb Ꞽꜥḥ-ms ꜥnḫ-wč̣ꜣ-snb
+# annotator = Johannes N. H. Schmitt.
+1	ḫpr	ḫpr	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=No|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓆣:𓂋)𓏲|Hist=ḫpr|ID=d4467|Trans=No|VerbClass=3lit
+2	wꜥ	wꜥ	DET	_	Gender=Masc|Number=Sing|PronType=Art	3	det	_	Definite=Ind|Hiero=(𓌡:𓂝𓏤)3|Hierocl=𓏤|ID=d1256
+3	ssw	ssw	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	Hiero=𓋴𓋴𓇳𓏤|Hierocl=𓇳𓏤|ID=d5586
+4	n	n	ADP	_	Case=Tem|StatPrep=Cons	6	case	_	Hiero=𓈖|ID=d2871
+5	pꜣ	pꜣ	DET	_	Gender=Masc|Number=Sing|PronType=Art	6	det	_	Definite=Def|Hiero=𓅯𓄿|ID=d1839
+6	hꜣ	hꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓉔1𓄿1𓀁|Hierocl=𓀁|ID=d3723
+7	(n)	n	ADP	_	Case=Gen|StatPrep=Cons	8	case	_	Hiero=No|ID=d2869_Add
+8-9	pr-ꜥꜣ	_	_	_	_	_	_	_	Hiero=𓍹(𓉐:𓉻)𓅆|Hierocl=𓅆|Hist=pr-ꜥꜣ|HistID=60430|ID=d2002
+8	pr	pr	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	Hiero=𓉐|Hist=pr|HistID=60220|ID=d1985|Title=Yes
+9	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	Hiero=𓉻|ID=d825
+10-12	ꜥnḫ-wč̣ꜣ-snb	_	_	_	_	_	_	_	Hiero=𓋹𓍑𓋴𓏏2|Hierogr=𓍹(𓉐:𓉻)𓅆𓋹𓍑𓋴𓏏2|ID=dm700
+10	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	Hiero=𓋹|Hist=ꜥnḫ|HistID=38540|ID=dm763
+11	wč̣ꜣ	wč̣ꜣ	NOUN	_	Gender=Masc|Number=Sing	10	compound	_	Hiero=𓍑|Hist=wč̣ꜣ|HistID=52100|ID=dm7704
+12	snb	snb	NOUN	_	Gender=Masc|Number=Sing	10	compound	_	Hiero=𓋴𓏏2|Hist=śnb|HistID=136950|ID=d5348
+13-14	Ꞽꜥḥ-ms	_	_	_	_	_	_	_	Hiero=𓍹𔎷𓅆𓀔𓅆|Hierocl=𓅆𓅆|ID=dm62
+13	Ꞽꜥḥ	Ꞽꜥḥ	PROPN	_	Gender=Masc|NameType=King	8	appos	_	Hiero=𔎷𓅆|ID=dm1509
+14	ms	ms	VERB	_	Aspect=Stat|Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	flat:name	_	Hiero=𓀔|Hist=mśi̯|ID=d2672|Trans=Yes|VerbClass=3aeinf
+15-17	ꜥnḫ-wč̣ꜣ-snb	_	_	_	_	_	_	_	Hiero=𓋹𓍑𓋴𓏏2|Hierogr=𓍹(𓉐:𓉻)𓅆𓋹𓍑𓋴𓏏2|ID=dm700
+15	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	Hiero=𓋹|Hist=ꜥnḫ|HistID=38540|ID=dm763
+16	wč̣ꜣ	wč̣ꜣ	NOUN	_	Gender=Masc|Number=Sing	15	compound	_	Hiero=𓍑|Hist=wč̣ꜣ|HistID=52100|ID=dm7704
+17	snb	snb	NOUN	_	Gender=Masc|Number=Sing	15	compound	_	Hiero=𓋴𓏏2|Hist=śnb|HistID=136950|ID=d5348
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_1_(2)
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 1
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBd0Lx3sjaXUd2qhHrCuEcYdg; IBUBd0G73Yq5ikRMvIQNBYcGznM
+# text = č̣ṭ pr-ꜥꜣ ꜥnḫ-wč̣ꜣ-snb (n) nꜣy.f rmč.w-ꜥy.w tw.ꞽ mr swr ḳlby (n) Km(.t)
+# annotator = Johannes N. H. Schmitt.
+1	č̣ṭ	č̣ṭ	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=No|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓆓:𓂧)|ID=d7853|Trans=Yes|VerbClass=2lit
+2-3	pr-ꜥꜣ	_	_	_	_	_	_	_	Hiero=𓍹(𓉐:𓉻)𓅆|Hierocl=𓅆|Hist=pr-ꜥꜣ|HistID=60430|ID=d2002
+2	pr	pr	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	Hiero=𓉐|Hist=pr|HistID=60220|ID=d1985|Title=Yes
+3	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	Hiero=𓉻|ID=d825
+4-6	ꜥnḫ-wč̣ꜣ-snb	_	_	_	_	_	_	_	Hiero=𓋹𓍑𓋴𓏏2|Hierogr=𓍹(𓉐:𓉻)𓅆𓋹𓍑𓋴𓏏2|ID=dm700
+4	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	Hiero=𓋹|Hist=ꜥnḫ|HistID=38540|ID=dm763
+5	wč̣ꜣ	wč̣ꜣ	NOUN	_	Gender=Masc|Number=Sing	4	compound	_	Hiero=𓍑|Hist=wč̣ꜣ|HistID=52100|ID=dm7704
+6	snb	snb	NOUN	_	Gender=Masc|Number=Sing	4	compound	_	Hiero=𓋴𓏏2|Hist=śnb|HistID=136950|ID=d5348
+7	(n)	n	ADP	_	Case=Dat|StatPrep=Cons	9	case	_	Hiero=No|ID=d2870_Add
+8	nꜣy.f	nꜣy.f	DET	_	Gender=Com|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	det	_	Gender[psor]=Masc|Hiero=(𓈖:𓄿𓇋𓇋𓆑)4|ID=No|Number[psor]=Sing
+9-10	rmč.w-ꜥy.w	_	_	_	_	_	_	_	Hiero=(𓂋:𓍿)𓀀𓏪𓏪(𓉻:𓂝𓏛)𓇋𓇋𓏲𓀗𓏪|Hierocl=𓀀𓏪𓏪𓏛𓀗𓏪|ID=d3500
+9	rmč.w	rmč	NOUN	_	Gender=Masc|Number=Plur	1	obl:arg	_	Hiero=(𓂋:𓍿)𓀀𓏪𓏪|Hierocl=𓀀𓏪𓏪|ID=d3491
+10	ꜥy.w	ꜥꜣ	ADJ	_	Gender=Masc|Number=Plur	9	compound	_	Hiero=(𓉻:𓂝𓏛)𓇋𓇋𓏲𓀗𓏪|Hierocl=𓏛𓀗𓏪|ID=d825
+11	tw.ꞽ	tw.ꞽ	PRON	_	Gender=Masc|Number=Sing|Person=1|PronClass=Procl|PronType=Prs	12	nsubj	_	Hiero=(𓏲:𓏏)𓏤𓇋𓇋𓏲|ID=No
+12	mr	mr	VERB	_	Gender=Masc|VerbForm=Inf	1	ccomp:speech	_	Hiero=𓌻𓀁|Hierocl=𓀁|Hist=mri̯|ID=d2496|StatInf=Cons|Trans=Yes|VerbClass=3aeinf
+13	swr	swr	VERB	_	Gender=Masc|VerbForm=Inf	12	xcomp	_	Hiero=𓋴𓇋1(𓅨:𓂋𓏰)𓏌|Hierocl=𓏌|Hist=swr|ID=d5132|StatInf=Cons|Trans=Yes|VerbClass=3lit
+14	ḳlby	ḳlby	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	Hiero=𓈎𓃭𓏤𓅡𓏤𓇋𓇋𓏲𓏌|Hierocl=𓏌|ID=d6424
+15	(n)	n	ADP	_	Case=Gen|StatPrep=Cons	16	case	_	Hiero=No|ID=d2869_Add
+16	Km(.t)	Km(.t)	PROPN	_	Gender=Fem|NameType=Place	14	nmod	_	Hiero=𓆎@2𓅓1𓏲(𓏭:𓏛)|Hierocl=(𓏭:𓏛)|Hist=Km.t|ID=d6581
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_2_(1)
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 2
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBd3H5vkmTPEu6ncguYw8nUGs; IBUBd3WmXbA4CkCZh2W5lPIzj7k
+# text = č̣ṭ ⸗w pꜣy.n nb ꜥꜣ nꜣ:nḫṱ swr ḳlby (n) Km(.t)
+# annotator = Johannes N. H. Schmitt.
+1	č̣ṭ	č̣ṭ	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=No|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓆓:𓂧)|ID=d7853|Trans=Yes|VerbClass=2lit
+2	⸗w	w	PRON	_	Gender=Com|Number=Plur|Person=3|PronClass=Suffix|PronType=Prs	1	nsubj	_	Hiero=𓏪|ID=d1172
+3	pꜣy.n	pꜣy.n	DET	_	Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	Gender[psor]=Com|Hiero=𓅯𓄿𓇋𓇋(𓈖:𓏥:°)|ID=No|Number[psor]=Plur
+4	nb	nb	NOUN	_	Gender=Masc|Number=Sing	6	vocative	_	Hiero=(𓎟:𓏏)1|ID=d3104
+5	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	Hiero=(𓉻':(𓉻:𓂝𓏛))|Hierocl=𓏛|ID=d825
+6	nꜣ:nḫṱ	nḫṱ	VERB	_	Conjug=Suffix|Mood=Ind|Prefix=Na|SubForm=No|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp:speech	_	Hiero=(𓈖:𓄿)°(𓏴:𓂡)𓍘1|Hierocl=(𓏴:𓂡)|Hist=nḫt|ID=d3252|Trans=No|VerbClass=3lit
+7	swr	swr	VERB	_	Gender=Masc|VerbForm=Inf	6	nsubj	_	Hiero=𓋴𓇋1(𓅨:𓂋𓏰)𓏌|Hierocl=𓏌|ID=d5132|StatInf=Cons|Trans=Yes
+8	ḳlby	ḳlby	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	Hiero=𓈎𓃭𓏤𓅡𓏤𓇋𓇋𓏲𓏌|Hierocl=𓏌|ID=d6424
+9	(n)	n	ADP	_	Case=Gen|StatPrep=Cons	10	case	_	Hiero=No|ID=d2869_Add
+10	Km(.t)	Km(.t)	PROPN	_	Gender=Fem|NameType=Place	8	nmod	_	Hiero=𓆎@2𓅓1𓏲(𓏭:𓏛)|Hierocl=(𓏭:𓏛)|Hist=Km.t|ID=d6581
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_2_(2)
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 2
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBd4fITc3L50dHt6p8PqgxlKk; IBUBd0qIZWn8S032lEAiDvn3NgE
+# text = č̣ṭ ⸗f n ⸗w m-ꞽr ḫsf tꜣ ntꞽ ꞽw ⸗y č̣ṭ ⸗s
+# annotator = Johannes N. H. Schmitt.
+1	č̣ṭ	č̣ṭ	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=No|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓆓:𓂧)|ID=d7853|Trans=Yes|VerbClass=2lit
+2	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	1	nsubj	_	Hiero=𓆑|ID=d2193
+3	n	n	ADP	_	Case=Dat|StatPrep=Pron	4	case	_	Hiero=(𓈖2:𓈖)|ID=d2870
+4	⸗w	w	PRON	_	Gender=Com|Number=Plur|Person=3|PronClass=Suffix|PronType=Prs	1	obl:arg	_	Hiero=𓏲𓏥|Hierocl=𓏥|ID=d1172
+5-6	m-ꞽr	_	_	_	_	_	_	_	Hiero=𓅓𓁹|ID=d2233
+5	m	m	AUX	_	ExtPos=AUX|Mood=Imp|Number=Sing|Polarity=Neg|VerbForm=Fin|VerbType=Aux	7	aux	_	Hiero=𓅓|ID=864698|Hist=ꞽmi̯|HistID=64410|ID=dNoVerbClass=Def|Trans=No
+6	ꞽr	ꞽr	VERB	_	VerbForm=Conv	5	fixed	_	Hiero=𓁹|ID=d592|VerbClass=3aeinf
+7	ḫsf	ḫsf	VERB	_	Gender=Masc|VerbForm=Inf	1	ccomp:speech	_	Hiero=(𓐍:𓊃4)(𓆑:𓏭)𓀐|Hierocl=𓀐|Hist=ḫśf|ID=d4603|StatInf=Cons|Trans=Yes|VerbClass=3lit
+8	tꜣ	tꜣ	DET	_	Gender=Fem|Nominal=Yes|Number=Sing|PronType=Art	7	obj	_	Definite=Def|Hiero=(𓏏:𓄿)|ID=d6978
+9	ntꞽ	ntꞽ	PRON	_	PronType=Rel	12	expl:rel	_	Hiero=(𓈖:𓏏𓏭1)|ID=d3301
+10	ꞽw	ꞽw	AUX	_	Tense=Fut	12	aux	_	Hiero=𓇋𓏲1|ID=dm18
+11	⸗y	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Suffix|PronType=Prs	12	nsubj	_	Hiero=𓇋𓇋𓏲|ID=d300
+12	č̣ṭ	č̣ṭ	VERB	_	Gender=Masc|VerbForm=Inf	8	acl:relcl	_	Hiero=(𓆓:𓂧)|ID=d7853|StatInf=Pron|Trans=Yes|VerbClass=2lit
+13	⸗s	s	PRON	_	Gender=Fem|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	12	obj	_	Hiero=𓋴𓏏|ID=d4934
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_2-3
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 2-3
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBd9Tcqd5xckZaqVk0Qfkkk3Q; IBUBd0lR0ji6n0IQgtLJlKCewC4
+# text = č̣ṭ ⸗w pꜣy.n nb ꜥꜣ tꜣ mr.t (n) pr-ꜥꜣ ꜥnḫ-wč̣ꜣ-snb my ꞽr ⸗f st
+# annotator = Johannes N. H. Schmitt.
+1	č̣ṭ	č̣ṭ	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=No|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓆓:𓂧)|ID=d7853|Trans=Yes|VerbClass=2lit
+2	⸗w	w	PRON	_	Gender=Com|Number=Plur|Person=3|PronClass=Suffix|PronType=Prs	1	nsubj	_	Hiero=𓏪1|ID=d1172
+3	pꜣy.n	pꜣy.n	DET	_	Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	Gender[psor]=Com|Hiero=𓅯𓄿𓇋𓇋(𓈖:𓏥)|Hierocl=𓏥|ID=No|Number[psor]=Plur
+4	nb	nb	NOUN	_	Gender=Masc|Number=Sing	14	vocative	_	Hiero=(𓎟:𓏏)1|ID=d3104
+5	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	Hiero=(𓉻':(𓉻:𓂝𓏛))|Hierocl=𓏛|ID=d825
+6	tꜣ	tꜣ	DET	_	Gender=Fem|Number=Sing|PronType=Art	7	det	_	Definite=Def|Hiero=(𓏏:𓄿)|ID=d6978
+7	mr.t	mr.t	NOUN	_	Gender=Fem|Number=Sing	15	dislocated:obj	_	Hiero=𓌻(𓏭:𓏛)1𓀁𓏏|Hierocl=(𓏭:𓏛)1𓀁|ID=d2533
+8	(n)	n	ADP	_	Case=Gen|StatPrep=Cons	9	case	_	Hiero=No|ID=d2869_Add
+9-10	pr-ꜥꜣ	_	_	_	_	_	_	_	Hiero=𓍹(𓉐:𓉻)𓅆|Hierocl=𓅆|Hist=pr-ꜥꜣ|HistID=60430|ID=d2002
+9	pr	pr	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	Hiero=𓉐|Hist=pr|HistID=60220|ID=d1985|Title=Yes
+10	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	Hiero=𓉻|ID=d825
+11-13	ꜥnḫ-wč̣ꜣ-snb	_	_	_	_	_	_	_	Hiero=𓋹𓍑𓋴𓏏2|Hierogr=𓍹(𓉐:𓉻)𓅆𓋹𓍑𓋴𓏏2|ID=dm700
+11	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	Hiero=𓋹|Hist=ꜥnḫ|HistID=38540|ID=dm763
+12	wč̣ꜣ	wč̣ꜣ	NOUN	_	Gender=Masc|Number=Sing	11	compound	_	Hiero=𓍑|Hist=wč̣ꜣ|HistID=52100|ID=dm7704
+13	snb	snb	NOUN	_	Gender=Masc|Number=Sing	11	compound	_	Hiero=𓋴𓏏2|Hist=śnb|HistID=136950|ID=d5348
+14	my	č̣i̯	VERB	_	Mood=Imp|Number=Sing|SubForm=No|VerbForm=Fin|Voice=Act	1	ccomp:speech	_	Hiero=𓅓1𓇋𓇋𓏲|Hist=rč̣i̯|ID=d2324|Trans=No|VerbClass=Anom
+15	ꞽr	ꞽr	VERB	_	Conjug=Suffix|Mood=Sub|SubForm=No|VerbForm=Fin|Voice=Act	14	advcl:purp	_	Hiero=(𓁹:𓂋𓏭)|ID=d592|Trans=Yes|VerbClass=3aeinf
+16	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	15	nsubj	_	Hiero=𓆑|ID=d2193
+17	st	s	PRON	_	Gender=Com|Number=Sing|Person=3|PronClass=Dep|PronType=Prs	15	obj	_	Hiero=𓋴𓏏𓏏|ID=d4936
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_3_(1)
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 3
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBd467Q5aufUCEiPMLsJfQIL8; IBUBdWuISQsGVUKprZvbyzZlcHE
+# text = č̣ṭ pr-ꜥꜣ ꜥnḫ-wč̣ꜣ-snb my fy <⸗w> r-ḥr pꜣ šy
+# annotator = Johannes N. H. Schmitt.
+1	č̣ṭ	č̣ṭ	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=No|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓆓:𓂧)|ID=d7853|Trans=Yes|VerbClass=2lit
+2-3	pr-ꜥꜣ	_	_	_	_	_	_	_	Hiero=𓍹(𓉐:𓉻)𓅆|Hierocl=𓅆|Hist=pr-ꜥꜣ|HistID=60430|ID=d2002
+2	pr	pr	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	Hiero=𓉐|Hist=pr|HistID=60220|ID=d1985|Title=Yes
+3	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	Hiero=𓉻|ID=d825
+4-6	ꜥnḫ-wč̣ꜣ-snb	_	_	_	_	_	_	_	Hiero=𓋹𓍑𓋴𓏏2|Hierogr=𓍹(𓉐:𓉻)𓅆𓋹𓍑𓋴𓏏2|ID=dm700
+4	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	Hiero=𓋹|Hist=ꜥnḫ|HistID=38540|ID=dm763
+5	wč̣ꜣ	wč̣ꜣ	NOUN	_	Gender=Masc|Number=Sing	4	compound	_	Hiero=𓍑|Hist=wč̣ꜣ|HistID=52100|ID=dm7704
+6	snb	snb	NOUN	_	Gender=Masc|Number=Sing	4	compound	_	Hiero=𓋴𓏏2|Hist=śnb|HistID=136950|ID=d5348
+7	my	č̣i̯	VERB	_	Mood=Imp|Number=Sing|SubForm=No|VerbForm=Fin|Voice=Act	1	ccomp:speech	_	Hiero=𓅓1𓇋𓇋𓏲|Hist=rč̣i̯|ID=d2324|Trans=No|VerbClass=Anom
+8	fy	fy	VERB	_	Conjug=Suffix|Mood=Sub|SubForm=No|VerbForm=Fin|Voice=Act	7	advcl:purp	_	Hiero=(𓆑:𓏭)𓇋𓇋𓏲(𓀋:°)𓏤|Hierocl=𓀋𓏤|ID=d2197|Trans=Yes
+9	<⸗w>	w	PRON	_	Gender=Com|Number=Plur|Person=3|PronClass=Suffix|PronType=Prs	8	nsubj	_	Hiero=No|ID=d1172_Emend
+10-11	r-ḥr	_	_	_	_	_	_	_	Hiero=𓂋1𓁷𓏤(𓄹:𓏭)|Hierocl=𓏤(𓄹:𓏭)|ID=d3381
+10	r	r	ADP	_	Case=All|ExtPos=ADP|StatPrep=Cons	13	case	_	Hiero=𓂋1|ID=d3338
+11	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	10	fixed	_	Hiero=𓁷𓏤(𓄹:𓏭)|Hierocl=𓏤(𓄹:𓏭)|ID=d4155
+12	pꜣ	pꜣ	DET	_	Gender=Masc|Number=Sing|PronType=Art	13	det	_	Definite=Def|Hiero=𓅯𓄿|ID=d1839
+13	šy	šy	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	Hiero=(𓈙:𓏤)𓇋𓇋𓏲𓈗(𓈘:𓈇)|Hierocl=𓏤𓈗(𓈘:𓈇)|ID=d5813
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_3_(2)
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 3
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBdyZs7lbh3UFqpsvRHBVasps
+# text = ꞽr ⸗w r-ẖ(.t) tꜣ{ꞽ} <ꞽ:>ḥn pr-ꜥꜣ ꜥnḫ-wč̣ꜣ-snb
+# annotator = Johannes N. H. Schmitt.
+1	ꞽr	ꞽr	VERB	_	Conjug=Suffix|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓁹:𓂋𓏭)|ID=d592|Trans=No|VerbClass=3aeinf
+2	⸗w	w	PRON	_	Gender=Com|Number=Plur|Person=3|PronClass=Suffix|PronType=Prs	1	nsubj	_	Hiero=𓏪3|ID=d1172
+3-4	r-ẖ(.t)	_	_	_	_	_	_	_	Hiero=𓂋1(𓄡:𓏏𓏤)|ID=d3390
+3	r	r	ADP	_	Case=Ess|ExtPos=ADP|StatPrep=Cons	5	case	_	Hiero=𓂋1|ID=d3338
+4	ẖ(.t)	ẖ.t	NOUN	_	Gender=Fem|Number=Sing	3	fixed	_	Hiero=(𓄡:𓏏𓏤)|Hierocl=𓏤|ID=d4686
+5	tꜣ{ꞽ}	tꜣ	PRON	_	Gender=Fem|Number=Sing|PronType=Art	1	obl	_	Hiero=(𓏏:𓄿){𓏭}|ID=d6978
+6	<ꞽ:>ḥn	ḥn	VERB	_	Conjug=Suffix|Gender=Fem|Mood=Ind|Number=Sing|Prefix=Yodh|SubForm=RelForm|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	Hiero=𓎨|ID=d4102|Trans=Yes|VerbClass=2lit
+7-8	pr-ꜥꜣ	_	_	_	_	_	_	_	Hiero=𓍹(𓉐:𓉻)𓅆|Hierocl=𓅆|Hist=pr-ꜥꜣ|HistID=60430|ID=d2002
+7	pr	pr	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	Hiero=𓉐|Hist=pr|HistID=60220|ID=d1985|Title=Yes
+8	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	Hiero=𓉻|ID=d825
+9-11	ꜥnḫ-wč̣ꜣ-snb	_	_	_	_	_	_	_	Hiero=𓋹𓍑𓋴𓏏2|Hierogr=𓍹(𓉐:𓉻)𓅆𓋹𓍑𓋴𓏏2|ID=dm700
+9	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	Hiero=𓋹|Hist=ꜥnḫ|HistID=38540|ID=dm763
+10	wč̣ꜣ	wč̣ꜣ	NOUN	_	Gender=Masc|Number=Sing	9	compound	_	Hiero=𓍑|Hist=wč̣ꜣ|HistID=52100|ID=dm7704
+11	snb	snb	NOUN	_	Gender=Masc|Number=Sing	9	compound	_	Hiero=𓋴𓏏2|Hist=śnb|HistID=136950|ID=d5348
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_3-4
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 3-4
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBd4QcacthoUHjk130FB5eDMM
+# text = wꜥb s pr-ꜥꜣ ꜥnḫ-wč̣ꜣ-snb ꞽrm nꜣy.f sḥm.w(t) r mn ꞽrp (n) pꜣ tꜣ r-wbꜣ ⸗w m-sꜣ ḳlby (n) Km(.t)
+# annotator = Johannes N. H. Schmitt.
+1	wꜥb	wꜥb	VERB	_	Conjug=Suffix|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓃂(𓈘:𓈇)|Hierocl=(𓈘:𓈇)|ID=d1274|Trans=Yes
+2	s	s	PRON	_	Gender=Com|Number=Sing|Person=3|PronClass=Dep|PronType=Prs|Reflex=Yes	1	obj	_	Hiero=𓋴𓏏@|ID=d4936
+3-4	pr-ꜥꜣ	_	_	_	_	_	_	_	Hiero=𓍹(𓉐:𓉻)𓅆𓋹𓍑𓋴𓏏2|Hierocl=𓅆𓋹𓍑𓋴𓏏2|Hist=pr-ꜥꜣ|HistID=60430|ID=d2002
+3	pr	pr	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	Hiero=𓉐|Hist=pr|HistID=60220|ID=d1985|Title=Yes
+4	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	Hiero=𓉻|ID=d825
+5-7	ꜥnḫ-wč̣ꜣ-snb	_	_	_	_	_	_	_	Hiero=𓋹𓍑𓋴𓏏2|Hierogr=𓍹(𓉐:𓉻)𓅆𓋹𓍑𓋴𓏏2|ID=dm700
+5	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	Hiero=𓋹|Hist=ꜥnḫ|HistID=38540|ID=dm763
+6	wč̣ꜣ	wč̣ꜣ	NOUN	_	Gender=Masc|Number=Sing	4	compound	_	Hiero=𓍑|Hist=wč̣ꜣ|HistID=52100|ID=dm7704
+7	snb	snb	NOUN	_	Gender=Masc|Number=Sing	4	compound	_	Hiero=𓋴𓏏2|Hist=śnb|HistID=136950|ID=d5348
+8	ꞽrm	ꞽrm	ADP	_	Case=Com|StatPrep=Cons	10	case	_	Hiero=𓇋𓀁𓏤(𓅓:𓂝)𓏛|Hierocl=𓏛|ID=d646
+9	nꜣy.f	nꜣy.f	DET	_	Gender=Com|Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	det	_	Gender[psor]=Masc|Hiero=(𓈖:𓄿)(𓈖:𓄿)𓇋𓇋𓆑4|ID=No|Number[psor]=Sing
+10	sḥm.w(t)	sḥm.t	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	Hiero=(𓊃:𓈞)𓁐2𓁐9𓏪1|Hierocl=𓁐2𓁐9𓏪1|ID=d5458
+11	r	ꞽw	SCONJ	_	_	19	mark	_	Hiero=𓂋1|ID=dm15
+12	mn	mn	PART	_	PartType=Neg	19	advmod:neg	_	Hiero=𓅓1(𓈖:𓏥)(𓂜1:𓅪)|Hierocl=𓏥(𓂜1:𓅪)|ID=d2418
+13	ꞽrp	ꞽrp	NOUN	_	Gender=Masc|Number=Sing	19	nsubj	_	Hiero=𓇋1(𓂋:𓊪:°)|ID=d640
+14	(n)	n	ADP	_	Case=Gen|StatPrep=Cons	16	case	_	Hiero=No|ID=d2869_Add
+15	pꜣ	pꜣ	DET	_	Gender=Masc|Number=Sing|PronType=Art	16	det	_	Definite=Def|Hiero=𓅯𓄿|ID=d1839
+16	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	Hiero=(𓇾:𓏤)@|Hierocl=𓏤|ID=d6979
+17-18	r-wbꜣ	_	_	_	_	_	_	_	Hiero=𓂋1𓅱𓃀4𓏲4𓁻2|Hierocl=𓁻2|ID=d3367
+17	r	r	ADP	_	Case=Loc|ExtPos=ADP|StatPrep=Pron	19	case	_	Hiero=𓂋1|ID=d3338
+18	wbꜣ	wbꜣ	ADP	_	_	17	fixed	_	Hiero=𓅱𓃀4𓏲4𓁻2|Hierocl=𓁻2|ID=d1305
+19	⸗w	w	PRON	_	Gender=Com|Number=Plur|Person=3|PronClass=Suffix|PronType=Prs	1	advcl	_	Hiero=𓏪|ID=d1172
+20-21	m-sꜣ	_	_	_	_	_	_	_	Hiero=𓅓1𓐠𓏤(𓏰:𓏛)1|Hierocl=𓏤(𓏰:𓏛)1|ID=d2250
+20	m	m	ADP	_	ExtPos=ADP|StatPrep=Cons	22	case	_	Hiero=𓅓1|ID=d2221
+21	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	20	fixed	_	Hiero=𓐠𓏤(𓏰:𓏛)1|ID=dm332
+22	ḳlby	ḳlby	NOUN	_	Gender=Masc|Number=Sing	19	obl	_	Hiero=𓈎𓃭𓏤𓅡𓏤𓇋𓇋𓏲𓏌|Hierocl=𓏌|ID=d6424
+23	(n)	n	ADP	_	Case=Gen|StatPrep=Cons	24	case	_	Hiero=No|ID=d2869_Add
+24	Km(.t)	Km(.t)	PROPN	_	Gender=Fem|NameType=Place	22	nmod	_	Hiero=𓆎@2𓅓1𓏲|Hierocl=(𓏭:𓏛)|ID=d6581
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_4
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 4
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBdz16VAAB9ktnm6ZpIGVQQ9s
+# text = ꜥn ḥr (n) pr-ꜥꜣ ꜥnḫ-wč̣ꜣ-snb ꞽrm nꜣy.f sḥm.w(t)
+# annotator = Johannes N. H. Schmitt.
+1	ꜥn	ꜥn	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=No|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓂝:𓈖)𓏌𓏲1(𓁻:°)|Hierocl=𓁻|Hist=ꜥni̯|ID=dm1348|Trans=No|VerbClass=3aeinf
+2	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	Hiero=𓁷𓏤(𓄹:𓏭)|Hierocl=𓏤(𓄹:𓏭)|ID=d4155
+3	(n)	n	ADP	_	Case=Gen|StatPrep=Cons	4	case	_	Hiero=No|ID=d2869_Add
+4-5	pr-ꜥꜣ	_	_	_	_	_	_	_	Hiero=𓍹(𓉐:𓉻)𓅆|Hierocl=𓅆|Hist=pr-ꜥꜣ|HistID=60430|ID=d2002
+4	pr	pr	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	Hiero=𓉐|Hist=pr|HistID=60220|ID=d1985|Title=Yes
+5	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	Hiero=𓉻|ID=d825
+6-8	ꜥnḫ-wč̣ꜣ-snb	_	_	_	_	_	_	_	Hiero=𓋹𓍑𓋴𓏏2|Hierogr=𓍹(𓉐:𓉻)𓅆𓋹𓍑𓋴𓏏2|ID=dm700
+6	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	Hiero=𓋹|Hist=ꜥnḫ|HistID=38540|ID=dm763
+7	wč̣ꜣ	wč̣ꜣ	NOUN	_	Gender=Masc|Number=Sing	6	compound	_	Hiero=𓍑|Hist=wč̣ꜣ|HistID=52100|ID=dm7704
+8	snb	snb	NOUN	_	Gender=Masc|Number=Sing	6	compound	_	Hiero=𓋴𓏏2|Hist=śnb|HistID=136950|ID=d5348
+9	ꞽrm	ꞽrm	ADP	_	Case=Com|StatPrep=Cons	11	case	_	Hiero=𓇋𓀁𓏤(𓅓:𓂝)𓏛|Hierocl=𓏛|ID=d646
+10	nꜣy.f	nꜣy.f	DET	_	Gender=Com|Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	det	_	Gender[psor]=Masc|Hiero=(𓈖:𓄿)(𓈖:𓄿)𓇋𓇋𓆑4|ID=No|Number[psor]=Sing
+11	sḥm.w(t)	sḥm.t	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	Hiero=(𓊃:𓈞)𓁐2𓁐9𓏪1°|Hierocl=𓁐2𓁐9𓏪1|ID=d5458
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_5
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 5
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBd9zftu50EU9Xlb1lPas4Cbk
+# text = swr ⸗f ⸢wꜥ⸣ ꞽrp ꞽw ⸗f ꜥšꜣ m-šs (r)-č̣bꜣ pꜣ šgyg r:wn.nꜣw pr-ꜥꜣ ꜥnḫ-wč̣ꜣ-snb n.ꞽm ⸗f r ḳlby (n) Km(.t)
+# annotator = Johannes N. H. Schmitt.
+1	swr	swr	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=No|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓋴𓇋1(𓅨:𓂋𓏰)𓏌|Hierocl=𓏰𓏌|Hist=swr|ID=d5132|Trans=Yes|VerbClass=3lit
+2	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	1	nsubj	_	Hiero=𓆑|ID=d2193
+3	⸢wꜥ⸣	wꜥ	DET	_	Gender=Masc|Number=Sing|PronType=Art	4	det	_	Definite=Ind|Hiero=⸢(𓌡:𓂝𓏤)3⸣|Hierocl=𓏤|ID=d1256
+4	ꞽrp	ꞽrp	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓇋1(𓂋:𓊪)°|ID=d640
+5	ꞽw	ꞽw	SCONJ	_	_	7	mark	_	Hiero=𓇋𓏲|ID=dm15
+6	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	7	nsubj	_	Hiero=𓆑|ID=d2193
+7	ꜥšꜣ	ꜥšꜣ	VERB	_	Aspect=Stat|Conjug=AfroAsia|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	Hiero=(𓆈:𓏥)𓏲(𓏭:𓏛)|Hierocl=𓏥(𓏭:𓏛)|ID=d1112|Trans=No|VerbClass=3lit
+8-9	m-šs	_	_	_	_	_	_	_	Hiero=𓅓1𓍱𓏤1(𓏛:𓏫:°)|Hierocl=𓏤(𓏛:𓏫)|ID=d2254
+8	m	m	ADP	_	ExtPos=ADV	7	advmod	_	Hiero=𓅓1|ID=d2221
+9	šs	šs	NOUN	_	Gender=Masc|Number=Sing	8	fixed	_	Hiero=𓍱𓏤1(𓏛:𓏫:°)|Hierocl=𓏤(𓏛:𓏫)|ID=876884
+10-11	(r)-č̣bꜣ	_	_	_	_	_	_	_	Hiero=𓂋3𓌥𓃀𓏲1𓏲(𓏭:𓏛)|Hierocl=(𓏭:𓏛)|ID=d3401
+10	(r)	r	ADP	_	Case=Cau|ExtPos=ADP|StatPrep=Cons	13	case	_	Hiero=𓂋3|ID=d3338_Add
+11	č̣bꜣ	č̣bꜣ	VERB	_	Gender=Masc|VerbForm=Inf	10	fixed	_	Hiero=𓌥𓃀𓏲1𓏲(𓏭:𓏛)|Hierocl=(𓏭:𓏛)|ID=d7178|StatInf=Cons|VerbClass=3lit
+12	pꜣ	pꜣ	DET	_	Gender=Masc|Number=Sing|PronType=Art	13	det	_	Definite=Def|Hiero=𓅯𓄿|ID=d1839
+13	šgyg	šgyg	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓆷𓎼𓇋𓇋𓏲𓎼𓀁°|Hierocl=𓀁|ID=d6193
+14	r:wn.nꜣw	wn.nꜣw	VERB	_	Aspect=Imp|Conjug=Suffix|Gender=Masc|Mood=Ind|Number=Sing|Prefix=Yodh|SubForm=RelForm|Tense=Past|VerbForm=Fin	13	acl:relcl	_	Hiero=𓂋1(𓃹:𓈖)(𓈖:𓄿)°𓏪|Hierocl=𓏪|ID=d1368
+15-16	pr-ꜥꜣ	_	_	_	_	_	_	_	Hiero=𓍹(𓉐:𓉻)𓅆|Hierocl=𓅆|Hist=pr-ꜥꜣ|HistID=60430|ID=d2002
+15	pr	pr	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	Hiero=𓉐|Hist=pr|HistID=60220|ID=d1985|Title=Yes
+16	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	Hiero=𓉻|ID=d825
+17-19	ꜥnḫ-wč̣ꜣ-snb	_	_	_	_	_	_	_	Hiero=𓋹𓍑𓋴𓏏2|Hierogr=𓍹(𓉐:𓉻)𓅆𓋹𓍑𓋴𓏏2|ID=dm700
+17	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	Hiero=𓋹|Hist=ꜥnḫ|HistID=38540|ID=dm763
+18	wč̣ꜣ	wč̣ꜣ	NOUN	_	Gender=Masc|Number=Sing	17	compound	_	Hiero=𓍑|Hist=wč̣ꜣ|HistID=52100|ID=dm7704
+19	snb	snb	NOUN	_	Gender=Masc|Number=Sing	17	compound	_	Hiero=𓋴𓏏2|Hist=śnb|HistID=136950|ID=d5348
+20	n.ꞽm	n	ADP	_	Case=Ess|StatPrep=Pron	21	case	_	Hiero=𓈖𓇋𓅓(𓏭:𓏛)|Hierocl=(𓏭:𓏛)|ID=d2871
+21	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	14	obl	_	Hiero=𓆑|ID=d2193
+22	r	r	ADP	_	StatPrep=Cons	23	case	_	Hiero=𓂋1|ID=d3338
+23	ḳlby	ḳlby	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	Hiero=𓈎𓃭𓏤𓅡𓏤𓇋𓇋𓏲𓏌|Hierocl=𓏌|ID=d6424
+24	(n)	n	ADP	_	Case=Gen|StatPrep=Cons	25	case	_	Hiero=No|ID=d2869_Add
+25	Km(.t)	Km(.t)	PROPN	_	Gender=Fem|NameType=God	23	nmod	_	Hiero=𓆎@2𓅓1𓏲|Hierocl=(𓏭:𓏛)|ID=d6581
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_6
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 6
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBd98PzoPiQkEQr0aKRPO7zlw
+# text = sč̣r n ⸗f pr-ꜥꜣ ꜥnḫ-wč̣ꜣ-snb (r)-ḥr pꜣ šy n pꜣ grḥe (n)-rn ⸗f
+# annotator = Johannes N. H. Schmitt.
+1	sč̣r	sč̣r	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=No|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓁀:𓂡)(𓁻:°)|Hierocl=𓂡𓁻|Hist=śč̣r|ID=d5760|Trans=No|VerbClass=3lit
+2	n	n	ADP	_	Case=Dat|StatPrep=Pron	3	case	_	Hiero=𓈖2|ID=d2870
+3	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs|Reflex=Yes	1	obl	_	Hiero=𓆑|ID=d2193
+4-5	pr-ꜥꜣ	_	_	_	_	_	_	_	Hiero=𓍹(𓉐:𓉻)𓅆|Hierocl=𓅆|Hist=pr-ꜥꜣ|HistID=60430|ID=d2002
+4	pr	pr	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	Hiero=𓉐|Hist=pr|HistID=60220|ID=d1985|Title=Yes
+5	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	Hiero=𓉻|ID=d825
+6-8	ꜥnḫ-wč̣ꜣ-snb	_	_	_	_	_	_	_	Hiero=𓋹𓍑𓋴𓏏2|Hierogr=𓍹(𓉐:𓉻)𓅆𓋹𓍑𓋴𓏏2|ID=dm700
+6	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	Hiero=𓋹|Hist=ꜥnḫ|HistID=38540|ID=dm763
+7	wč̣ꜣ	wč̣ꜣ	NOUN	_	Gender=Masc|Number=Sing	6	compound	_	Hiero=𓍑|Hist=wč̣ꜣ|HistID=52100|ID=dm7704
+8	snb	snb	NOUN	_	Gender=Masc|Number=Sing	6	compound	_	Hiero=𓋴𓏏2|Hist=śnb|HistID=136950|ID=d5348
+9-10	(r)-ḥr	_	_	_	_	_	_	_	Hiero=𓁷𓏤(𓄹:𓏭)|Hierocl=𓏤(𓄹:𓏭)|ID=d3381
+9	(r)	r	ADP	_	Case=Ade|ExtPos=ADP|StatPrep=Cons	12	case	_	Hiero=No|ID=d3338_Add
+10	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	9	fixed	_	Hiero=𓁷𓏤(𓄹:𓏭)|Hierocl=𓏤(𓄹:𓏭)|ID=d4155
+11	pꜣ	pꜣ	DET	_	Gender=Masc|Number=Sing|PronType=Art	12	det	_	Definite=Def|Hiero=𓅯𓄿|ID=d1839
+12	šy	šy	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=(𓈙:𓏤)𓇋𓇋𓏲𓈗(𓈘:𓈇)|Hierocl=𓏤𓈗(𓈘:𓈇)|ID=d5813
+13	n	n	ADP	_	Case=Tem|StatPrep=Cons	15	case	_	Hiero=𓈖|ID=d2871
+14	pꜣ	pꜣ	DET	_	Gender=Masc|Number=Sing|PronType=Art	15	det	_	Definite=Def|Hiero=𓅯𓄿|ID=d1839
+15	grḥe	grḥ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=(𓎼:𓂋)𓎛𓻇𓇋𓏲(𓏰:𓇳)2𓏤2|Hierocl=(𓏰:𓇳)2𓏤2|ID=d6863
+16-17	(n)-rn	_	_	_	_	_	_	_	Hiero=(𓈖:𓂋:𓈖)𓀁|Hierocl=𓀁|ID=d2924
+16	(n)	n	ADP	_	ExtPos=ADP	18	case	_	Hiero=No|ID=d2871_Add
+17	rn	rn	NOUN	_	Gender=Masc|Number=Sing	16	fixed	_	Hiero=(𓈖:𓂋:𓈖)𓀁|Hierocl=𓀁|ID=d3515
+18	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	15	nmod	_	Hiero=𓆑|ID=d2193
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_6-7
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 6-7
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBd7iDjQmiEE30tgUc52d8GFU
+# text = ꞽr ⸗f ꞽn.ḳṭy ẖr wꜥ.t b⸢ꜣ⸣(.t) (n) ꜣlly (r-)ḥr-n pr mḥtꞽ
+# annotator = Johannes N. H. Schmitt.
+1	ꞽr	ꞽr	AUX	_	Conjug=Suffix|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	Hiero=(𓁹:𓂋𓏭)|Hist=ꞽri̯|HistID=28550|ID=d592|Trans=No|VerbClass=3aeinf
+2	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	3	nsubj	_	Hiero=𓆑|Hist=f|HistID=10050|ID=d2193
+3	ꞽn.ḳṭy	ꞽn.ḳṭy	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=(𓏎:𓈖:°)𓐪(𓂧:𓏏𓏰)𓇋𓇋𓏲(𓂻:°)|Hierocl=𓏰𓂻|Hist=ḳṭṭ|HistID=162450|ID=d558|StatInf=Abs|Trans=No|VerbClass=2aered
+4	ẖr	ẖr	ADP	_	Case=Sub|StatPrep=Cons	6	case	_	Hiero=(𓌨:𓂋)(𓏭:𓏛)|Hierocl=(𓏭:𓏛)|Hist=ẖr|HistID=123910|ID=d4797
+5	wꜥ.t	wꜥ	DET	_	Gender=Fem|Number=Sing|PronType=Art	6	det	_	Definite=Ind|Hiero=(𓏺:𓏏)|Hist=wꜥ|HistID=600041|ID=d1256
+6	b⸢ꜣ⸣(.t)	bꜣ.t	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	Hiero=𓃀𓏲1⸢𓄿1⸣𓆰𓏪|Hierocl=𓆰𓏪|Hist=bꜣ.t|HistID=52960|ID=d1619
+7	(n)	n	ADP	_	Case=Gen|StatPrep=Cons	8	case	_	Hiero=No|Hist=n|HistID=78900|ID=d2869
+8	ꜣlly	ꜣlly	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	Hiero=𓄿𓃭𓏤𓃭𓏤𓇋𓇋𓏲𓆮|Hierocl=𓆮|Hist=ꞽꜣrr.wt|HistID=20830|ID=d179
+9-11	(r-)ḥr-n	_	_	_	_	_	_	_	Hiero=𓁷𓏤(𓄹:𓏭)𓈖|Hierocl=𓏤(𓄹:𓏭)|Hist=r-ḥr|HistID=92210|ID=d3381
+9	(r-)	r	ADP	_	Case=Ade|ExtPos=ADP|StatPrep=Cons	13	case	_	Hiero=No|Hist=r|HistID=91900|ID=d3338
+10	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	9	fixed	_	Hiero=𓁷𓏤(𓄹:𓏭)|Hierocl=𓏤(𓄹:𓏭)|Hist=ḥr|HistID=107510|ID=d4155
+11	n(?)	n	ADP	_	Case=Gen|StatPrep=Cons	9	fixed	_	Hiero=𓈖|Hist=n|HistID=78900|ID=d2869
+12	pr	pꜣ	DET	_	Gender=Masc|Number=Sing|PronType=Art	13	det	_	Definite=Def|Hiero=𓉐𓏤@1|Hierocl=𓏤|Hist=pꜣ|HistID=58770|ID=d1986
+13	mḥtꞽ	mḥtꞽ	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	Hiero=(𓎔:𓏏𓏏)𓏤𓊖|Hierocl=𓏤𓊖|Hist=mḥ.tꞽt|HistID=73570|ID=d2640
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_7_(1)
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 7
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBdynBaIHCgUZQhLCpWrWJWlQ
+# text = ḫpr ṭwe
+# annotator = Johannes N. H. Schmitt.
+1	ḫpr	ḫpr	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=No|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓆣:𓂋)𓏲|Hist=ḫpr|HistID=116230|ID=d4467|Trans=No|VerbClass=3lit
+2	ṭwe	ṭwꜣy	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	Hiero=𓂧𓍯𓇋𓏲(𓏰:𓇳)2𓏤2|Hierocl=(𓏰:𓇳)2𓏤2|Hist=ṭwꜣ.yt|HistID=178120|ID=d7140
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_7_(2)
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 7
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBdynBaIHCgUZQhLCpWrWJWlQ
+# text = bn-p rḫ pr-ꜥꜣ ꜥnḫ-wč̣ꜣ-snb ṭwn ⸗f (r)-č̣bꜣ ꜥꜣ (n) tꜣ sh̭y.t (r:)wn.nꜣw.ꞽw ⸗f n.ꞽm ⸗s
+# annotator = Johannes N. H. Schmitt.
+1-2	bn-p	_	_	_	_	_	_	_	Hiero=(𓃀:𓈖)1(𓊪:𓏭)2|Hist=bw-pw|HistID=600038|ID=dm26
+1	bn	bn	PART	_	ExtPos=PART|PartType=Neg	9	advmod:neg	_	Hiero=(𓃀:𓈖)1|Hist=No|HistID=No|ID=No
+2	p	p	PART	_	_	1	fixed	_	Hiero=(𓊪:𓏭)2|Hist=pꜣu̯|HistID=58790|ID=No
+3	rḫ	rḫ	AUX	_	Gender=Masc|Mood=Pot|VerbForm=Inf	9	aux	_	Hiero=(𓂋:𓐍)|Hist=rḫ|HistID=95620|ID=d3542|StatInf=Cons|Trans=No|VerbClass=2lit
+4-5	pr-ꜥꜣ	_	_	_	_	_	_	_	Hiero=𓍹(𓉐:𓉻)𓅆|Hierocl=𓅆|Hist=pr-ꜥꜣ|HistID=60430|ID=d2002
+4	pr	pr	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	Hiero=𓉐|Hist=pr|HistID=60220|ID=d1985|Title=Yes
+5	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	Hiero=𓉻|Hist=ꜥꜣ|HistID=450158|ID=d825
+6-8	ꜥnḫ-wč̣ꜣ-snb	_	_	_	_	_	_	_	Hiero=𓋹𓍑𓋴𓏏2|Hierogr=𓍹(𓉐:𓉻)𓅆𓋹𓍑𓋴𓏏2|Hist=ꜥnḫ(.w) wč̣ꜣ(.w) śnb(.w)|HistID=550118|ID=dm700
+6	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	Hiero=𓋹|Hist=ꜥnḫ|HistID=38540|ID=dm763
+7	wč̣ꜣ	wč̣ꜣ	NOUN	_	Gender=Masc|Number=Sing	6	compound	_	Hiero=𓍑|Hist=wč̣ꜣ|HistID=52100|ID=dm7704
+8	snb	snb	NOUN	_	Gender=Masc|Number=Sing	6	compound	_	Hiero=𓋴𓏏2|Hist=śnb|HistID=136950|ID=d5348
+9	ṭwn	ṭwn	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=(𓂧:𓃹:𓈖)𓏌𓏲1(𓁻:°)|Hierocl=𓁻|Hist=ṭwn|HistID=178160|ID=d7144|StatInf=Cons|Trans=Yes|VerbClass=3lit
+10	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs|Reflex=Yes	9	obj	_	Hiero=𓆑|Hist=f|HistID=10050|ID=d2193
+11-12	(r)-č̣bꜣ	_	_	_	_	_	_	_	Hiero=𓂋3𓌥𓃀3𓏲1𓏲(𓏭:𓏛)|Hierocl=(𓏭:𓏛)|Hist=r-č̣bꜣ|HistID=851527|ID=d3401
+11	(r)	r	ADP	_	Case=Cau|ExtPos=ADP|StatPrep=Cons	13	case	_	Hiero=𓂋3|Hist=r|HistID=91900|ID=d3338_Add
+12	č̣bꜣ	č̣bꜣ	VERB	_	Gender=Masc|VerbForm=Inf	11	fixed	_	Hiero=𓌥𓃀3𓏲1𓏲(𓏭:𓏛)|Hierocl=(𓏭:𓏛)|Hist=č̣bꜣ|HistID=183170|ID=d7178|StatInf=Cons|VerbClass=3lit
+13	ꜥꜣ	ꜥꜣ	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	Hiero=(𓉻:𓂝𓏛)𓄿1𓀁|Hierocl=𓀁|Hist=ꜥ|HistID=34350|ID=dm200
+14	(n)	n	ADP	_	Case=Gen|StatPrep=Cons	16	case	_	Hiero=No|Hist=n|HistID=78900|ID=d2869
+15	tꜣ	tꜣ	DET	_	Gender=Fem|Number=Sing|PronType=Art	16	det	_	Definite=Def|Hiero=(𓏏:𓄿)|Hist=tꜣ|HistID=168840|ID=d6978
+16	sh̭y.t	sḫy.t	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	Hiero=𓋴(𓐍:𓏭)𓇋𓇋𓏲𓀐𓏏|Hierocl=𓀐|Hist=sḫ.t|HistID=141420|ID=d5505
+17	(r:)wn.nꜣw.ꞽw	wn.nꜣw	VERB	_	Aspect=Imp|Conjug=Suffix|Gender=Fem|Mood=Ind|Number=Sing|Prefix=Yodh|SubForm=RelForm|Tense=Past|VerbForm=Fin	16	acl:relcl	_	Hiero=(𓃹:𓈖)(𓈖:𓄿)°𓏪1𓇋𓏲|Hierocl=𓏪1|Hist=wnn|HistID=46050|ID=d1368|VerbClass=2red
+18	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	17	nsubj	_	Hiero=𓆑|Hist=f|HistID=10050|ID=d2193
+19	n.ꞽm	n	ADP	_	Case=Loc|StatPrep=Pron	20	case	_	Hiero=𓈖𓇋𓅓(𓏭:𓏛)|Hierocl=(𓏭:𓏛)|Hist=m|HistID=64360|ID=d2941
+20	⸗s	s	PRON	_	Gender=Fem|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	17	obl	_	Hiero=𓋴𓏏|Hist=ś|HistID=10090|ID=d4934
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_7-8
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 7-8
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBd4rw2hu8FENMtQ09uIbZSyc
+# text = ẖn pꜣ nw
+# annotator = Johannes N. H. Schmitt.
+1	ẖn	ẖn	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=No|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓂙:𓈖2:𓏏𓏰)𓀁|Hierocl=𓏰𓀁|Hist=ẖn|HistID=123110|ID=d4769|Trans=No|VerbClass=2lit
+2	pꜣ	pꜣ	DET	_	Gender=Masc|Number=Sing|PronType=Art	3	det	_	Definite=Def|Hiero=𓅯𓄿|Hist=pꜣ|HistID=851446|ID=d1839
+3	nw	nw	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	Hiero=(𓈖:𓍇:𓏌𓏲)𓏌𓏲1(𓁻:°)|Hierocl=𓁻|Hist=nw|HistID=80840|ID=d3085
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_8_(1)
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 8
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBd4rw2hu8FENMtQ09uIbZSyc
+# text = bn-p ⸗f rḫ ṭwn ⸗f
+# annotator = Johannes N. H. Schmitt.
+1-2	bn-p	_	_	_	_	_	_	_	Hiero=(𓃀:𓈖)1(𓊪:𓏭)2|Hist=bw-pw|HistID=600038|ID=dm26
+1	bn	bn	PART	_	ExtPos=PART|PartType=Neg	5	advmod:neg	_	Hiero=(𓃀:𓈖)1|Hist=No|HistID=No|ID=No
+2	p	p	PART	_	_	1	fixed	_	Hiero=(𓊪:𓏭)2|Hist=pꜣu̯|HistID=58790|ID=No
+3	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	5	nsubj	_	Hiero=𓆑|Hist=f|HistID=10050|ID=d2193
+4	rḫ	rḫ	AUX	_	Gender=Masc|Mood=Pot|VerbForm=Inf	5	aux	_	Hiero=(𓂋:𓐍)|Hist=rḫ|HistID=95620|ID=d3542|StatInf=Cons|Trans=No|VerbClass=2lit
+5	ṭwn	ṭwn	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=(𓂧:𓃹:𓈖)𓏌𓏲1(𓁻:°)|Hierocl=𓁻|Hist=ṭwn|HistID=178160|ID=d7144|StatInf=Cons|Trans=Yes|VerbClass=3lit
+6	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs|Reflex=Yes	5	obj	_	Hiero=𓆑|Hist=f|HistID=10050|ID=d2193
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_8_(2)
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 8
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBdQvh2q6pIEnKrJIDwa1NrUA; IBUBd0dPHmV2eEvWuejRhKqMuwE
+# text = ꞽr nꜣ sre.w šlly č̣ṭ ꞽn mṭ.t ꞽw ⸗s rḫ ḫpr tꜣꞽ
+# annotator = Johannes N. H. Schmitt.
+1	ꞽr	ꞽr	AUX	_	Conjug=Suffix|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	Hiero=(𓁹:𓂋𓏭)|Hist=ꞽri̯|HistID=28550|ID=d592|Trans=No|VerbClass=3aeinf
+2	nꜣ	nꜣ	DET	_	Gender=Com|Number=Plur|PronType=Art	3	det	_	Hiero=(𓈖:𓄿)|Hist=nꜣ|HistID=|ID=d2952|Definite=Def
+3	sre.w	sr	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	Hiero=𓀙𓇋𓏲(𓀀1':𓏥)|Hierocl=(𓀀1':𓏥)|Hist=|HistID=|ID=d5378
+4	šlly	šlly	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆷1𓃭𓏤𓃭𓏤𓇋𓇋𓏲𓅪𓀐|Hierocl=𓅪𓀐|Hist=|HistID=|ID=d6123|StatInf=Cons|Trans=Yes
+5	č̣ṭ	č̣ṭ	SCONJ	_	_	7	mark	_	Hiero=(𓆓:𓂧)|Hist=|HistID=|ID=d7854
+6	ꞽn	ꞽn	PART	_	PartType=Int	7	discourse	_	Hiero=𓇋𓈖|Hist=|HistID=|ID=d527
+7	mṭ.t	mṭ.t	NOUN	_	Gender=Fem|Number=Sing	4	ccomp:speech	_	Hiero=𓌃(𓂧:𓏏𓏰)𓀁𓏏|Hierocl=𓏰𓀁|Hist=|HistID=|ID=d2753
+8	ꞽw	ꞽw	SCONJ	_	_	11	mark	_	Hiero=𓇋|Hist=|HistID=|ID=dm15
+9	⸗s	s	PRON	_	Gender=Fem|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	11	dislocated:nsubj	_	Hiero=𓋴𓏏|Hierogr=𓇋𓋴𓏏|Hist=ś|HistID=|ID=d4934
+10	rḫ	rḫ	AUX	_	Gender=Masc|Mood=Pot|VerbForm=Inf	11	aux	_	Hiero=(𓂋:𓐍)|Hist=rḫ|HistID=95620|ID=d3542|StatInf=Cons|Trans=No|VerbClass=2lit
+11	ḫpr	ḫpr	VERB	_	Gender=Masc|VerbForm=Inf	7	acl:relcl	_	Hiero=(𓆣:𓂋)𓏲|Hist=|HistID=|ID=d4467|VerbClass=3lit|StatInf=Cons|Trans=Yes
+12	tꜣꞽ	tꜣꞽ	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	11	nsubj	_	Hiero=(𓏏:𓄿)𓏭|Hist=|HistID=|ID=d7039
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_8-9
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 8-9
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBdxPsPwPZ5kqXiQFWOTNQVJI
+# text = ḫpr ⸗f <ꞽw> pr-ꜥꜣ ꜥnḫ-wč̣ꜣ-snb ⸢ꞽr⸣ sh̭y.t ⸢m⸣-⸢šs⸣
+# annotator = Johannes N. H. Schmitt.
+1	ḫpr	ḫpr	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=No|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓆣:𓂋)𓏲|Hist=ḫpr|HistID=116230|ID=d4467|Trans=No|VerbClass=3lit
+2	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	1	nsubj	_	Hiero=𓆑|Hist=f|HistID=10050|ID=d2193
+3	<ꞽw>	ꞽw	SCONJ	_	_	9	mark	_	Hiero=No|Hist=|HistID=|ID=dm15
+4-5	pr-ꜥꜣ	_	_	_	_	_	_	_	Hiero=𓍹(𓉐:𓉻)𓅆|Hierocl=𓅆|Hist=pr-ꜥꜣ|HistID=60430|ID=d2002
+4	pr	pr	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	Hiero=𓉐|Hist=pr|HistID=60220|ID=d1985|Title=Yes
+5	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	Hiero=𓉻|Hist=ꜥꜣ|HistID=450158|ID=d825
+6-8	ꜥnḫ-wč̣ꜣ-snb	_	_	_	_	_	_	_	Hiero=𓋹𓍑𓋴𓏏2|Hierogr=𓍹(𓉐:𓉻)𓅆𓋹𓍑𓋴𓏏2|Hist=ꜥnḫ(.w) wč̣ꜣ(.w) śnb(.w)|HistID=550118|ID=dm700
+6	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	Hiero=𓋹|Hist=ꜥnḫ|HistID=38540|ID=dm763
+7	wč̣ꜣ	wč̣ꜣ	NOUN	_	Gender=Masc|Number=Sing	6	compound	_	Hiero=𓍑|Hist=wč̣ꜣ|HistID=52100|ID=dm7704
+8	snb	snb	NOUN	_	Gender=Masc|Number=Sing	6	compound	_	Hiero=𓋴𓏏2|Hist=śnb|HistID=136950|ID=d5348
+9	⸢ꞽr⸣	ꞽr	VERB	_	Gender=Masc|VerbForm=Inf	1	advcl	_	Hiero=⸢(𓁹:𓂋𓏭)⸣|Hist=ꞽri̯|HistID=28550|ID=d592|StatInf=Cons|Trans=Yes|VerbClass=3aeinf
+10	sh̭y.t	sḫy.t	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	Hiero=𓋴(𓐍:𓏭)𓇋𓇋𓏲𓀐𓏏|Hierocl=𓀐|Hist=sḫ.t|HistID=141420|ID=d5505
+11-12	⸢m⸣-⸢šs⸣	_	_	_	_	_	_	_	Hiero=⸢𓅓1𓍱@𓏤⸣[(𓏛:𓏫:°)]|Hierocl=𓏤(𓏛:𓏫)|ID=d2254
+11	⸢m⸣	m	ADP	_	ExtPos=ADV	9	advmod	_	Hiero=⸢𓅓1⸣|ID=d2221
+12	⸢šs⸣	šs	NOUN	_	Gender=Masc|Number=Sing	11	fixed	_	Hiero=⸢𓍱@𓏤⸣[(𓏛:𓏫:°)]|Hierocl=𓏤(𓏛:𓏫)|ID=876884
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_9_(1)
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 9
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBdzeiPQGcMUMktmrrfV408BM
+# text = bn-p rḫ rmč (n) pꜣ tꜣ šm r mṭ n pr-ꜥꜣ ꜥnḫ-wč̣ꜣ-snb
+# annotator = Johannes N. H. Schmitt.
+1-2	bn-p	_	_	_	_	_	_	_	Hiero=(𓃀:𓈖)1(𓊪:𓏭)2|Hist=bw-pw|HistID=600038|ID=dm26
+1	bn	bn	PART	_	ExtPos=PART|PartType=Neg	8	advmod:neg	_	Hiero=(𓃀:𓈖)1|Hist=No|HistID=No|ID=No
+2	p	p	PART	_	_	1	fixed	_	Hiero=(𓊪:𓏭)2|Hist=pꜣu̯|HistID=58790|ID=No
+3	rḫ	rḫ	AUX	_	Gender=Masc|Mood=Pot|VerbForm=Inf	8	aux	_	Hiero=(𓂋:𓐍)|Hist=rḫ|HistID=95620|ID=d3542|StatInf=Cons|Trans=No|VerbClass=2lit
+4	rmč	rmč	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	Hiero=(𓂋:𓍿)𓀀𓏪|Hierocl=𓀀𓏪|Hist=|HistID=|ID=d3491
+5	(n)	n	ADP	_	Case=Gen|StatPrep=Cons	7	case	_	Hiero=No|ID=d2869_Add
+6	pꜣ	pꜣ	DET	_	Gender=Masc|Number=Sing|PronType=Art	7	det	_	Definite=Def|Hiero=𓅯𓄿|ID=d1839
+7	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	Hiero=(𓇾:𓏤)@|Hierocl=𓏤|ID=d6979
+8	šm	šm	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓈝(𓂻:°)|Hierocl=𓂻|Hist=šmi̯|HistID=154340|ID=d5992|StatInf=Abs|Trans=No|VerbClass=3aeinf
+9	r	r	ADP	_	StatPrep=Cons	10	mark	_	Hiero=𓂋1|Hist=|HistID=|ID=dm22
+10	mṭ	mṭ	VERB	_	Gender=Masc|VerbForm=Inf	8	xcomp	_	Hiero=𓌃(𓂧:𓏏𓏰)𓀁⸢𓏏⸣|Hierocl=𓀁|Hist=mṭwi̯|HistID=78140|ID=d2765|StatInf=Cons|Trans=Yes|VerbClass=4aeinf
+11	n	n	ADP	_	Case=Dat|StatPrep=Cons	12	case	_	Hiero=𓈖|Hist=|HistID=|ID=d2870
+12-13	pr-ꜥꜣ	_	_	_	_	_	_	_	Hiero=𓍹(𓉐:𓉻)𓅆|Hierocl=𓅆|Hist=pr-ꜥꜣ|HistID=60430|ID=d2002
+12	pr	pr	NOUN	_	Gender=Masc|Number=Sing	10	obl:arg	_	Hiero=𓉐|Hist=pr|HistID=60220|ID=d1985|Title=Yes
+13	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	Hiero=𓉻|Hist=ꜥꜣ|HistID=450158|ID=d825
+14-16	ꜥnḫ-wč̣ꜣ-snb	_	_	_	_	_	_	_	Hiero=𓋹𓍑𓋴𓏏2|Hierogr=𓍹(𓉐:𓉻)𓅆𓋹𓍑𓋴𓏏2|Hist=ꜥnḫ(.w) wč̣ꜣ(.w) śnb(.w)|HistID=550118|ID=dm700
+14	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	Hiero=𓋹|Hist=ꜥnḫ|HistID=38540|ID=dm763
+15	wč̣ꜣ	wč̣ꜣ	NOUN	_	Gender=Masc|Number=Sing	14	compound	_	Hiero=𓍑|Hist=wč̣ꜣ|HistID=52100|ID=dm7704
+16	snb	snb	NOUN	_	Gender=Masc|Number=Sing	14	compound	_	Hiero=𓋴𓏏2|Hist=śnb|HistID=136950|ID=d5348
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_9_(2)
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 9
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBdQWy2laTJ0PUifkX4BmLcUs
+# text = šm nꜣ sre.w r pꜣ mꜣꜥ ntꞽ.ꞽw pr-ꜥꜣ ꜥnḫ-wč̣ꜣ-snb n.ꞽm ⸗f
+# annotator = Johannes N. H. Schmitt.
+1	šm	šm	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=No|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓈝(𓂻:°)|Hierocl=𓂻|Hist=šmi̯|HistID=154340|ID=d5992|Trans=No|VerbClass=3aeinf
+2	nꜣ	nꜣ	DET	_	Gender=Com|Number=Plur|PronType=Art	3	det	_	Hiero=(𓈖:𓄿)|Hist=nꜣ|HistID=|ID=d2952|Definite=Def
+3	sre.w	sr	NOUN	_	Gender=Masc|Number=Plur	1	nsubj	_	Hiero=𓀙𓇋𓏲(𓀀1':𓏥)|Hierocl=(𓀀1':𓏥)|Hist=|HistID=|ID=d5378
+4	r	r	ADP	_	Case=All|StatPrep=Cons	6	case	_	Hiero=𓂋1|Hist=|HistID=|ID=d3338
+5	pꜣ	pꜣ	DET	_	Gender=Masc|Number=Sing|PronType=Art	6	det	_	Hiero=𓅯𓄿|Hist=|HistID=|ID=d1839|Definite=Def
+6	mꜣꜥ	mꜣꜥ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=(𓌶:𓂝)2𓆄𓉐𓏤@1|Hierocl=𓉐𓏤@1|Hist=|HistID=|ID=d2291
+7	ntꞽ.ꞽw	ntꞽ.ꞽw	PRON	_	PronType=Rel	14	expl:rel	_	Hiero=(𓈖:𓏏𓏭)1𓇋𓏲|Hist=|HistID=|ID=d3304
+8-9	pr-ꜥꜣ	_	_	_	_	_	_	_	Hiero=𓍹(𓉐:𓉻)𓅆|Hierocl=𓅆|Hist=pr-ꜥꜣ|HistID=60430|ID=d2002
+8	pr	pr	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	Hiero=𓉐|Hist=pr|HistID=60220|ID=d1985|Title=Yes
+9	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	Hiero=𓉻|Hist=ꜥꜣ|HistID=450158|ID=d825
+10-12	ꜥnḫ-wč̣ꜣ-snb	_	_	_	_	_	_	_	Hiero=𓋹𓍑𓋴𓏏2|Hierogr=𓍹(𓉐:𓉻)𓅆𓋹𓍑𓋴𓏏2|Hist=ꜥnḫ(.w) wč̣ꜣ(.w) śnb(.w)|HistID=550118|ID=dm700
+10	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	Hiero=𓋹|Hist=ꜥnḫ|HistID=38540|ID=dm763
+11	wč̣ꜣ	wč̣ꜣ	NOUN	_	Gender=Masc|Number=Sing	10	compound	_	Hiero=𓍑|Hist=wč̣ꜣ|HistID=52100|ID=dm7704
+12	snb	snb	NOUN	_	Gender=Masc|Number=Sing	10	compound	_	Hiero=𓋴𓏏2|Hist=śnb|HistID=136950|ID=d5348
+13	n.ꞽm	n	ADP	_	Case=Loc|StatPrep=Pron	14	case	_	Hiero=𓈖𓇋𓅓(𓏭:𓏛)|Hierocl=(𓏭:𓏛)|Hist=m|HistID=64360|ID=d2941
+14	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	6	acl:relcl	_	Hiero=𓆑|Hist=f|HistID=10050|ID=d2193
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_10_(1)
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 10
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBd3RXSbqJWEg9timZpXnew6o; IBUBdy0OQ0BVnUjZntaxFNWt04w
+# text = ⸢č̣ṭ⸣ ⸗w pꜣy.n [nb] ⸢ꜥꜣ⸣ ꞽḫ (n) yꜥbꜣ(.t) tꜣ ntꞽ.ꞽw pr-ꜥꜣ ꜥnḫ-wč̣ꜣ-snb n.ꞽm ⸗s
+# annotator = Johannes N. H. Schmitt.
+1	⸢č̣ṭ⸣	č̣ṭ	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=No|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=⸢(𓆓:𓂧)⸣|Hist=|HistID=|ID=d7853|VerbClass=2lit|Trans=Yes
+2	⸗w	w	PRON	_	Gender=Com|Number=Plur|Person=3|PronClass=Suffix|PronType=Prs	1	nsubj	_	Hiero=𓏪|Hist=|HistID=|ID=d1172
+3	pꜣy.n	pꜣy.n	DET	_	Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	Hiero=𓅯𓄿𓇋𓇋(𓈖:𓏥:°)|Hierocl=𓏥|Hist=|HistID=|ID=No|Gender[psor]=Com|Number[psor]=Plur
+4	[nb]	nb	NOUN	_	Gender=Masc|Number=Sing	6	vocative	_	Hiero=[(𓎟:𓏏)1]|Hist=|HistID=|ID=d3104_Rest
+5	⸢ꜥꜣ⸣	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	Hiero=⸢(𓉻':(𓉻:𓂝𓏛))⸣|Hierocl=𓏛|Hist=|HistID=|ID=d825
+6	ꞽḫ	ꞽḫ	PRON	_	PronType=Int	1	ccomp	_	Hiero=𓇋1𓐍|Hist=|HistID=|ID=d673
+7	(n)	n	ADP	_	Case=Gen|StatPrep=Cons	8	case	_	Hiero=No|Hist=|HistID=|ID=d2869_Add
+8	yꜥbꜣ(.t)	yꜥbꜣ.t	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	Hiero=𓇋𓇋𓏲(𓉻:𓂝𓏛)𓅡𓏤𓄿1𓀐|Hierocl=𓀐|Hist=|HistID=|ID=d755
+9	tꜣ	tꜣ	DET	_	Gender=Fem|Nominal=Yes|Number=Sing|PronType=Art	6	nsubj	_	Hiero=(𓏏:𓄿)|Hist=|HistID=|ID=d6978|Definite=Def
+10	ntꞽ.ꞽw	ntꞽ.ꞽw	PRON	_	PronType=Rel	17	expl:rel	_	Hiero=(𓈖:𓏏𓏭)1𓇋𓏲|Hist=|HistID=|ID=d3304
+11-12	pr-ꜥꜣ	_	_	_	_	_	_	_	Hiero=𓍹(𓉐:𓉻)𓅆|Hierocl=𓅆|Hist=pr-ꜥꜣ|HistID=60430|ID=d2002
+11	pr	pr	NOUN	_	Gender=Masc|Number=Sing	17	nsubj	_	Hiero=𓉐|Hist=pr|HistID=60220|ID=d1985|Title=Yes
+12	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	Hiero=𓉻|Hist=ꜥꜣ|HistID=450158|ID=d825
+13-15	ꜥnḫ-wč̣ꜣ-snb	_	_	_	_	_	_	_	Hiero=𓋹𓍑𓋴𓏏2|Hierogr=𓍹(𓉐:𓉻)𓅆𓋹𓍑𓋴𓏏2|Hist=ꜥnḫ(.w) wč̣ꜣ(.w) śnb(.w)|HistID=550118|ID=dm700
+13	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	Hiero=𓋹|Hist=ꜥnḫ|HistID=38540|ID=dm763
+14	wč̣ꜣ	wč̣ꜣ	NOUN	_	Gender=Masc|Number=Sing	13	compound	_	Hiero=𓍑|Hist=wč̣ꜣ|HistID=52100|ID=dm7704
+15	snb	snb	NOUN	_	Gender=Masc|Number=Sing	13	compound	_	Hiero=𓋴𓏏2|Hist=śnb|HistID=136950|ID=d5348
+16	n.ꞽm	n	ADP	_	Case=Loc|StatPrep=Pron	17	case	_	Hiero=𓈖𓇋𓅓(𓏭:𓏛)|Hierocl=(𓏭:𓏛)|Hist=m|HistID=64360|ID=d2941
+17	⸗s	s	PRON	_	Gender=Fem|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	9	acl:relcl	_	Hiero=𓋴𓏏|Hist=|HistID=|ID=d4934
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_10_(2)
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 10
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBdz6e5dcWR0PdjUdi3o6QsAQ; IBUBd1VuTp5z3kWioFSZtt2o90s
+# text = č̣ṭ pr-ꜥꜣ ꜥnḫ-wč̣ꜣ-snb tw.ꞽ ⟦...⟧ ꞽr sh̭y[.t] m-šs
+1	č̣ṭ	č̣ṭ	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=No|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓆓:𓂧)|Hist=|HistID=|ID=d7853|VerbClass=2lit|Trans=Yes
+2-3	pr-ꜥꜣ	_	_	_	_	_	_	_	Hiero=𓍹(𓉐:𓉻)𓅆|Hierocl=𓅆|Hist=pr-ꜥꜣ|HistID=60430|ID=d2002
+2	pr	pr	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	Hiero=𓉐|Hist=pr|HistID=60220|ID=d1985|Title=Yes
+3	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	Hiero=𓉻|Hist=ꜥꜣ|HistID=450158|ID=d825
+4-6	ꜥnḫ-wč̣ꜣ-snb	_	_	_	_	_	_	_	Hiero=𓋹𓍑𓋴𓏏2|Hierogr=𓍹(𓉐:𓉻)𓅆𓋹𓍑𓋴𓏏2|Hist=ꜥnḫ(.w) wč̣ꜣ(.w) śnb(.w)|HistID=550118|ID=dm700
+4	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	Hiero=𓋹|Hist=ꜥnḫ|HistID=38540|ID=dm763
+5	wč̣ꜣ	wč̣ꜣ	NOUN	_	Gender=Masc|Number=Sing	4	compound	_	Hiero=𓍑|Hist=wč̣ꜣ|HistID=52100|ID=dm7704
+6	snb	snb	NOUN	_	Gender=Masc|Number=Sing	4	compound	_	Hiero=𓋴𓏏2|Hist=śnb|HistID=136950|ID=d5348
+7	tw.ꞽ	tw.ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Procl|PronType=Prs	9	nsubj	_	Hiero=(𓏲:𓏏)𓏤𓇋𓇋𓏲|ID=No
+8	⟦...⟧	_	X	_	Typo=Yes	9	dep	_	Hiero=Lost|ID=Del
+9	ꞽr	ꞽri̯	VERB	_	Gender=Masc|VerbForm=Inf	1	ccomp:speech	_	Hiero=(𓁹:𓂋𓏭)|Hist=ꞽri̯|HistID=28550|ID=d592|StatInf=Cons|Trans=Yes|VerbClass=3aeinf
+10	sh̭y[.t]	sḫy.t	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	Hiero=𓋴(𓐍:𓏭)𓇋𓇋𓏲𓀐[𓏏]|Hierocl=𓀐|Hist=sḫ.t|HistID=141420|ID=d5505
+11-12	m-šs	_	_	_	_	_	_	_	Hiero=𓅓1𓍱@𓏤(𓏛:𓏫:°)|Hierocl=𓏤(𓏛:𓏫)|ID=d2254
+11	m	m	ADP	_	ExtPos=ADV	9	advmod	_	Hiero=𓅓1|ID=d2221
+12	šs	šs	NOUN	_	Gender=Masc|Number=Sing	11	fixed	_	Hiero=𓍱@𓏤(𓏛:𓏫:°)|Hierocl=𓏤(𓏛:𓏫)|ID=876884
+
+# sent_id = Amasis_Spiegelberg_P.Bibl.Nat._215_10-11
+# title = Amasis
+# edition = Spiegelberg
+# location = P.Bibl.Nat.
+# no. = 215
+# line = 10-11
+# date = 3rd century BCE
+# lang = Demotic
+# genre = literary
+# place = Memphite region (?)
+# TLA = IBUBdxsnL4dGc0QfiB3PyWYWtig
+# text = bn-ꞽw ⸢pr⸣-⸢ꜥꜣ⸣ ꜥnḫ-wč̣ꜣ-snb ⸢rḫ⸣ ⸢ꞽr⸣ ⸢wꜥ⸣ ꞽr-ꞽp(.t) (n) pꜣ tꜣ ꞽn
+1	bn-ꞽw	bn	PART	_	PartType=Neg	8	advmod:neg	_	Hiero=(𓃀:𓈖)1𓇋𓏲|ID=d1715
+2-3	⸢pr⸣-⸢ꜥꜣ⸣	_	_	_	_	_	_	_	Hiero=⸢𓍹(𓉐:𓉻)⸣𓅆|Hierocl=𓅆|Hist=pr-ꜥꜣ|HistID=60430|ID=d2002
+2	⸢pr⸣	pr	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	Hiero=⸢𓉐⸣|Hist=pr|HistID=60220|ID=d1985|Title=Yes
+3	⸢ꜥꜣ⸣	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	Hiero=⸢𓉻⸣|Hist=ꜥꜣ|HistID=450158|ID=d825
+4-6	ꜥnḫ-wč̣ꜣ-snb	_	_	_	_	_	_	_	Hiero=𓋹𓍑𓋴𓏏2|Hierogr=⸢𓍹(𓉐:𓉻)⸣𓅆𓋹𓍑𓋴𓏏2|Hist=ꜥnḫ(.w) wč̣ꜣ(.w) śnb(.w)|HistID=550118|ID=dm700
+4	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	Hiero=𓋹|Hist=ꜥnḫ|HistID=38540|ID=dm763
+5	wč̣ꜣ	wč̣ꜣ	NOUN	_	Gender=Masc|Number=Sing	4	compound	_	Hiero=𓍑|Hist=wč̣ꜣ|HistID=52100|ID=dm7704
+6	snb	snb	NOUN	_	Gender=Masc|Number=Sing	4	compound	_	Hiero=𓋴𓏏2|Hist=śnb|HistID=136950|ID=d5348
+7	⸢rḫ⸣	rḫ	AUX	_	Gender=Masc|Mood=Pot|VerbForm=Inf	8	aux	_	Hiero=⸢(𓂋:𓐍)⸣|Hist=rḫ|HistID=95620|ID=d3542|StatInf=Cons|Trans=No|VerbClass=2lit
+8	⸢ꞽr⸣	ꞽri̯	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=⸢(𓁹:𓂋𓏭)⸣|Hist=ꞽri̯|HistID=28550|ID=d592|StatInf=Cons|Trans=Yes|VerbClass=3aeinf
+9	⸢wꜥ⸣	wꜥ	DET	_	Gender=Masc|Number=Sing|PronType=Art	10	det	_	Definite=Ind|Hiero=⸢(𓌡:𓂝𓏤3)⸣|ID=d1256
+10-11	ꞽr-ꞽp(.t)	_	_	_	_	_	_	_	Hiero=(𓁹:𓂋𓏭)(𓄋:𓊪@)𓏲(𓏭:𓏛)|Hierocl=(𓏭:𓏛)|ID=No
+10	ꞽr	ꞽri̯	VERB	_	Gender=Masc|VerbForm=Inf	8	obj	_	Hiero=(𓁹:𓂋𓏭)|Hist=ꞽri̯|HistID=28550|ID=d592|StatInf=Cons|Trans=Yes|VerbClass=3aeinf
+11	ꞽp(.t)	ꞽp.t	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	Hiero=(𓄋:𓊪@)𓏲(𓏭:𓏛)|Hierocl=(𓏭:𓏛)|ID=d1323|MWE=Yes
+12	(n)	n	ADP	_	Case=Loc|StatPrep=Cons	14	case	_	Hiero=No|Hist=m|HistID=64360|ID=d2941_Add
+13	pꜣ	pꜣ	DET	_	Gender=Masc|Number=Sing|PronType=Art	14	det	_	Definite=Def|Hiero=𓅯𓄿|ID=d1839
+14	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	Hiero=(𓇾:𓏤)@|Hierocl=𓏤|ID=d6979
+15	ꞽn	ꞽn	PART	_	_	8	discourse	_	Hiero=𓇋𓈖|ID=d529
+
