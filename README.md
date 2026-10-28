@@ -133,7 +133,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Díaz Hernández, Roberto Antonio; Guillaume, Bruno; Zeman, Daniel
+Contributors: Díaz Hernández, Roberto Antonio; Guillaume, Bruno; Zeman, Daniel; Anselmi, Valentina; Harel, Halely; Schmitt, Johannes Nikolaus Heinrich
 Contributing: here
 Contact: radiaz@ujaen.es
 ===============================================================================
