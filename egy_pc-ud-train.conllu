@@ -59836,7 +59836,7 @@
 # place = Thebes
 # TLA = IBUBd8dLEQUEUkJIseHx3hsMdgc
 # text = hrw nfr pꜣy.ꞽ ptrꞽ ⸗k .
-# annotator = Haleli Hareil.
+# annotator = Haleli Harel.
 1	hrw	hrw	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓉔(𓂋:𓏲𓇳)𓏤|Hierocl=𓇳𓏤|ID=99060
 2	nfr	nfr	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	Hiero=𓄤(𓆑:𓂋)|ID=550034
 3	pꜣy.ꞽ	pꜣy.ꞽ	DET	_	Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	Gender[psor]=Com|Hiero=𓅯𓄿𓇋𓇋𓁐|ID=No|Number[psor]=Sing
@@ -59855,7 +59855,7 @@
 # place = Thebes
 # TLA = IBUBdQCbNsvlJEoHjS1j1Vc1OE0
 # text = sn ḥs.y(t) ꜥꜣ<.t> pꜣ mꜣꜣ ⸗k .
-# annotator = Haleli Hareil.
+# annotator = Haleli Harel.
 1	sn	śn	NOUN	_	Gender=Masc|Number=Sing	5	vocative	_	Hiero=𓌢𓀀|Hierocl=𓀀|ID=136230
 2	ḥs.y(t)	ḥsw.t	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	Hiero=𓎛𓎿𓋴𓇋𓇋𓏫|Hierocl=𓏫|ID=855743
 3	ꜥꜣ<.t>	ꜥꜣ	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	Hiero=(𓉻:𓏛)|Hierocl=𓏛|ID=450158
@@ -59875,7 +59875,7 @@
 # place = Thebes
 # TLA = IBUBd3oO62uH1EToholJ9HmOjqg
 # text = bsy ⸗k n ⸗ꞽ ꞽrm ḥ(n)ḳ.t .
-# annotator = Haleli Hareil.
+# annotator = Haleli Harel.
 1	bsy	bsi̯	VERB	_	Conjug=Suffix|Mood=Sub|SubForm=No|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓃀𓋴𓇋𓇋𓷖|Hierocl=𓷖|ID=57160|Trans=No
 2	⸗k	k	PRON	_	Gender=Masc|Person=2|PronClass=Suffix|PronType=Prs	1	nsubj	_	Hiero=𓎢|ID=10110
 3	n	n	ADP	_	Case=Dat|StatPrep=Pron	4	case	_	Hiero=𓈖|ID=400055
@@ -59895,7 +59895,7 @@
 # place = Thebes
 # TLA = IBUBd7rnBzQP5U9Xh44ECjvcbwU
 # text = ḥs.yw ꜥpr(.w) m ḫꜥ(.w) ꞽw rʾ(.w) ⸗sn ꜥpr(.w) m sḫmḫ-ꞽb . n ršw.t čḥḥw.t .
-# annotator = Haleli Hareil.
+# annotator = Haleli Harel.
 1	ḥs.yw	ḥś.w	NOUN	_	Gender=Masc|Number=Plur	2	nsubj	_	Hiero=𓎛𓎿𓇋𓇋𓀁𓏫|Hierocl=𓀁𓏫|ID=855743
 2	ꜥpr(.w)	ꜥpr	VERB	_	Aspect=Stat|Conjug=AfroAsia|Gender=Com|Mood=Ind|Number=Plur|Person=3|VerbClass=3lit|VerbForm=Fin	0	root	_	Hiero=𓐢(𓂋:𓏛)|Hierocl=𓏛|ID=37090|Trans=No
 3	m	m	ADP	_	Case=Ins|StatPrep=Cons	4	case	_	Hiero=𓅓|ID=64364
@@ -59925,7 +59925,7 @@
 # place = Thebes
 # TLA = IBUBd7rnBzQP5U9Xh44ECjvcbwU
 # text = ꞽw ꞽn(.w) pꜣy.k šm.w n-ḥꜣ ⸗f . ꞽw ⸗k spṭ.t(ꞽ) m ꞽꜣw.t .
-# annotator = Haleli Hareil.
+# annotator = Haleli Harel.
 1	ꞽw	ꞽw	AUX	_	Aspect=Perf	2	aux	_	Hiero=𓇋𓏲|ID=851512
 2	ꞽn(.w)	ꞽni̯	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=Pred|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Pass	0	root	_	Hiero=(𓏎:𓈖)|ID=26870|Trans=Yes
 3	pꜣy.k	pꜣy.k	DET	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	det	_	Gender[psor]=Masc|Hiero=𓅯𓄿(𓇋𓇋:𓎢)|ID=No|Number[psor]=Sing
@@ -59953,7 +59953,7 @@
 # place = Thebes
 # TLA = IBUBdzIha6G0SEsDo5e597U7iAs; IBUBd0xhPWaVNkBCkDANOcmLRAE
 # text = č̣ṭ-tw ḫr-tw sč̣m<-tw> mṭw.t ⸗k . ḫbꜣ(.w) pꜣ wčs tw .
-# annotator = Haleli Hareil.
+# annotator = Haleli Harel.
 1-2	č̣ṭ-tw	_	_	_	_	_	_	_	Hiero=𓆓𓂧𓏏𓏲
 1	č̣ṭ	č̣ṭ	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	5	advcl	_	Hiero=𓆓𓂧|ID=185810|Trans=Yes
 2	tw	tw	NOUN	_	Gender=Masc|Impersonal=Man|Number=Sing	1	nsubj	_	Hiero=𓏏𓏲|ID=170100
@@ -59983,7 +59983,7 @@
 # place = Thebes
 # TLA = IBUBd1yI5ZmQvk9NgaXKhSPufeQ
 # text = sn.t ⸗k ꞽḳr.t m ꞽꜣ.wt n-ḥr ⸗k (ḥr) sn tꜣ n ptrꞽ ⸗k .
-# annotator = Haleli Hareil.
+# annotator = Haleli Harel.
 1	sn.t	śn.t	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	Hiero=𓌢(𓏏:𓁐)|Hierocl=𓁐|ID=136260
 2	⸗k	k	PRON	_	Gender=Masc|Person=2|Poss=Yes|PronClass=Suffix|PronType=Prs	1	nmod:poss	_	Hiero=𓎢|ID=10110
 3	ꞽḳr.t	ꞽḳr	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	Hiero=𓇋(𓈎:𓂋)(𓏏:𓏛)|Hierocl=𓏛|ID=400076
@@ -60012,7 +60012,7 @@
 # place = Thebes
 # TLA = IBUBd7sL9gZu4kQJkSp71QoavK4
 # text = šśp-tw ⸗śt m ḥ(n)ḳ.t ḥr śntr mꞽ pꜣ ś:ḥtp nčr grḥ
-# annotator = Haleli Hareil.
+# annotator = Haleli Harel.
 1-2	šśp-tw	_	_	_	_	_	_	_	Hiero=𓊏𓊪(𓀜:𓏏𓏲)
 1	šśp	šśp	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Pres|VerbClass=2lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓊏𓊪𓀜|Hierocl=𓀜|ID=157160|Trans=Yes
 2	tw	tw	NOUN	_	Gender=Masc|Impersonal=Man|Number=Sing	1	nsubj	_	Hiero=𓏏𓏲|ID=170100
@@ -60038,7 +60038,7 @@
 # place = Thebes
 # TLA = IBUBdWOU6AMW70klrLYr1yrhT4g
 # text = pꜣ ꞽnr n nč̣ msṭm.t . pꜣ nčr-ꜥꜣ n.tꞽ m tꜣ p.t . tꜣ s.t-ḥms n wꜥ.w ẖn<n>.w . ḫrw r(m)č m-sꜣ ꞽḥ(.w) tꜣ ḫꜣ(.t) n.tꞽ bn {sw} <st> (ḥr) ḳṭ . pḥ tw n rn nb
-# annotator = Haleli Hareil.
+# annotator = Haleli Harel.
 1	pꜣ	pꜣ	DET	_	Gender=Masc|Number=Sing|PronType=Art	2	det	_	Definite=Def|Hiero=𓅯𓄿|ID=58770
 2	ꞽnr	ꞽnr	NOUN	_	Gender=Masc|Number=Sing	36	vocative	_	Hiero=𓇋(𓈖:𓂋)𓊌|Hierocl=𓊌|ID=27560
 3	n	n	ADP	_	Case=Gen|StatPrep=Cons	4	case	_	Hiero=𓈖|ID=79800
@@ -60094,7 +60094,7 @@
 # place = Thebes
 # TLA = IBUBd2ruZVTnXUSir2QFlNWDoZg
 # text = pꜣ grḥ (ꞽ)n tw.tw m šm.t (r) ꞽsḳꜣ ⸗ꞽ ḥnꜥ ⸗st
-# annotator = Haleli Hareil.
+# annotator = Haleli Harel.
 1	pꜣ	pꜣ	DET	_	Gender=Masc|Number=Sing|PronType=Art	2	det	_	Definite=Def|Hiero=𓅯𓄿|ID=58770
 2	grḥ	grḥ	NOUN	_	Gender=Masc|Number=Sing	6	vocative	_	Hiero=(𓎼:𓂋)𓎛𓇰|Hierocl=𓇰|ID=167920
 3	(ꞽ)n	ꞽn	PART	_	PartType=Int	6	advmod:q	_	Hiero=𓈖|ID=26680
@@ -60118,7 +60118,7 @@
 # place = Thebes
 # TLA = IBUBd7dhAqTkbk1lj76A2OL77RM; IBUBd9AHxsQbJkq4s3pXTLclRCw; IBUBd7RTZpjYnU5CkSyTDUJu8kU
 # text = ꞽś ntk wꜥb ntk ḥm-nčr ntk fꜣ.y-mhn.w
-# annotator = Haleli Hareil.
+# annotator = Haleli Harel.
 1	ꞽś	ꞽś	PART	_	PartType=Int	3	advmod:q	_	Hiero=𓇋𓋴|ID=31140
 2	ntk	ntk	PRON	_	Gender=Masc|Number=Sing|Person=2|PronClass=Ind|PronType=Prs	3	nsubj	_	Hiero=(𓈖:𓏏:𓎢)|ID=90120
 3	wꜥb	wꜥb	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓃂𓈗|Hierocl=𓈗|ID=44460
