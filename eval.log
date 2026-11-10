@@ -1,17 +1,17 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Egyptian-PC:
-commit a32528c5974493499923ec70668c2114362ffc91
-Merge: 2bed7db 9684536
+commit 5199d547f064b13a07fa0336c26ef755411dc6f6
+Merge: fca8538 e1b0c23
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'egy_pc'
 Language code (from CoNLL-U file name) = 'egy'
 Found the following data files: egy_pc-ud-dev.conllu, egy_pc-ud-test.conllu, egy_pc-ud-train.conllu
-Size: counted 34234 of 34234 words (nodes).
-Size: min(0, log((N/1000)**2)) = 7.06643860454694.
+Size: counted 42926 of 42926 words (nodes).
+Size: min(0, log((N/1000)**2)) = 7.51895540591895.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -19,11 +19,11 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 33371 out of 34234 total words have one or more features.
+Features: 41949 out of 42926 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Genres: found 4 out of 18 known.
+Genres: found 5 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang egy --max-err=10 UD_Egyptian-PC/egy_pc-ud-dev.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang egy --max-err=10 UD_Egyptian-PC/egy_pc-ud-test.conllu
@@ -32,12 +32,12 @@ Genres: found 4 out of 18 known.
 *** PASSED ***
 Validity: 1
 (weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
-(weight=0.111111111111111) * (score{genres}=0.222222222222222) = 0.0246913580246914
+(weight=0.111111111111111) * (score{genres}=0.277777777777778) = 0.0308641975308642
 (weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
-(weight=0.37037037037037) * (score{size}=0.511485882110476) = 0.189439215596472
+(weight=0.37037037037037) * (score{size}=0.544240140411204) = 0.20157042237452
 (weight=0.0740740740740741) * (score{split}=0.67) = 0.0496296296296296
 (weight=0.111111111111111) * (score{tags}=0.941176470588235) = 0.104575163398693
 (weight=0.111111111111111) * (score{udeprels}=0.918918918918919) = 0.102102102102102
-(TOTAL score=0.692659690973811) * (availability=1) * (validity=1) = 0.692659690973811
+(TOTAL score=0.710963737258031) * (availability=1) * (validity=1) = 0.710963737258031
 STARS = 3.5
-UD_Egyptian-PC	0.692659690973811	3.5
+UD_Egyptian-PC	0.710963737258031	3.5
