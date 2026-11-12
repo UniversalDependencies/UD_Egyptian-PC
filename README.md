@@ -52,7 +52,7 @@ This work received support from the CA21167 COST action UniDive, funded by COST 
 - Daniel Zeman (Charles University): Co-initiator and editor.
 - Bruno Guillaume (Université de Lorraine, CNRS, Inria, LORIA): Editor.
 - Valentina Anselmi (University of Pennsylvania): Annotator of Middle Egyptian texts.
-- Halely Harel (Berlin-Brandenburg Academy of Sciences and Humanities): Annotator of Late Egyptian texts.
+- Haleli Harel (Berlin-Brandenburg Academy of Sciences and Humanities): Annotator of Late Egyptian texts.
 - Johannes Nikolaus Heinrich Schmitt (University of Heidelberg): Annotator of Demotic texts.
 
 # Reference
